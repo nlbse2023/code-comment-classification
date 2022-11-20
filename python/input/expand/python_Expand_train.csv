@@ -1,0 +1,339 @@
+,comment_sentence,partition,category
+1260,it does not enforce a specific memcache library,0,Expand
+1261,"read the python files, looking for a class called migration, which should",0,Expand
+1262,the ability to restrict assignment to only existing keys.,0,Expand
+1263,the object using set list.,0,Expand
+1264,create an booleanarray with func pandas^array,0,Expand
+1265,"attr offsets , if those are not none .",0,Expand
+1266,int maxlength,0,Expand
+1267,"a database session store, that handles updating the account id column",0,Expand
+1268,"target math c or math n, c , label targets padded by 1 ensuring same shape as the input.",0,Expand
+1269,uses fact that table is reflected by sqlalchemy to,0,Expand
+1270,triangular a basic triangular cycle without amplitude scaling.,0,Expand
+1271,the provided location.,0,Expand
+1272,if attr reduction is not none,0,Expand
+1273,spatial dimensions.,0,Expand
+1274,a data type sanity check,0,Expand
+1275,diagonaltensor represents a 2d tensor with n rows and columns that has,0,Expand
+1276,"therefore, it is necessary to cache the values in a temporary",0,Expand
+1277,and output math y which is a 2d tensor of target class indices .,0,Expand
+1278,"weight tensor the learnable weights of the module of shape num embeddings, embedding dim",0,Expand
+1279,new migration.,0,Expand
+1280,this also adds a working keys function.,0,Expand
+1281,it will be treated as a concatenation of multiple bags sequences .,0,Expand
+1282,starts at the front.,0,Expand
+1283,"the make list filter can destroy existing escaping, so the results are",0,Expand
+1284,the server response objects are annotated with the details,0,Expand
+1285,"consider a batched attr input tensor of shape math n, c, ,",0,Expand
+1286,where math n is the batch size.,0,Expand
+1287,it s responsible for both mutating the in memory model state,0,Expand
+1288,"like categorical, it might have an order, but numerical operations",0,Expand
+1289,evaluation.,0,Expand
+1290,"pd^array this is , some text , none, data.",0,Expand
+1291,nesterov momentum is based on the formula from,0,Expand
+1292,it s possible to trade off recall and precision by adding weights to positive examples.,0,Expand
+1293,"categories c , b , a",0,Expand
+1294,.,0,Expand
+1295,these can be looped over and rendered like normal widgets.,0,Expand
+1296,"its clean method takes a decompressed list of values, which are then",0,Expand
+1297,"math in channels c in , out channels c in times k, .",0,Expand
+1298,"a structured way what variables exist, what their legal values are,",0,Expand
+1299,categorical will be unordered.,0,Expand
+1300,a tree structure.,0,Expand
+1301,multiple keys so accessing any one of the items in the original,0,Expand
+1302,"map, is also maintained and stores an ordered list of",0,Expand
+1303,this uses uninstallpathset to control the workflow.,0,Expand
+1304,notany does not advance the parsing position within the,0,Expand
+1305,"of attr input into a column ie, last dimension of a 3 d attr output",0,Expand
+1306,until the eof token is reached.,0,Expand
+1307,l n w n left y n cdot log sigma x n,0,Expand
+1308,all keys are expected to be strings.,0,Expand
+1309,returns,0,Expand
+1310,where math hat x is the estimated statistic and math x t is the,0,Expand
+1311,the permissions listed above are automatically created for each model.,0,Expand
+1312,are set correctly in requestfactory.,0,Expand
+1313,note that the targets t i should be numbers,0,Expand
+1314,each sliding attr kernel size sized block within the spatial dimensions,0,Expand
+1315,the tests make assertions on internal attributes because there isn t a,0,Expand
+1316,not skip over leading whitespace.,0,Expand
+1317,"ci pd^categoricalindex a , b , c , a , b , c , ordered true,",0,Expand
+1318,diagonal entries set to value and all other entries set to zero.,0,Expand
+1319,"pipe, all calls and attributes are proxied.",0,Expand
+1320,to indicate all weights should be taken to be 1 .,0,Expand
+1321,"which returns a list for every key, even though most web forms submit",0,Expand
+1322,this list is cleaned by the corresponding field the first value is,0,Expand
+1323,"constructor, yield chunks of read operations from that object.",0,Expand
+1324,obtain the response that the server gave to those requests.,0,Expand
+1325,see,0,Expand
+1326,"submodules assigned in this way will be registered, and will have their",0,Expand
+1327,func pandas^array specifying dtype boolean see examples,0,Expand
+1328,and what their defaults are and what they are for.,0,Expand
+1329,"pd^array 1, none, 3 , dtype uint16",0,Expand
+1330,the operator is the same as operator.,0,Expand
+1331,this is used for measuring the error of a reconstruction in for example,0,Expand
+1332,op bench it s a user defined class child of caffe2benchmarkbase,0,Expand
+1333,"samples are nonnegative integers, with a pmf given by",0,Expand
+1334,"all magics are eventually merged into a single namespace at runtime, but we",0,Expand
+1335,ordered,0,Expand
+1336,a,0,Expand
+1337,the same key.,0,Expand
+1338,a custom cache backend that otherwise inherits from a builtin,0,Expand
+1339,math left lfloor frac out channels in channels right rfloor .,0,Expand
+1340,of the contexts and templates that were rendered during the,0,Expand
+1341,subclass of keyerror .,0,Expand
+1342,"default, which can be changed by setting the delimiter argument to",0,Expand
+1343,if the inner block,0,Expand
+1344,"output math n, c or math n, c, l same shape as input",0,Expand
+1345,the,0,Expand
+1346,the number of output features is equal to the number of input planes.,0,Expand
+1347,"function get single internal self, i",0,Expand
+1348,we adopt the same interface as class torch^nn.quantized^conv3d .,0,Expand
+1349,"tensor of shape math n, c times prod text kernel size , l , where",0,Expand
+1350,will contain case sensitive keys.,0,Expand
+1351,"cleaned by the first field, the second value is cleaned by the second",0,Expand
+1352,and implement the following,0,Expand
+1353,a default value which can be set through the default attribute.,0,Expand
+1354,pd^intervaldtype subtype int64,0,Expand
+1355,this locator uses pypi s json interface.,0,Expand
+1356,"in the simplest case, the output value of the layer with input size math n, c in , d, h, w",0,Expand
+1357,default is 05,0,Expand
+1358,of size c where c is the input size .,0,Expand
+1359,the only difference is,0,Expand
+1360,whether or not this categorical is treated as an ordered,0,Expand
+1361,"1 y n,c cdot log 1 sigma x n,c right ,",0,Expand
+1362,as actually performing it against a live database.,0,Expand
+1363,math c times prod text kernel size is the total number of values,0,Expand
+1364,"therefore,",0,Expand
+1365,must have exactly the same shape as input and is treated as having the same,0,Expand
+1366,bias tensor the learnable bias of the module of shape out channels .,0,Expand
+1367,"of attr input math above , and math d is over all spatial",0,Expand
+1368,"math n, c, l or math l from input of size math n, l",0,Expand
+1369,"l n,c w n,c left p c y n,c cdot log sigma x n,c",0,Expand
+1370,return the length,0,Expand
+1371,equality of two features.,0,Expand
+1372,inherited classes should implement the modify net method where,0,Expand
+1373,int minlength,0,Expand
+1374,"in the lookahead expression, those will be returned for access by",0,Expand
+1375,the loss would act as if the dataset contains math 3 times 100 300 positive examples.,0,Expand
+1376,related operators are added to the net.,0,Expand
+1377,math k frac 1 c text in prod i 0 ^ 2 text kernel size i,0,Expand
+1378,the criterion only considers a contiguous block of non negative targets that,0,Expand
+1379,that wouldn t work in real life.,0,Expand
+1380,"where math n is the batch dimension, math c is the channel dimension,",0,Expand
+1381,"backend, and override the default key validation.",0,Expand
+1382,"modules can also contain other modules, allowing to nest them in",0,Expand
+1383,then the values of these weights are,0,Expand
+1384,"in other words, for an input of size math n, c in , d in , h in , w in ,",0,Expand
+1385,modifications on environments after the first template was loaded,0,Expand
+1386,configuration data can be nested by including a dictionary of further,0,Expand
+1387,this allows for different samples to have variable amounts of target classes.,0,Expand
+1388,attribute style access.,0,Expand
+1389,represented by 2 numpy arrays a boolean array with the data and,0,Expand
+1390,the total number of such blocks,0,Expand
+1391,"text dilation d times text kernel size d 1 1 text stride d 1 right rfloor,",0,Expand
+1392,may be constructed using the operator.,0,Expand
+1393,only supported for mode sum .,0,Expand
+1394,actual interpretation and,0,Expand
+1395,for each sample in the mini batch,0,Expand
+1396,"categoricalindex a , b , c , a , b , c , categories c , b , a , ordered true, dtype category # noqa",0,Expand
+1397,style access.,0,Expand
+1398,"categories sequence, optional",0,Expand
+1399,as ordered,0,Expand
+1400,it contains,0,Expand
+1401,be run by a session.,0,Expand
+1402,inside the custom session model.,0,Expand
+1403,"internally, items are stored in a doubly linked list, self.",0,Expand
+1404,"out n i, c out j bias c out j",0,Expand
+1405,type or tuple allowed,0,Expand
+1406,"additions, divisions, .",0,Expand
+1407,"also,",0,Expand
+1408,for bar plot layout by position keyword.,0,Expand
+1409,triangular2 a basic triangular cycle that scales initial amplitude by half each cycle.,0,Expand
+1410,"so if a and b are the same feature,",0,Expand
+1411,"if attr track running stats is set to false , this layer then does not",0,Expand
+1412,the running estimates are kept with a default attr momentum,0,Expand
+1413,"vertex by vertex, the operator returns true.",0,Expand
+1414,globals and others.,0,Expand
+1415,do better type conversions.,0,Expand
+1416,store any unstored,0,Expand
+1417,"protection of class members like keys, items when using attribute",0,Expand
+1418,example in the numpy documentation.,0,Expand
+1419,"different types of objects, set list must distinguish",0,Expand
+1420,this class has limited utility and is mostly useful for verifying that the,0,Expand
+1421,process of serving the request.,0,Expand
+1422,overloaded operators.,0,Expand
+1423,ordered categoricalindex can have a min and max value.,0,Expand
+1424,"subtype str, np^dtype",0,Expand
+1425,this will be swapped as nnq^dequantize in convert .,0,Expand
+1426,does not match at the current position.,0,Expand
+1427,all parameters are passed onwards to the parameter constructor.,0,Expand
+1428,center,0,Expand
+1429,"operatorname mean l , & text if reduction text mean",0,Expand
+1430,"may also be constructed using the operator, which will",0,Expand
+1431,metadata handler for standalone pkg info files,0,Expand
+1432,in the case of multi label classification the loss can be described as,0,Expand
+1433,"if attr bias is true ,",0,Expand
+1434,"assigning the width height to the width field height field, if appropriate.",0,Expand
+1435,"important shared variables like configuration, filters, tests,",0,Expand
+1436,between 0 and 1.,0,Expand
+1437,the categories for the categorical.,0,Expand
+1438,"if the categories are not given here and also not in dtype , they",0,Expand
+1439,"implementation , there are only a few basic tests with the decorator",0,Expand
+1440,are not possible.,0,Expand
+1441,returned vectors filled by zeros.,0,Expand
+1442,rendering of events should be handled by the respective source class.,0,Expand
+1443,when this object is returned by an input cell or passed to the,0,Expand
+1444,a dict subclass with attribute style access.,0,Expand
+1445,the maximum legal length optional,0,Expand
+1446,this is used by the quantization utility functions to add the quant and,0,Expand
+1447,"integerarray is currently experimental, and its api or internal",0,Expand
+1448,booleanarray,0,Expand
+1449,as unordered,0,Expand
+1450,set the single item at index i to value optional,0,Expand
+1451,none,0,Expand
+1452,of the python interpreter.,0,Expand
+1453,from 0 left bottom end to 1 right top end .,0,Expand
+1454,notably ^flush is always called on,0,Expand
+1455,regression tests for #8551 and #17067 ensure that environment variables,0,Expand
+1456,samples are one hot coded vectors of size probs^size 1 .,0,Expand
+1457,an auto encoder.,0,Expand
+1458,these are loaded into a separate set of migrations away from the main ones.,0,Expand
+1459,having b bags.,0,Expand
+1460,inherit from django^db.migrations^migration.,0,Expand
+1461,"ell x, y l l 1, dots,l n ^ top, quad",0,Expand
+1462,"linked list node references, one for each value associated with that key.",0,Expand
+1463,this dict subclass has a a few extra features,0,Expand
+1464,"input math n, c or math n, c, l",0,Expand
+1465,shape,0,Expand
+1466,"operatorname sum l , & text if reduction text sum .",0,Expand
+1467,return single item with index i for general use.,0,Expand
+1468,the minimum legal length optional,0,Expand
+1469,"this provider rejects all data and metadata requests except for pkg info,",0,Expand
+1470,"in addition to the values added by widget^get context , this widget",0,Expand
+1471,escaped.,0,Expand
+1472,"categoricalindex a , b , c , a , b , c , categories a , b , c , ordered false, dtype category # noqa",0,Expand
+1473,each error in the report has an error message and a backtrace.,0,Expand
+1474,"initialized from math mathcal n 0, 1 .",0,Expand
+1475,syntax and the bulk of the tests use the context manager syntax.,0,Expand
+1476,integerarray,0,Expand
+1477,name.,0,Expand
+1478,at each cycle iteration.,0,Expand
+1479,"field, etc once all fields are cleaned, the list of clean values is",0,Expand
+1480,math,0,Expand
+1481,"int array pd^array 1, none, 3 , dtype pd^int32dtype",0,Expand
+1482,"for comparison methods, this returns a class pandas^booleanarray",0,Expand
+1483,"keys , items , iterkeys , and iteritems",0,Expand
+1484,methods,0,Expand
+1485,pass them between functions all the time.,0,Expand
+1486,see ref boolean^kleene for more.,0,Expand
+1487,"math hat x text new 1 text momentum times hat x text momentum times x t ,",0,Expand
+1488,"case of the last key to be set, and iter instance ,",0,Expand
+1489,"clauses which are subclasses, however, all processing and validation by no",0,Expand
+1490,between the two and handle each appropriately.,0,Expand
+1491,categories,0,Expand
+1492,below .,0,Expand
+1493,map,0,Expand
+1494,"dequantize stub module, before calibration, this is same as identity,",0,Expand
+1495,derived classes must call listmixin s init function,0,Expand
+1496,starting index positions of each bag in attr input .,0,Expand
+1497,within each block a block has math prod text kernel size spatial,0,Expand
+1498,on the importance of initialization and momentum in deep learning .,0,Expand
+1499,some migrations will be marked as replacing another set of migrations.,0,Expand
+1500,"it will be treated as b bags sequences each of fixed length n , and",0,Expand
+1501,"text loss x, y sum ij frac max 0, 1 x y j x i text x^size 0",0,Expand
+1502,"keep running estimates, and batch statistics are instead used during",0,Expand
+1503,"if attr reduction is none , then math n .",0,Expand
+1504,create a non integer automatically generated field using column defaults,0,Expand
+1505,"keys can be bare unquoted , or quoted using basic , or literal",0,Expand
+1506,"this class does many things, but the basic idea is that it is a callable",0,Expand
+1507,attributes,0,Expand
+1508,"if attr input is 2d of shape b, n ,",0,Expand
+1509,their own class.,0,Expand
+1510,no more reads are allowed from this device.,0,Expand
+1511,"mathematically, the",0,Expand
+1512,"also, notany does",0,Expand
+1513,"output math n, c times prod text kernel size , l as described above",0,Expand
+1514,ensure only one instance of each alias exists per thread.,0,Expand
+1515,exp range a cycle that scales initial amplitude by math text gamma ^ text cycle iterations,0,Expand
+1516,given a file like object as the,0,Expand
+1517,"tasks are executed in the context of a taskgroup, which, in turn, can",0,Expand
+1518,of 01.,0,Expand
+1519,"if attr reduction is none , then math n, , same",0,Expand
+1520,django^db.migrations^migration for what that looks like.,0,Expand
+1521,type for categorical data with the categories and orderedness.,0,Expand
+1522,messages in each subsequent backend.,0,Expand
+1523,"function set single self, i, value",0,Expand
+1524,replicated across all spatial dimensions.,0,Expand
+1525,categories will be replaced with nan.,0,Expand
+1526,where math text spatial size is formed by the spatial dimensions,0,Expand
+1527,there are two types of frame,0,Expand
+1528,key.,0,Expand
+1529,"1 y n cdot log 1 sigma x n right ,",0,Expand
+1530,tummy s memcache or cmemcache but will accept any class that provides,0,Expand
+1531,of the subclass,0,Expand
+1532,the values of these weights are sampled from,0,Expand
+1533,a default value,0,Expand
+1534,"target math n, , same shape as the input",0,Expand
+1535,"files, etc.",0,Expand
+1536,will lead to surprising effects and undefined behavior.,0,Expand
+1537,temp list items,0,Expand
+1538,"decorated function in the instance itself, used as a context manager.",0,Expand
+1539,evaluation time as well.,0,Expand
+1540,stored in the database.,0,Expand
+1541,"default mean , then",0,Expand
+1542,"categories index like, optional",0,Expand
+1543,"pd^array 1, none, 3 , dtype int32",0,Expand
+1544,iterate over the stream,0,Expand
+1545,they can be safely reused.,0,Expand
+1546,each variable definition expects three values,0,Expand
+1547,a boolean array with the mask true indicating missing .,0,Expand
+1548,"t pd^categoricaldtype categories b , a , ordered true",0,Expand
+1549,"apps and calls migrate, then verifies that the table has been created.",0,Expand
+1550,the structure remembers the,0,Expand
+1551,expressions may be separated by whitespace.,0,Expand
+1552,"the output is of size d x h x w, for any input size.",0,Expand
+1553,"input math c or math n, c where n is the batch size and c",0,Expand
+1554,cleaned into a single value according to self^fields.,0,Expand
+1555,thus session details for the lifetime of the client instance.,0,Expand
+1556,"ell c x, y l c l 1,c , dots,l n,c ^ top, quad",0,Expand
+1557,robust way to ask the database for its current transaction state.,0,Expand
+1558,"which is treated as existing, and will be the contents of the file at",0,Expand
+1559,the unreduced ie with attr reduction set to none loss can be described as,0,Expand
+1560,"see db migrations state^py to represent what it performs, as well",0,Expand
+1561,items.,0,Expand
+1562,"exits correctly, the uninstallation is committed, otherwise rolled back.",0,Expand
+1563,"on initialization, this class will scan those directories, and open and",0,Expand
+1564,list like object returns the matching value,0,Expand
+1565,"function get single external self, i",0,Expand
+1566,with the pytorch dispatch system happens via the torch function,0,Expand
+1567,note items may be a generator which calls get single internal.,0,Expand
+1568,subtype,0,Expand
+1569,similarly,0,Expand
+1570,function len self,0,Expand
+1571,behave identically.,0,Expand
+1572,"this is a pandas extension array for boolean data, under the hood",0,Expand
+1573,attr offsets is ignored and required to be none in this case.,0,Expand
+1574,this test creates two dummy,0,Expand
+1575,"if attr input is 1d of shape n ,",0,Expand
+1576,before clobbering the original storage.,0,Expand
+1577,all dict methods that retain parity with omdict are,0,Expand
+1578,"mask a boolean array holding a mask on the data, true is missing",0,Expand
+1579,this wrapper is used to catch and suppress brokenpipeerrors resulting,0,Expand
+1580,"if categories are given, values not in",0,Expand
+1581,use this class to isolate the magics defined dynamically by the user into,0,Expand
+1582,"dictionary, self.",0,Expand
+1583,they are not shared and if no template was loaded so far.,0,Expand
+1584,it to mark it safe without escaping.,0,Expand
+1585,"if specified, attr per sample weights",0,Expand
+1586,"computed mean and variance, which are then used for normalization during",0,Expand
+1587,if the categories do not validate.,0,Expand
+1588,func pandas^array with one of the integer dtypes see examples .,0,Expand
+1589,instances of this class may be modified if,0,Expand
+1590,the prefix is delimited from the template by a slash per,0,Expand
+1591,you can assign the submodules as regular attributes,0,Expand
+1592,it is intended that autofieldmixin become public api when it is possible to,0,Expand
+1593,this makes sure that views can t do anything under the test client,0,Expand
+1594,for dequantstub .,0,Expand
+1595,if an explicit ordered true is given but no categories and the,0,Expand
+1596,"each retry attempt will create a new retry object with updated values, so",0,Expand
+1597,adds a list of subwidgets to the context as widget subwidgets .,0,Expand

@@ -1,0 +1,321 @@
+,comment_sentence,partition,category
+1598,a simple class to upload checkpoints.,0,Summary
+1599,the base class for all migrations.,0,Summary
+1600,"layers side by side, each seeing half the input channels,",0,Summary
+1601,encrypteddict which only deals in signed 64 bit int values.,0,Summary
+1602,base view for updating an existing object.,0,Summary
+1603,overwrite existing files instead of appending a suffix to generate an,0,Summary
+1604,applies a 3d adaptive max pooling over an input signal composed of several input planes.,0,Summary
+1605,"a database session store, that handles updating the account id column",0,Summary
+1606,spatialrefsys objects to reduce redundant code.,0,Summary
+1607,base class used for all tensorboard tests,0,Summary
+1608,this class and its subclasses are responsible for emitting schema changing,0,Summary
+1609,"error raised when attempting to get a slice of a multiindex,",0,Summary
+1610,a context manager to remove a package for the inner block.,0,Summary
+1611,"the parameters attr kernel size , attr stride , attr padding , attr dilation can either be",0,Summary
+1612,"a single int in which case the same value is used for the depth, height and width dimension",0,Summary
+1613,and output math y which is a 2d tensor of target class indices .,0,Summary
+1614,it has been proposed in adam a method for stochastic optimization .,0,Summary
+1615,a container class used for iterating over widgets.,0,Summary
+1616,"a form that creates a user, with no privileges, from the given username and",0,Summary
+1617,inputs with optional additional channel dimension as described in the paper,0,Summary
+1618,arguments are positional parameters to a command.,0,Summary
+1619,"a wrapper class that wraps the input module, adds quantstub and",0,Summary
+1620,model where the validation of child foreign key relationships depends,0,Summary
+1621,lock file creation failed for some other reason.,0,Summary
+1622,accessor to the related objects manager on the one to many relation created,0,Summary
+1623,generates a tree structure from a stream of possibly malformed html.,0,Summary
+1624,on the accept encoding header.,0,Summary
+1625,a form that replaces the model s url field with a custom one.,0,Summary
+1626,"store messages in the session that is, django^contrib.sessions .",0,Summary
+1627,warned when certain ssl configuration is not available on a platform.,0,Summary
+1628,checks build type.,0,Summary
+1629,"the input string, it only verifies that the specified parse",0,Summary
+1630,extension array for string data.,0,Summary
+1631,the second tab shows a windows command line equivalent of the usual,0,Summary
+1632,.,0,Summary
+1633,metaclass for all validators,0,Summary
+1634,run tests and record everything but don t display anything.,0,Summary
+1635,table column fields,0,Summary
+1636,the permissions system provides a way to assign permissions to specific,0,Summary
+1637,file upload handler to stream uploads into memory used for small files .,0,Summary
+1638,for the proxied model as described in #12286 .,0,Summary
+1639,signature does not match.,0,Summary
+1640,multiplies the left with the right node.,0,Summary
+1641,an adapter class for cursor variables that prevents the wrapped object,0,Summary
+1642,for mapping pandas tables to sql tables.,0,Summary
+1643,exception for invalid headers.,0,Summary
+1644,the network can t be sought and cannot be read outside of its content,0,Summary
+1645,an op namespace to dynamically bind operators into python.,0,Summary
+1646,"an invalid version was found, users should refer to pep 440.",0,Summary
+1647,aggregate the logic of multiple fields.,0,Summary
+1648,are set correctly in requestfactory.,0,Summary
+1649,a restructuredtext directive which renders a two tab code block in which,0,Summary
+1650,manage resource extraction and packages,0,Summary
+1651,collect last n samples from input record.,0,Summary
+1652,a thin wrapper around an existing file object that,0,Summary
+1653,same key.,0,Summary
+1654,cache a candidate s requires python information.,0,Summary
+1655,"output of that method, marking it safe.",0,Summary
+1656,more than one migration matches a name prefix.,0,Summary
+1657,colors in terminals.,0,Summary
+1658,"this broker tries to auto upgrade connections to use tls, or at",0,Summary
+1659,a wrapper around bytesio that restricts what can be read since data from,0,Summary
+1660,tests for the ability to mixin a custom validate key method to,0,Summary
+1661,to a prefix.,0,Summary
+1662,the operator is the same as operator.,0,Summary
+1663,"wsgi middleware that intercepts calls to the static files directory, as",0,Summary
+1664,lazy loading of moved objects,0,Summary
+1665,functionality.,0,Summary
+1666,model subclass with a custom base using metaclass.,0,Summary
+1667,password.,0,Summary
+1668,sanitizes token stream of xhtml mathml svg and of inline style attributes,0,Summary
+1669,array of integer optional missing values.,0,Summary
+1670,"structured parse results, to provide multiple means of access to",0,Summary
+1671,implement n largest smallest for series,0,Summary
+1672,the same key.,0,Summary
+1673,compatibility shim for the urlparse^parseresultbytes object.,0,Summary
+1674,a custom cache backend that otherwise inherits from a builtin,0,Summary
+1675,allows for arbitrary requests while transparently keeping track of,0,Summary
+1676,math left lfloor frac out channels in channels right rfloor .,0,Summary
+1677,a name was attempted to be used that does not exist inside of the,0,Summary
+1678,"statements to the databases model creation removal alteration, field",0,Summary
+1679,the parsed data,0,Summary
+1680,tests that the basic interface is satisfied.,0,Summary
+1681,a stack container for variable context,0,Summary
+1682,ordered multivalue dictionary.,0,Summary
+1683,a subclass of dictionary customized to handle multiple values for the,0,Summary
+1684,validator.,0,Summary
+1685,containing the exact bytes that will be sent to the server.,0,Summary
+1686,dictionary from multiprocessing handles to storageweakref,0,Summary
+1687,this version is more numerically stable than using a plain sigmoid,0,Summary
+1688,sets the learning rate of each parameter group according to,0,Summary
+1689,password hashing using unix crypt not recommended,0,Summary
+1690,the path type is similar to the class file type but it performs,0,Summary
+1691,abstract base level parser element class.,0,Summary
+1692,stub of an appconfig.,0,Summary
+1693,invalid to field was passed to admin view via url query string,0,Summary
+1694,yellowfin an automatic tuner for momentum sgd,0,Summary
+1695,a cache handler to manage access to cache instances.,0,Summary
+1696,users and groups of users.,0,Summary
+1697,object serving as a base class for all engines.,0,Summary
+1698,"just like the filedescriptor, but for imagefields.",0,Summary
+1699,view groups,0,Summary
+1700,"rate between two boundaries with a constant frequency, as detailed in",0,Summary
+1701,this usually means the child has exited.,0,Summary
+1702,loads templates from the file system.,0,Summary
+1703,# use followedby to match a label only if it is followed by a,0,Summary
+1704,equality of two features.,0,Summary
+1705,this object provides sequence like access to the logical ancestors,0,Summary
+1706,unix oriented examples.,0,Summary
+1707,a rfc2388 multipart form data parser.,0,Summary
+1708,modifications on environments after the first template was loaded,0,Summary
+1709,a string that is ready to be safely inserted into an html or xml,0,Summary
+1710,"implements l bfgs algorithm, heavily inspired by minfunc",0,Summary
+1711,creates a criterion that optimizes a multi class multi classification,0,Summary
+1712,pads the input tensor boundaries with a constant value.,0,Summary
+1713,a service specific account of type bar.,0,Summary
+1714,load migration files from disk and their status from the database.,0,Summary
+1715,provide the ability to combine one or two objects with,0,Summary
+1716,general exception for extract errors.,0,Summary
+1717,a collection of errors that knows how to display itself in various formats.,0,Summary
+1718,patch the sqltable for fallback support.,0,Summary
+1719,class.,0,Summary
+1720,dateoffset increments between business year begin dates.,0,Summary
+1721,struct in wincon^h.,0,Summary
+1722,"document, either because it was escaped or because it was marked",0,Summary
+1723,in the toml being parsed.,0,Summary
+1724,tests for nestedobject utility collection.,0,Summary
+1725,safe.,0,Summary
+1726,"provides cookie persistence, connection pooling, and configuration.",0,Summary
+1727,this loader can find templates,0,Summary
+1728,there are two cookies that meet the criteria specified in the cookie jar.,0,Summary
+1729,different checks.,0,Summary
+1730,"so if a and b are the same feature,",0,Summary
+1731,an ordered multivalue dictionary is a multivalue dictionary that,0,Summary
+1732,keep track of how many form instances are displayed on the page.,0,Summary
+1733,"vertex by vertex, the operator returns true.",0,Summary
+1734,globals and others.,0,Summary
+1735,occurs if django tries to update a session that was deleted.,0,Summary
+1736,connect to a waiting gui o matic gui,0,Summary
+1737,"a class representing an in package resource, such as a data file.",0,Summary
+1738,server s response to an http request.,0,Summary
+1739,each error is a section in the output of cuda memcheck.,0,Summary
+1740,concatenated.,0,Summary
+1741,intermediate embeddings.,0,Summary
+1742,of the migration file from it.,0,Summary
+1743,attr logits .,0,Summary
+1744,used in the tests for the database argument in signals #13552,0,Summary
+1745,"add a lines to a vcard, ensuring vcard exists",0,Summary
+1746,this will be swapped as nnq^dequantize in convert .,0,Summary
+1747,component wise to each submatrix at dim,0,Summary
+1748,the paper cyclical learning rates for training neural networks .,0,Summary
+1749,by genericrelation.,0,Summary
+1750,necessary for iterating through self^layers and dropout support,0,Summary
+1751,the template context holds the variables of a template.,0,Summary
+1752,wraps an exception plus traceback to communicate across threads,0,Summary
+1753,move an auto tagging rule,0,Summary
+1754,the type of a key.,0,Summary
+1755,necessary connection pools for you.,0,Summary
+1756,metadata handler for standalone pkg info files,0,Summary
+1757,token for skipping over all undefined text until the matched,0,Summary
+1758,"important shared variables like configuration, filters, tests,",0,Summary
+1759,this is like pexpect^spawn but allows you to supply your own open file,0,Summary
+1760,convert a queryset to json.,0,Summary
+1761,an input splitter that recognizes all of ipython s special syntax.,0,Summary
+1762,context class to allow setting the current context.,0,Summary
+1763,an extensiondtype for interval data.,0,Summary
+1764,hold methods for the nonconsolidatable blocks,0,Summary
+1765,a simple lru cache implementation.,0,Summary
+1766,"a base class for distributions, whether installed or from indexes.",0,Summary
+1767,cyclical learning rate policy clr .,0,Summary
+1768,lookahead matching of the given parse expression.,0,Summary
+1769,the policy cycles the learning,0,Summary
+1770,a cli command.,0,Summary
+1771,try to collide a hash using the smtorp algorithm,0,Summary
+1772,buckets are used to store the bytecode for one template.,0,Summary
+1773,a graph structure with directed edges.,0,Summary
+1774,a dict subclass with attribute style access.,0,Summary
+1775,a case insensitive dict like object.,0,Summary
+1776,raises an error if a key is seen more than once.,0,Summary
+1777,represent the digraph of all migrations in a project.,0,Summary
+1778,the custom ipython displayhook to replace sys^displayhook.,0,Summary
+1779,provides a part of its data as an individual file,0,Summary
+1780,a token that will never match.,0,Summary
+1781,creates a fisher snedecor distribution parameterized by attr df1 and attr df2 .,0,Summary
+1782,raised when there is an error in command line arguments,0,Summary
+1783,implements adadelta algorithm.,0,Summary
+1784,and obj?,0,Summary
+1785,support for r bz2 and w bz2 modes.,0,Summary
+1786,storing the information.,0,Summary
+1787,of the python interpreter.,0,Summary
+1788,base class that all auth implementations derive from,0,Summary
+1789,this is myframe.,0,Summary
+1790,this combines storagebackeddata with pack unpacklonglist to pack,0,Summary
+1791,regression tests for #8551 and #17067 ensure that environment variables,0,Summary
+1792,"creates a poisson distribution parameterized by attr rate , the rate parameter.",0,Summary
+1793,was opened.,0,Summary
+1794,a date field was improperly specified.,0,Summary
+1795,and has a simple menu.,0,Summary
+1796,confused by color escapes.,0,Summary
+1797,a class with torch function and a specific diagonal representation,0,Summary
+1798,in folders on the file system and is the preferred way to load them.,0,Summary
+1799,base class for all exceptions raised by this module.,0,Summary
+1800,"its own set of filters, of size",0,Summary
+1801,placeholder for user defined magics to be added at runtime.,0,Summary
+1802,alphabetizes attributes for elements,0,Summary
+1803,"linked list node references, one for each value associated with that key.",0,Summary
+1804,transform functor that applies a sequence of transforms tseq,0,Summary
+1805,this class implements a bytecode cache that uses a memcache cache for,0,Summary
+1806,derive.,0,Summary
+1807,represents a package index and provides easier access to endpoints,0,Summary
+1808,guarantee the atomic execution of a given block.,0,Summary
+1809,raised if brokenpipeerror occurs for the stdout stream while logging.,0,Summary
+1810,tests for torchscript support of python builtin functions.,0,Summary
+1811,this error occurs when the parser encounters a syntax error,0,Summary
+1812,it reduces any sequence of such characters to a single space.,0,Summary
+1813,base pip exception,0,Summary
+1814,subclass of base display hook using coloured prompt,0,Summary
+1815,list of objects published in a given year.,0,Summary
+1816,hold a term value the we use to construct a condition filter,0,Summary
+1817,on validation of the parent,0,Summary
+1818,tests various hooks for using custom templates and contexts.,0,Summary
+1819,retains the order of insertions and deletions.,0,Summary
+1820,tests for the earliest and latest objects methods,0,Summary
+1821,a required metadata is missing,0,Summary
+1822,have some extra features that arguments don t have.,0,Summary
+1823,implements adam algorithm.,0,Summary
+1824,followedby,0,Summary
+1825,"a tuple of three ints in which case, the first int is used for the depth dimension,",0,Summary
+1826,unused name.,0,Summary
+1827,tests specific to intervalindex with datetime like subtype,0,Summary
+1828,it s created,0,Summary
+1829,the external api class that encapsulates an archive implementation.,0,Summary
+1830,"dequantize stub module, before calibration, this is same as identity,",0,Summary
+1831,"a sanity checking, self documenting dictionary of program settings.",0,Summary
+1832,base class for all query expressions.,0,Summary
+1833,implements a dict like class to query errors by indexes following the,0,Summary
+1834,a task is composed of an execution step and zero or more outputs.,0,Summary
+1835,and initialized by the bytecode cache and passed to the loading functions.,0,Summary
+1836,a model with a fk to itself.,0,Summary
+1837,utility functions for builds,0,Summary
+1838,metaclass for all models.,0,Summary
+1839,take a migration instance and is able to produce the contents,0,Summary
+1840,an internal name in the compiler.,0,Summary
+1841,memoized zipfile manifests.,0,Summary
+1842,"at groups attr in channels , each input channel is convolved with",0,Summary
+1843,no more reads are allowed from this device.,0,Summary
+1844,base class for all neural network modules.,0,Summary
+1845,creates a one hot categorical distribution parameterized by attr probs or,0,Summary
+1846,mixin to business types to provide related functions.,0,Summary
+1847,custom field file class that records whether or not the underlying file,0,Summary
+1848,color escape sequences.,0,Summary
+1849,lazy loading of moved objects in six^moves.urllib request,0,Summary
+1850,a convrelu3d module is a fused module of conv3d and relu,0,Summary
+1851,the second int for the height dimension and the third int for the width dimension,0,Summary
+1852,of a path.,0,Summary
+1853,custom distutils command subclassed from cython^distutils.build ext,0,Summary
+1854,display a single vcard,0,Summary
+1855,type for categorical data with the categories and orderedness.,0,Summary
+1856,"computes sums or means of bags of embeddings, without instantiating the",0,Summary
+1857,resource finder for resources in ^zip files.,0,Summary
+1858,key.,0,Summary
+1859,a file based cache which is safe to use even when the target directory may,0,Summary
+1860,tests the correctness of the quantized linear and linear relu op.,0,Summary
+1861,an iterable that will yield chunks of data.,0,Summary
+1862,abstract cbv mixin that gives access mixins the same customizable,0,Summary
+1863,implements adamax algorithm a variant of adam based on infinity norm .,0,Summary
+1864,access the history database without adding to it.,0,Summary
+1865,batch normalization accelerating deep network training by reducing internal covariate shift .,0,Summary
+1866,an http error occurred.,0,Summary
+1867,"files, etc.",0,Summary
+1868,a sequence of data views.,0,Summary
+1869,will lead to surprising effects and undefined behavior.,0,Summary
+1870,something for other models to point at,0,Summary
+1871,length.,0,Summary
+1872,tests for the x frame options decorators.,0,Summary
+1873,unicode set for katakana unicode character range,0,Summary
+1874,an abstraction class for supporting modifying a generated net.,0,Summary
+1875,you cannot access raw post data from a request that has,0,Summary
+1876,this is a disk backed in memory collection of vcards.,0,Summary
+1877,and plugin system to find template files.,0,Summary
+1878,the base class from which all management commands ultimately,0,Summary
+1879,django specific rest to html tweaks.,0,Summary
+1880,tests using the french translations of the sampleproject.,0,Summary
+1881,resource finder for file system resources.,0,Summary
+1882,always returns a null token list.,0,Summary
+1883,list tags,0,Summary
+1884,the exception used when a template does not exist.,0,Summary
+1885,expression matches at the current position.,0,Summary
+1886,signal subclass that allows the sender to be lazily specified as a string,0,Summary
+1887,a multivalue dictionary is a dictionary that can store multiple values per,0,Summary
+1888,this is called to decorate the set operations of intervalindex,0,Summary
+1889,a base class which provides complete list interface.,0,Summary
+1890,represents an item in the tree,0,Summary
+1891,some connector.,0,Summary
+1892,callable accessors like series^plot,0,Summary
+1893,this wrapper is used to catch and suppress brokenpipeerrors resulting,0,Summary
+1894,a connection error occurred.,0,Summary
+1895,base treebuilder implementation,0,Summary
+1896,base mock that pretends to be a poplib pop3 connection.,0,Summary
+1897,class that defines a holiday with start end dates and rules,0,Summary
+1898,a model s base classes can t be resolved.,0,Summary
+1899,a namespace must be assigned to the module s dict .,0,Summary
+1900,abstract interface to create holidays following certain rules.,0,Summary
+1901,they are not shared and if no template was loaded so far.,0,Summary
+1902,this validator mixin provides mechanics to validate schemas passed to a cerberus,0,Summary
+1903,also,0,Summary
+1904,add a success message on successful form submission.,0,Summary
+1905,proxy model inheritance across apps can result in migrate not creating the table,0,Summary
+1906,a widget that is composed of multiple widgets.,0,Summary
+1907,html parser,0,Summary
+1908,base class for errors arising from attempts to release the lock.,0,Summary
+1909,applies batch normalization over a 2d or 3d input a mini batch of 1d,0,Summary
+1910,instances of this class may be modified if,0,Summary
+1911,not be accessible or writable.,0,Summary
+1912,the tarfile class provides an interface to tar archives.,0,Summary
+1913,planes.,0,Summary
+1914,class for creating enumerated choices.,0,Summary
+1915,"it just shows a few controls on a wxpanel,",0,Summary
+1916,basic tools used by all traceback printer classes.,0,Summary
+1917,"at groups 2, the operation becomes equivalent to having two conv",0,Summary

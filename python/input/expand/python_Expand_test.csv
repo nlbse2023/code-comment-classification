@@ -1,0 +1,130 @@
+,comment_sentence,partition,category
+2403,in the frontend only works in the notebook .,1,Expand
+2404,attributes same as torch^nn.quantized^conv3d,1,Expand
+2405,"attr per index weights tensor, optional",1,Expand
+2406,"display function, it will result in audio controls being displayed",1,Expand
+2407,"when run backward is false, the run forward method will be executed, otherwise",1,Expand
+2408,values of the type specified.,1,Expand
+2409,booleanarray,1,Expand
+2410,a human readable description of what the variable is,1,Expand
+2411,main functionality of diagonaltensor is to provide a more compact,1,Expand
+2412,it is based on the diagonalarray,1,Expand
+2413,the object must be initialized with a dictionary which describes in,1,Expand
+2414,none,1,Expand
+2415,center .,1,Expand
+2416,this will return b values aggregated in a way depending on the attr mode .,1,Expand
+2417,if all the migrations they replace are either unapplied or missing from,1,Expand
+2418,weight tensor the learnable weights of the module of shape,1,Expand
+2419,from ^flush being called on broken pipe during the shutdown final gc,1,Expand
+2420,1.,1,Expand
+2421,quotes following the same escaping rules as single line stringtype.,1,Expand
+2422,"locations each containing a math c channeled vector , and math l is",1,Expand
+2423,"disk, then they are injected into the main set, replacing the named migrations.",1,Expand
+2424,"empty bags ie, having 0 length will have",1,Expand
+2425,it tests actual geometric,1,Expand
+2426,"sampled from math mathcal u sqrt k , sqrt k where",1,Expand
+2427,"and output math n, c out , d out , h out , w out can be precisely described as",1,Expand
+2428,"it observes the input tensor, after convert , quantstub",1,Expand
+2429,"this provider rejects all data and metadata requests except for pkg info,",1,Expand
+2430,the index i will always satisfy 0 i len self .,1,Expand
+2431,routes to the other database if the model name starts with other .,1,Expand
+2432,"which includes input and operator, ^etc",1,Expand
+2433,booleanarray is considered experimental.,1,Expand
+2434,meth init code,1,Expand
+2435,object can be replaced with an omdict object and all interaction will,1,Expand
+2436,set categories,1,Expand
+2437,integerarray,1,Expand
+2438,"per sample weights tensor, optional a tensor of float double weights, or none",1,Expand
+2439,math,1,Expand
+2440,2.,1,Expand
+2441,cyclical learning rate policy changes the learning rate after every batch.,1,Expand
+2442,"if kind bar or barh , you can specify relative alignments",1,Expand
+2443,"on initiation, keys that are lists, sets or tuples are converted to",1,Expand
+2444,"for attr offsets of shape b , attr input will be viewed as",1,Expand
+2445,"if left undefined, all mutations will result in rebuilding",1,Expand
+2446,the minimal interface required.,1,Expand
+2447,"this class exists to solve the irritating problem raised by cgi^parse qs,",1,Expand
+2448,methods,1,Expand
+2449,sys^stdout and sys^stderr .,1,Expand
+2450,end cases,1,Expand
+2451,compressed into a single value.,1,Expand
+2452,categories or ordered .,1,Expand
+2453,the buckets get an internal checksum from the cache assigned and use this,1,Expand
+2454,since the decorator syntax is converted into a context manager see the,1,Expand
+2455,3.,1,Expand
+2456,categories,1,Expand
+2457,suppress backtracking.,1,Expand
+2458,"categories 2, object b a",1,Expand
+2459,"pd^array a , none, c , dtype string a",1,Expand
+2460,try to store all messages in the first backend.,1,Expand
+2461,"same as above, but for use within the class optional",1,Expand
+2462,so as to have minimal impact on any,1,Expand
+2463,meth init shell to be implemented by the subclass,1,Expand
+2464,if any results names are defined,1,Expand
+2465,then pos weight for the class should be equal to math frac 300 100 3 .,1,Expand
+2466,attributes,1,Expand
+2467,something else,1,Expand
+2468,"sum k 0 ^ c in 1 weight c out j , k star input n i, k",1,Expand
+2469,"it allows the user to compose get and post requests, and",1,Expand
+2470,codes,1,Expand
+2471,to automatically reject outdated cache material.,1,Expand
+2472,num features math c from an expected input of size,1,Expand
+2473,"input math n, c in , d in , h in , w in",1,Expand
+2474,the string methods are available on series backed by,1,Expand
+2475,passing an object to the constructor converts it to text and wraps,1,Expand
+2476,"multipart post data if it has been accessed via post,",1,Expand
+2477,"other cleanup code, and the case where the underlying file is not a broken",1,Expand
+2478,the mean and standard deviation are calculated per dimension over,1,Expand
+2479,"ell x, y begin cases",1,Expand
+2480,dimensions.,1,Expand
+2481,"input math n, c,",1,Expand
+2482,"also by default, during training this layer keeps running estimates of its",1,Expand
+2483,any dependency pointers to the replaced migrations are re pointed to the,1,Expand
+2484,that gets called anytime user code returns a value.,1,Expand
+2485,meth escape class method instead.,1,Expand
+2486,stringarray returns a booleanarray for comparison methods.,1,Expand
+2487,recreate the entire object.,1,Expand
+2488,intelligent merging.,1,Expand
+2489,this,1,Expand
+2490,note that if get single internal and get single internal return,1,Expand
+2491,this operation flattens,1,Expand
+2492,client objects are stateful they will retain cookie and,1,Expand
+2493,meth init extensions,1,Expand
+2494,"input math n, where math means, any number of additional dimensions",1,Expand
+2495,to be dictionaries or lists of items that match the rules defined.,1,Expand
+2496,"input string, it only verifies that the specified parse expression",1,Expand
+2497,"inputs attr input longtensor , attr offsets longtensor, optional , and",1,Expand
+2498,"this means that omdict retains method parity with dict, and a dict",1,Expand
+2499,"output math n, c out , d out , h out , w out where",1,Expand
+2500,each value in,1,Expand
+2501,"categoricalindex, like categorical, can only take on a limited,",1,Expand
+2502,"if the default value is an empty list, it is assumed to be a list of",1,Expand
+2503,data contains a numpy integer array of the appropriate dtype,1,Expand
+2504,task outputs are fetched by the session at the end of the run.,1,Expand
+2505,rules in place of the default value.,1,Expand
+2506,meth init path,1,Expand
+2507,l prod d left lfloor frac text spatial size d 2 times text padding d %,1,Expand
+2508,the following methods should be called by the meth initialize method,1,Expand
+2509,means intended to be complete is done here.,1,Expand
+2510,"to escape the text, use the",1,Expand
+2511,single name value pairs.,1,Expand
+2512,remove unused categories,1,Expand
+2513,"ordered bool, optional",1,Expand
+2514,create an integerarray with func pandas^array .,1,Expand
+2515,also holds various flags needed to avoid having to,1,Expand
+2516,meth init gui pylab,1,Expand
+2517,"function set list self, length, items",1,Expand
+2518,will be swapped to nnq^quantize which does actual quantization.,1,Expand
+2519,"pd^array true, false, none , dtype boolean",1,Expand
+2520,logic for logical operations.,1,Expand
+2521,whether or not this categorical is treated as a ordered categorical.,1,Expand
+2522,hinge loss margin based loss between input math x a 2d mini batch tensor,1,Expand
+2523,"parameters converted too when you call meth to , etc",1,Expand
+2524,attr offsets is required to be a 1d tensor containing the,1,Expand
+2525,a type or tuple of allowed item types optional,1,Expand
+2526,"dequant modules, before convert function quantstub will just be observer,",1,Expand
+2527,"if the sanity check is itself a dictionary of rules, values are expected",1,Expand
+2528,false if there is no existing ordered to maintain.,1,Expand
+2529,standard dict methods interact with the first value associated with a given,1,Expand
+2530,run backward method will be executed.,1,Expand
+2531,"test config a namedtuple includes test name, input shape, tag, run backward.",1,Expand

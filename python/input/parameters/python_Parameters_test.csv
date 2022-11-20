@@ -1,0 +1,204 @@
+,comment_sentence,partition,category
+2108,probs tensor event probabilities,1,Parameters
+2109,"will not expand a tilde prefix, as this is",1,Parameters
+2110,"self^check app configs from handle , where app configs",1,Parameters
+2111,url unicode,1,Parameters
+2112,center .,1,Parameters
+2113,"rot int, default none",1,Parameters
+2114,plots .,1,Parameters
+2115,1.,1,Parameters
+2116,"1 and 1 inclusive , otherwise an error is raised.",1,Parameters
+2117,if this is set to true leading spaces and tabs are stripped,1,Parameters
+2118,"it is harder to describe, but this link has a nice visualization of what attr dilation does.",1,Parameters
+2119,params iterable iterable of parameters to optimize or dicts defining,1,Parameters
+2120,take place.,1,Parameters
+2121,"is formatted as a list of tuples containing origin, status , where",1,Parameters
+2122,box boxplot,1,Parameters
+2123,param int connect,1,Parameters
+2124,"argument is a geometry, return type is an integer.",1,Parameters
+2125,scatter scatter plot,1,Parameters
+2126,than attr retry^backoff max .,1,Parameters
+2127,attr groups controls the connections between inputs and outputs.,1,Parameters
+2128,"defined by the static url setting, and serves those files.",1,Parameters
+2129,"if attr kernel size , attr dilation , attr padding or",1,Parameters
+2130,see ref plotting with error bars visualization^errorbars for,1,Parameters
+2131,2.,1,Parameters
+2132,"eps float, optional term added to the denominator to improve",1,Parameters
+2133,"activation the activation function of intermediate layer, relu or gelu default relu .",1,Parameters
+2134,versionadded 27,1,Parameters
+2135,"if a filename or url is used, the format support will be browser",1,Parameters
+2136,learnable affine parameters.,1,Parameters
+2137,param confirmation prompt if set then the value will need to be confirmed,1,Parameters
+2138,a backoff factor to apply between attempts after the second try,1,Parameters
+2139,param float backoff factor,1,Parameters
+2140,"copy bool, default false",1,Parameters
+2141,optional arguments,1,Parameters
+2142,set to true if the audio should immediately start playing.,1,Parameters
+2143,sides for attr padding number of points for each dimension before,1,Parameters
+2144,3.,1,Parameters
+2145,values to use for the yticks.,1,Parameters
+2146,method that doesn t fail with a keyerror but returns an,1,Parameters
+2147,default 1,1,Parameters
+2148,default 0,1,Parameters
+2149,this module does not track such statistics and always uses batch,1,Parameters
+2150,values array like,1,Parameters
+2151,default.,1,Parameters
+2152,whether to copy the values and mask .,1,Parameters
+2153,same state .,1,Parameters
+2154,line statement prefix,1,Parameters
+2155,set to 0 to fail on the first retry of this type.,1,Parameters
+2156,"if present, to be stripped from the end of the template.",1,Parameters
+2157,list of float or integer representing the waveform mono,1,Parameters
+2158,if this is not required and a,1,Parameters
+2159,param params url parameters to append to the url.,1,Parameters
+2160,you to take advantage of newer python features.,1,Parameters
+2161,"a boolean if true , the command prints a warning if the set of",1,Parameters
+2162,for the case of two input spatial dimensions this operation is sometimes,1,Parameters
+2163,density same as kde,1,Parameters
+2164,"these errors are raised after the request was sent to the server, so the",1,Parameters
+2165,range.,1,Parameters
+2166,categorical.,1,Parameters
+2167,will reload the template.,1,Parameters
+2168,"affine a boolean value that when set to true , this module has",1,Parameters
+2169,"by default,",1,Parameters
+2170,"fontsize int, default none",1,Parameters
+2171,should the audio data be embedded using a data uri true or should,1,Parameters
+2172,meth escape class method instead.,1,Parameters
+2173,ignored,1,Parameters
+2174,"if the array option is used, the waveform will be normalized.",1,Parameters
+2175,param show envvar controls if an environment variable should be shown on,1,Parameters
+2176,most errors are resolved immediately by a second try without a,1,Parameters
+2177,this,1,Parameters
+2178,reason the template wasn t found.,1,Parameters
+2179,nhead the number of heads in the multiheadattention models required .,1,Parameters
+2180,param iterable method whitelist,1,Parameters
+2181,the size of the cache.,1,Parameters
+2182,when reduce is false .,1,Parameters
+2183,the kind of plot to produce,1,Parameters
+2184,"running averages of gradient and its square default 09, 0999",1,Parameters
+2185,the object for which the method is called.,1,Parameters
+2186,output transaction,1,Parameters
+2187,normalize bool,1,Parameters
+2188,mask numpy^ndarray,1,Parameters
+2189,to the parameters default 10,1,Parameters
+2190,wrapped with begin and commit .,1,Parameters
+2191,parameters,1,Parameters
+2192,param tuple history the history of the request encountered during,1,Parameters
+2193,"param resolve path if this is true, then the path is fully resolved",1,Parameters
+2194,unicode depending on what makes most sense given the,1,Parameters
+2195,if the field attr size average,1,Parameters
+2196,"operations a list of operation instances, probably from django^db.migrations^operations",1,Parameters
+2197,"ordered bool or none, default false",1,Parameters
+2198,"secondly, it can perform various",1,Parameters
+2199,"list of tuples key, value is provided, form encoding will",1,Parameters
+2200,"statements if true , the output will automatically be",1,Parameters
+2201,param hidden hide this option from help outputs.,1,Parameters
+2202,the words in the mini batch.,1,Parameters
+2203,expression before it is output.,1,Parameters
+2204,tests a custom remoteusermiddleware subclass with custom http auth user,1,Parameters
+2205,whether or not this categorical is treated as a ordered categorical.,1,Parameters
+2206,a 1 d integer dtype array.,1,Parameters
+2207,parameter groups,1,Parameters
+2208,"the default is false , which causes a single newline,",1,Parameters
+2209,enabled.,1,Parameters
+2210,dataframe.,1,Parameters
+2211,"the template context supports read only dict operations get ,",1,Parameters
+2212,args,1,Parameters
+2213,"elements in the output, sum the output will be summed.",1,Parameters
+2214,migrations on disk don t match the migrations in the database.,1,Parameters
+2215,it will have one or more,1,Parameters
+2216,total number of retries to allow.,1,Parameters
+2217,a 1 d boolean dtype array with the data.,1,Parameters
+2218,attr in channels and attr out channels must both be divisible by,1,Parameters
+2219,"dependencies a list of tuples of app path, migration name",1,Parameters
+2220,a human readable description of what the variable is,1,Parameters
+2221,defaults to,1,Parameters
+2222,dim feedforward the dimension of the feedforward network model default 2048 .,1,Parameters
+2223,plotting^backend .,1,Parameters
+2224,and math represent arbitrary spatial dimensions.,1,Parameters
+2225,tried,1,Parameters
+2226,batch element instead and ignores attr size average .,1,Parameters
+2227,numerical stability default 1e 8,1,Parameters
+2228,can be one of,1,Parameters
+2229,in by reference as the last argument.,1,Parameters
+2230,use log scaling or symlog scaling on x axis.,1,Parameters
+2231,if,1,Parameters
+2232,quotes following the same escaping rules as single line stringtype.,1,Parameters
+2233,embedding dim int the size of each embedding vector,1,Parameters
+2234,n int,1,Parameters
+2235,see attr retry^default method whitelist .,1,Parameters
+2236,"if is int , uses the same",1,Parameters
+2237,param int read,1,Parameters
+2238,if a dictionary or,1,Parameters
+2239,computation.,1,Parameters
+2240,make plots of series or dataframe.,1,Parameters
+2241,set to a false value to retry on any verb.,1,Parameters
+2242,must be a vector with length equal to the number of classes.,1,Parameters
+2243,"in the bag, max computes the max value over each bag.",1,Parameters
+2244,versionchanged 025.0,1,Parameters
+2245,https developers^google.com youtube player parameters#parameters,1,Parameters
+2246,"by default, backoff is disabled set to 0 .",1,Parameters
+2247,the string marking the end of a block.,1,Parameters
+2248,prior to executing the command.,1,Parameters
+2249,requires system checks,1,Parameters
+2250,categories or ordered .,1,Parameters
+2251,class urllib3^connectionpool.connectionpool instances.,1,Parameters
+2252,"used in operations that combine categoricals, eg astype, and will resolve to",1,Parameters
+2253,items need to be unique.,1,Parameters
+2254,handle it returns just the filename.,1,Parameters
+2255,additionally there is a meth resolve,1,Parameters
+2256,"for the standard channel order, see",1,Parameters
+2257,of each batch element.,1,Parameters
+2258,"logx bool or sym , default false",1,Parameters
+2259,tolerance grad float termination tolerance on first order optimality,1,Parameters
+2260,use log scaling or symlog scaling on both x and y axes.,1,Parameters
+2261,xlim 2 tuple list,1,Parameters
+2262,filename unicode,1,Parameters
+2263,see also ref line statements .,1,Parameters
+2264,"param allow dash if this is set to true , a single dash to indicate",1,Parameters
+2265,request may have side effects.,1,Parameters
+2266,style list or dict,1,Parameters
+2267,whether audio should be normalized rescaled to the maximum possible,1,Parameters
+2268,additional parameters are used to create fresh,1,Parameters
+2269,"return indices if true , will return the indices along with the outputs.",1,Parameters
+2270,num features math c from an expected input of size,1,Parameters
+2271,values numpy^ndarray,1,Parameters
+2272,attr padding controls the amount of implicit zero paddings on both,1,Parameters
+2273,passing an object to the constructor converts it to text and wraps,1,Parameters
+2274,"value is a string, it shows the string instead of the",1,Parameters
+2275,the list is in the order,1,Parameters
+2276,output scalar.,1,Parameters
+2277,the default is,1,Parameters
+2278,colormap to select colors from.,1,Parameters
+2279,"rate number, tensor the rate parameter",1,Parameters
+2280,"if class categoricaldtype , cannot be used together with",1,Parameters
+2281,and are allowed to access the context read only.,1,Parameters
+2282,note attr size average,1,Parameters
+2283,"figsize a tuple width, height in inches",1,Parameters
+2284,"input math n, where math means, any number of additional dimensions",1,Parameters
+2285,"default is true , unless the keyword argument url is set, then",1,Parameters
+2286,seconds.,1,Parameters
+2287,if this,1,Parameters
+2288,"to escape the text, use the",1,Parameters
+2289,default true,1,Parameters
+2290,"ordered bool, optional",1,Parameters
+2291,be a callable that is passed the template name and has to,1,Parameters
+2292,the original source be referenced.,1,Parameters
+2293,"when set to false , data must be between",1,Parameters
+2294,none can be used to maintain the ordered value of existing categoricals when,1,Parameters
+2295,"none no reduction will be applied,",1,Parameters
+2296,"if the backoff factor is 01, then func ^sleep will sleep",1,Parameters
+2297,other parameters can be provided as documented at,1,Parameters
+2298,the skipped text and target expression are returned as a 2 element list .,1,Parameters
+2299,"if true, plot colorbar only relevant for scatter and hexbin",1,Parameters
+2300,lr float learning rate default 1,1,Parameters
+2301,audio to playable later with no internet connection in the notebook.,1,Parameters
+2302,"if a series or dataframe is passed, use passed data to draw a",1,Parameters
+2303,"reduction string, optional specifies the reduction to apply to the output",1,Parameters
+2304,this is set to a boolean automatically if,1,Parameters
+2305,false if there is no existing ordered to maintain.,1,Parameters
+2306,class jinja2^utils.markup .,1,Parameters
+2307,set this to true if you want the,1,Parameters
+2308,arguments,1,Parameters
+2309,param is flag forces this option to act as a flag.,1,Parameters
+2310,comments that might contain false matches to the target expression,1,Parameters

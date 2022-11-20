@@ -1,0 +1,2708 @@
+@relation 1-0-usage-tfidf-heuristic
+
+@attribute heuristic-DevelopmentNotes- {0,1}
+@attribute 'heuristic-DevelopmentNotes-Contains [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Creates. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is found.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Likes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Markups [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Parses [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Passes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Provides [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Reduces [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Requires [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Requires. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Returns [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sees [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sets [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sets header.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This is.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To call [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To supply.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Uses class.' {0,1}
+@attribute heuristic-DevelopmentNotes-Uses. {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] construct.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] set.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] use.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [auxiliary] create [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [auxiliary] do [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [auxiliary] use [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ^s.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] calls [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] has [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] implements.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] makes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] objects.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] parses.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] requires.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] returns [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] sets [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] uses.' {0,1}
+@attribute heuristic-DevelopmentNotes-[verb]s. {0,1}
+@attribute 'heuristic-DevelopmentNotes-^ gets.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-^s [something].' {0,1}
+@attribute heuristic-Expand- {0,1}
+@attribute 'heuristic-Expand-Adds [something].' {0,1}
+@attribute heuristic-Expand-Adds. {0,1}
+@attribute heuristic-Expand-Allows. {0,1}
+@attribute 'heuristic-Expand-Assigns [something].' {0,1}
+@attribute 'heuristic-Expand-Can be described.' {0,1}
+@attribute 'heuristic-Expand-Categoricalindexes a.' {0,1}
+@attribute 'heuristic-Expand-Category is given.' {0,1}
+@attribute 'heuristic-Expand-Considers [something].' {0,1}
+@attribute 'heuristic-Expand-Ensures [something].' {0,1}
+@attribute 'heuristic-Expand-Functions [something].' {0,1}
+@attribute 'heuristic-Expand-Has [something].' {0,1}
+@attribute 'heuristic-Expand-I ns.' {0,1}
+@attribute 'heuristic-Expand-Implements [something].' {0,1}
+@attribute 'heuristic-Expand-Is cleaned.' {0,1}
+@attribute 'heuristic-Expand-Is created.' {0,1}
+@attribute 'heuristic-Expand-Is kept.' {0,1}
+@attribute 'heuristic-Expand-Is loaded.' {0,1}
+@attribute 'heuristic-Expand-Is passed.' {0,1}
+@attribute 'heuristic-Expand-Is rendered.' {0,1}
+@attribute 'heuristic-Expand-Is returned.' {0,1}
+@attribute 'heuristic-Expand-Is set.' {0,1}
+@attribute 'heuristic-Expand-Is treated.' {0,1}
+@attribute 'heuristic-Expand-Is used.' {0,1}
+@attribute heuristic-Expand-Is. {0,1}
+@attribute 'heuristic-Expand-It will be treated.' {0,1}
+@attribute 'heuristic-Expand-Makes [something].' {0,1}
+@attribute 'heuristic-Expand-Math ns.' {0,1}
+@attribute 'heuristic-Expand-N ls.' {0,1}
+@attribute 'heuristic-Expand-Passes [something].' {0,1}
+@attribute 'heuristic-Expand-Performs [something].' {0,1}
+@attribute 'heuristic-Expand-Reduction is none.' {0,1}
+@attribute 'heuristic-Expand-Returns [something].' {0,1}
+@attribute 'heuristic-Expand-S true.' {0,1}
+@attribute 'heuristic-Expand-Sees [something].' {0,1}
+@attribute 'heuristic-Expand-Self functions.' {0,1}
+@attribute 'heuristic-Expand-This is used.' {0,1}
+@attribute 'heuristic-Expand-Uses [something].' {0,1}
+@attribute heuristic-Expand-Uses. {0,1}
+@attribute 'heuristic-Expand-Value is.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be set.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] contain [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] create.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] mark.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] nest.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Expand-[something] ^s.' {0,1}
+@attribute 'heuristic-Expand-[something] adds.' {0,1}
+@attribute 'heuristic-Expand-[something] allows.' {0,1}
+@attribute 'heuristic-Expand-[something] attributes.' {0,1}
+@attribute 'heuristic-Expand-[something] calls.' {0,1}
+@attribute 'heuristic-Expand-[something] contains.' {0,1}
+@attribute 'heuristic-Expand-[something] creates [something].' {0,1}
+@attribute 'heuristic-Expand-[something] creates.' {0,1}
+@attribute 'heuristic-Expand-[something] does [something].' {0,1}
+@attribute 'heuristic-Expand-[something] ensures [something].' {0,1}
+@attribute 'heuristic-Expand-[something] features.' {0,1}
+@attribute 'heuristic-Expand-[something] functions.' {0,1}
+@attribute 'heuristic-Expand-[something] has [something].' {0,1}
+@attribute 'heuristic-Expand-[something] indexes.' {0,1}
+@attribute 'heuristic-Expand-[something] is none not.' {0,1}
+@attribute 'heuristic-Expand-[something] is number.' {0,1}
+@attribute 'heuristic-Expand-[something] is size.' {0,1}
+@attribute 'heuristic-Expand-[something] is statistic.' {0,1}
+@attribute 'heuristic-Expand-[something] is vector.' {0,1}
+@attribute 'heuristic-Expand-[something] is what.' {0,1}
+@attribute 'heuristic-Expand-[something] is.' {0,1}
+@attribute 'heuristic-Expand-[something] leaves [something].' {0,1}
+@attribute 'heuristic-Expand-[something] makes [something].' {0,1}
+@attribute 'heuristic-Expand-[something] makes.' {0,1}
+@attribute 'heuristic-Expand-[something] pds [something].' {0,1}
+@attribute 'heuristic-Expand-[something] pds.' {0,1}
+@attribute 'heuristic-Expand-[something] prods.' {0,1}
+@attribute 'heuristic-Expand-[something] provides.' {0,1}
+@attribute 'heuristic-Expand-[something] represents.' {0,1}
+@attribute 'heuristic-Expand-[something] returns.' {0,1}
+@attribute 'heuristic-Expand-[something] sees example.' {0,1}
+@attribute 'heuristic-Expand-[something] sets [something].' {0,1}
+@attribute 'heuristic-Expand-[something] sets.' {0,1}
+@attribute 'heuristic-Expand-[something] tensors.' {0,1}
+@attribute 'heuristic-Expand-[something] uses.' {0,1}
+@attribute heuristic-Expand-[verb]s. {0,1}
+@attribute 'heuristic-Expand-^s [something].' {0,1}
+@attribute heuristic-Parameters- {0,1}
+@attribute heuristic-Parameters-Allows. {0,1}
+@attribute 'heuristic-Parameters-Avoids [something].' {0,1}
+@attribute 'heuristic-Parameters-Blocks string.' {0,1}
+@attribute heuristic-Parameters-Calls. {0,1}
+@attribute 'heuristic-Parameters-Category is given.' {0,1}
+@attribute 'heuristic-Parameters-Computes average.' {0,1}
+@attribute 'heuristic-Parameters-Contains [something].' {0,1}
+@attribute 'heuristic-Parameters-Creates [something].' {0,1}
+@attribute heuristic-Parameters-Defaults. {0,1}
+@attribute 'heuristic-Parameters-Defines [something].' {0,1}
+@attribute 'heuristic-Parameters-Dilation controls.' {0,1}
+@attribute 'heuristic-Parameters-Dilations [something].' {0,1}
+@attribute 'heuristic-Parameters-Does [something].' {0,1}
+@attribute 'heuristic-Parameters-Gives [something].' {0,1}
+@attribute 'heuristic-Parameters-Has [something].' {0,1}
+@attribute heuristic-Parameters-Indicates. {0,1}
+@attribute 'heuristic-Parameters-Is allowed.' {0,1}
+@attribute 'heuristic-Parameters-Is applied.' {0,1}
+@attribute 'heuristic-Parameters-Is enabled.' {0,1}
+@attribute 'heuristic-Parameters-Is loaded.' {0,1}
+@attribute 'heuristic-Parameters-Is made.' {0,1}
+@attribute 'heuristic-Parameters-Is not shown.' {0,1}
+@attribute 'heuristic-Parameters-Is passed.' {0,1}
+@attribute 'heuristic-Parameters-Is set.' {0,1}
+@attribute 'heuristic-Parameters-Is shown.' {0,1}
+@attribute 'heuristic-Parameters-Is used.' {0,1}
+@attribute heuristic-Parameters-Is. {0,1}
+@attribute 'heuristic-Parameters-Item is.' {0,1}
+@attribute 'heuristic-Parameters-Likes [something].' {0,1}
+@attribute 'heuristic-Parameters-Loss is averaged.' {0,1}
+@attribute 'heuristic-Parameters-Loss is summed.' {0,1}
+@attribute 'heuristic-Parameters-Marks end.' {0,1}
+@attribute heuristic-Parameters-Notes. {0,1}
+@attribute 'heuristic-Parameters-Params [something].' {0,1}
+@attribute heuristic-Parameters-Reduces. {0,1}
+@attribute 'heuristic-Parameters-Removes [something].' {0,1}
+@attribute heuristic-Parameters-Respects. {0,1}
+@attribute 'heuristic-Parameters-Runs [something].' {0,1}
+@attribute 'heuristic-Parameters-S miss.' {0,1}
+@attribute 'heuristic-Parameters-S true.' {0,1}
+@attribute heuristic-Parameters-Sets. {0,1}
+@attribute 'heuristic-Parameters-Should be used.' {0,1}
+@attribute 'heuristic-Parameters-Specifies [something].' {0,1}
+@attribute 'heuristic-Parameters-Stride controls stride.' {0,1}
+@attribute 'heuristic-Parameters-Takes [something].' {0,1}
+@attribute 'heuristic-Parameters-That [auxiliary] be used.' {0,1}
+@attribute 'heuristic-Parameters-This is set.' {0,1}
+@attribute 'heuristic-Parameters-To attach.' {0,1}
+@attribute 'heuristic-Parameters-To be.' {0,1}
+@attribute 'heuristic-Parameters-To mark.' {0,1}
+@attribute 'heuristic-Parameters-To pass.' {0,1}
+@attribute 'heuristic-Parameters-To raise.' {0,1}
+@attribute 'heuristic-Parameters-To remove.' {0,1}
+@attribute 'heuristic-Parameters-To retry.' {0,1}
+@attribute 'heuristic-Parameters-To send.' {0,1}
+@attribute 'heuristic-Parameters-To use.' {0,1}
+@attribute 'heuristic-Parameters-Uses [something].' {0,1}
+@attribute heuristic-Parameters-Uses. {0,1}
+@attribute 'heuristic-Parameters-Value is used.' {0,1}
+@attribute 'heuristic-Parameters-Value is.' {0,1}
+@attribute heuristic-Parameters-Values. {0,1}
+@attribute 'heuristic-Parameters-We retry.' {0,1}
+@attribute 'heuristic-Parameters-Which means.' {0,1}
+@attribute 'heuristic-Parameters-Will be applied.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] apply.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be set.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be used.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] exist.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] is path.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] is tensor.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] raise [something].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] set.' {0,1}
+@attribute 'heuristic-Parameters-[something] [auxiliary] be.' {0,1}
+@attribute 'heuristic-Parameters-[something] ^s.' {0,1}
+@attribute 'heuristic-Parameters-[something] adds.' {0,1}
+@attribute 'heuristic-Parameters-[something] applies.' {0,1}
+@attribute 'heuristic-Parameters-[something] changes.' {0,1}
+@attribute 'heuristic-Parameters-[something] contains.' {0,1}
+@attribute 'heuristic-Parameters-[something] defaults [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] defaults.' {0,1}
+@attribute 'heuristic-Parameters-[something] does.' {0,1}
+@attribute 'heuristic-Parameters-[something] expects [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] files [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] floats [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] has [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] headers.' {0,1}
+@attribute 'heuristic-Parameters-[something] indexes.' {0,1}
+@attribute 'heuristic-Parameters-[something] ints.' {0,1}
+@attribute 'heuristic-Parameters-[something] is int.' {0,1}
+@attribute 'heuristic-Parameters-[something] is n.' {0,1}
+@attribute 'heuristic-Parameters-[something] is none.' {0,1}
+@attribute 'heuristic-Parameters-[something] is.' {0,1}
+@attribute 'heuristic-Parameters-[something] leaves.' {0,1}
+@attribute 'heuristic-Parameters-[something] lrs.' {0,1}
+@attribute 'heuristic-Parameters-[something] makes.' {0,1}
+@attribute 'heuristic-Parameters-[something] marks.' {0,1}
+@attribute 'heuristic-Parameters-[something] matches.' {0,1}
+@attribute 'heuristic-Parameters-[something] maxes.' {0,1}
+@attribute 'heuristic-Parameters-[something] may change.' {0,1}
+@attribute 'heuristic-Parameters-[something] means.' {0,1}
+@attribute 'heuristic-Parameters-[something] names.' {0,1}
+@attribute 'heuristic-Parameters-[something] objects.' {0,1}
+@attribute 'heuristic-Parameters-[something] params.' {0,1}
+@attribute 'heuristic-Parameters-[something] raises.' {0,1}
+@attribute 'heuristic-Parameters-[something] requires.' {0,1}
+@attribute 'heuristic-Parameters-[something] scales [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] sees.' {0,1}
+@attribute 'heuristic-Parameters-[something] strs.' {0,1}
+@attribute 'heuristic-Parameters-[something] tracks.' {0,1}
+@attribute 'heuristic-Parameters-[something] tuples.' {0,1}
+@attribute 'heuristic-Parameters-[something] values.' {0,1}
+@attribute 'heuristic-Parameters-[something] will be.' {0,1}
+@attribute 'heuristic-Parameters-[verb]s [something] mark.' {0,1}
+@attribute heuristic-Parameters-[verb]s. {0,1}
+@attribute heuristic-Summary- {0,1}
+@attribute 'heuristic-Summary-Accesses [something].' {0,1}
+@attribute 'heuristic-Summary-Adds [something].' {0,1}
+@attribute 'heuristic-Summary-Applies [something].' {0,1}
+@attribute heuristic-Summary-Attempts. {0,1}
+@attribute 'heuristic-Summary-Bases [something].' {0,1}
+@attribute 'heuristic-Summary-Builds [something].' {0,1}
+@attribute 'heuristic-Summary-Can be read.' {0,1}
+@attribute 'heuristic-Summary-Class uses.' {0,1}
+@attribute 'heuristic-Summary-Combines [something].' {0,1}
+@attribute 'heuristic-Summary-Creates distribution parameterize.' {0,1}
+@attribute 'heuristic-Summary-Displays [something].' {0,1}
+@attribute 'heuristic-Summary-Do not exist.' {0,1}
+@attribute 'heuristic-Summary-Dons [something].' {0,1}
+@attribute 'heuristic-Summary-Ensures [something].' {0,1}
+@attribute 'heuristic-Summary-Error occurs.' {0,1}
+@attribute 'heuristic-Summary-Generates [something].' {0,1}
+@attribute 'heuristic-Summary-Has [something].' {0,1}
+@attribute 'heuristic-Summary-Implements [something].' {0,1}
+@attribute 'heuristic-Summary-Is composed.' {0,1}
+@attribute 'heuristic-Summary-Is loaded.' {0,1}
+@attribute 'heuristic-Summary-Is specified.' {0,1}
+@attribute 'heuristic-Summary-Is used.' {0,1}
+@attribute 'heuristic-Summary-Keeps [something].' {0,1}
+@attribute 'heuristic-Summary-Manages [something].' {0,1}
+@attribute 'heuristic-Summary-Matches [something].' {0,1}
+@attribute 'heuristic-Summary-Migration files.' {0,1}
+@attribute heuristic-Summary-Objects. {0,1}
+@attribute 'heuristic-Summary-Orders [something].' {0,1}
+@attribute 'heuristic-Summary-Provides [something].' {0,1}
+@attribute 'heuristic-Summary-Reduces [something].' {0,1}
+@attribute 'heuristic-Summary-Replaces [something].' {0,1}
+@attribute 'heuristic-Summary-Represents [something].' {0,1}
+@attribute 'heuristic-Summary-Stores [something].' {0,1}
+@attribute 'heuristic-Summary-That applies [something].' {0,1}
+@attribute 'heuristic-Summary-To attempt to use.' {0,1}
+@attribute 'heuristic-Summary-To provide [something].' {0,1}
+@attribute 'heuristic-Summary-To use.' {0,1}
+@attribute 'heuristic-Summary-Updates [something].' {0,1}
+@attribute 'heuristic-Summary-Uses [something].' {0,1}
+@attribute heuristic-Summary-Uses. {0,1}
+@attribute 'heuristic-Summary-[auxiliary] assign.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] find [something].' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] match.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] store [something].' {0,1}
+@attribute 'heuristic-Summary-[something] [auxiliary] not match.' {0,1}
+@attribute 'heuristic-Summary-[something] algorithms.' {0,1}
+@attribute 'heuristic-Summary-[something] allows [something].' {0,1}
+@attribute 'heuristic-Summary-[something] allows.' {0,1}
+@attribute 'heuristic-Summary-[something] applies [something].' {0,1}
+@attribute 'heuristic-Summary-[something] attributes.' {0,1}
+@attribute 'heuristic-Summary-[something] builds [something].' {0,1}
+@attribute 'heuristic-Summary-[something] creates [something].' {0,1}
+@attribute 'heuristic-Summary-[something] defines [something].' {0,1}
+@attribute 'heuristic-Summary-[something] encounters [something].' {0,1}
+@attribute 'heuristic-Summary-[something] features.' {0,1}
+@attribute 'heuristic-Summary-[something] files.' {0,1}
+@attribute 'heuristic-Summary-[something] handles.' {0,1}
+@attribute 'heuristic-Summary-[something] has.' {0,1}
+@attribute 'heuristic-Summary-[something] implements [something].' {0,1}
+@attribute 'heuristic-Summary-[something] interfaces.' {0,1}
+@attribute 'heuristic-Summary-[something] is.' {0,1}
+@attribute 'heuristic-Summary-[something] manifests.' {0,1}
+@attribute 'heuristic-Summary-[something] modules.' {0,1}
+@attribute 'heuristic-Summary-[something] objects.' {0,1}
+@attribute 'heuristic-Summary-[something] parameters.' {0,1}
+@attribute 'heuristic-Summary-[something] provides [something].' {0,1}
+@attribute 'heuristic-Summary-[something] raises.' {0,1}
+@attribute 'heuristic-Summary-[something] represents.' {0,1}
+@attribute 'heuristic-Summary-[something] responses.' {0,1}
+@attribute 'heuristic-Summary-[something] sections.' {0,1}
+@attribute 'heuristic-Summary-[something] shows [something].' {0,1}
+@attribute 'heuristic-Summary-[something] subclasses.' {0,1}
+@attribute 'heuristic-Summary-[something] tensors.' {0,1}
+@attribute 'heuristic-Summary-[something] uses.' {0,1}
+@attribute 'heuristic-Summary-[something] views.' {0,1}
+@attribute 'heuristic-Summary-[something] wraps.' {0,1}
+@attribute 'heuristic-Summary-[verb]s [something] use.' {0,1}
+@attribute heuristic-Summary-[verb]s. {0,1}
+@attribute heuristic-Usage- {0,1}
+@attribute 'heuristic-Usage-#s [something].' {0,1}
+@attribute 'heuristic-Usage-Accepts [something].' {0,1}
+@attribute 'heuristic-Usage-Adds [something].' {0,1}
+@attribute heuristic-Usage-Adds. {0,1}
+@attribute 'heuristic-Usage-Builds [something].' {0,1}
+@attribute 'heuristic-Usage-Calls [something].' {0,1}
+@attribute 'heuristic-Usage-Can [verb].' {0,1}
+@attribute 'heuristic-Usage-Color ^s.' {0,1}
+@attribute 'heuristic-Usage-Contains [something].' {0,1}
+@attribute 'heuristic-Usage-Dataset contains.' {0,1}
+@attribute 'heuristic-Usage-Del vcards.' {0,1}
+@attribute 'heuristic-Usage-Embeds [something].' {0,1}
+@attribute 'heuristic-Usage-Gets [something].' {0,1}
+@attribute 'heuristic-Usage-Gets com.' {0,1}
+@attribute 'heuristic-Usage-Gives to [something] [something].' {0,1}
+@attribute 'heuristic-Usage-Have be added.' {0,1}
+@attribute 'heuristic-Usage-Is added.' {0,1}
+@attribute 'heuristic-Usage-Is found.' {0,1}
+@attribute 'heuristic-Usage-Is given.' {0,1}
+@attribute 'heuristic-Usage-Is intended.' {0,1}
+@attribute 'heuristic-Usage-Is loaded.' {0,1}
+@attribute 'heuristic-Usage-Is needed.' {0,1}
+@attribute 'heuristic-Usage-Is passed.' {0,1}
+@attribute 'heuristic-Usage-Is used.' {0,1}
+@attribute 'heuristic-Usage-Markups [something].' {0,1}
+@attribute heuristic-Usage-Ms. {0,1}
+@attribute 'heuristic-Usage-Passes [something].' {0,1}
+@attribute 'heuristic-Usage-Permission limits.' {0,1}
+@attribute 'heuristic-Usage-Produces [something].' {0,1}
+@attribute 'heuristic-Usage-Reads [something].' {0,1}
+@attribute 'heuristic-Usage-Replaces migration.' {0,1}
+@attribute 'heuristic-Usage-Results [something].' {0,1}
+@attribute 'heuristic-Usage-Returns [something].' {0,1}
+@attribute 'heuristic-Usage-S true.' {0,1}
+@attribute 'heuristic-Usage-Sets [something].' {0,1}
+@attribute heuristic-Usage-Sevs. {0,1}
+@attribute 'heuristic-Usage-To [verb] use.' {0,1}
+@attribute 'heuristic-Usage-To produce.' {0,1}
+@attribute 'heuristic-Usage-To read.' {0,1}
+@attribute 'heuristic-Usage-To use.' {0,1}
+@attribute 'heuristic-Usage-Uses [something].' {0,1}
+@attribute heuristic-Usage-Uses. {0,1}
+@attribute 'heuristic-Usage-Views [something].' {0,1}
+@attribute 'heuristic-Usage-Views form.' {0,1}
+@attribute 'heuristic-Usage-Which can be changed.' {0,1}
+@attribute 'heuristic-Usage-Will [verb].' {0,1}
+@attribute 'heuristic-Usage-Will be inserted.' {0,1}
+@attribute 'heuristic-Usage-Will be returned.' {0,1}
+@attribute 'heuristic-Usage-Will print.' {0,1}
+@attribute 'heuristic-Usage-Will wrap.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] act.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] be used.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] construct.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] disable.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] get.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] load.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] use.' {0,1}
+@attribute 'heuristic-Usage-[something] [auxiliary] create.' {0,1}
+@attribute 'heuristic-Usage-[something] [auxiliary] use [something].' {0,1}
+@attribute 'heuristic-Usage-[something] ^s.' {0,1}
+@attribute 'heuristic-Usage-[something] calls [something].' {0,1}
+@attribute 'heuristic-Usage-[something] calls.' {0,1}
+@attribute 'heuristic-Usage-[something] can have [something].' {0,1}
+@attribute 'heuristic-Usage-[something] creates [something].' {0,1}
+@attribute 'heuristic-Usage-[something] folds.' {0,1}
+@attribute 'heuristic-Usage-[something] foos.' {0,1}
+@attribute 'heuristic-Usage-[something] gets [something].' {0,1}
+@attribute 'heuristic-Usage-[something] gets to get and org.' {0,1}
+@attribute 'heuristic-Usage-[something] has [something].' {0,1}
+@attribute 'heuristic-Usage-[something] has.' {0,1}
+@attribute 'heuristic-Usage-[something] implements [something].' {0,1}
+@attribute 'heuristic-Usage-[something] implements.' {0,1}
+@attribute 'heuristic-Usage-[something] integers.' {0,1}
+@attribute 'heuristic-Usage-[something] is none.' {0,1}
+@attribute 'heuristic-Usage-[something] is.' {0,1}
+@attribute 'heuristic-Usage-[something] marks.' {0,1}
+@attribute 'heuristic-Usage-[something] needs.' {0,1}
+@attribute 'heuristic-Usage-[something] pds [something].' {0,1}
+@attribute 'heuristic-Usage-[something] potatos.' {0,1}
+@attribute 'heuristic-Usage-[something] prods.' {0,1}
+@attribute 'heuristic-Usage-[something] results.' {0,1}
+@attribute 'heuristic-Usage-[something] returns.' {0,1}
+@attribute 'heuristic-Usage-[something] sees example.' {0,1}
+@attribute 'heuristic-Usage-[something] ses.' {0,1}
+@attribute 'heuristic-Usage-[something] sets.' {0,1}
+@attribute 'heuristic-Usage-[something] uses [something].' {0,1}
+@attribute 'heuristic-Usage-[something] views.' {0,1}
+@attribute 'heuristic-Usage-[something] wraps [something].' {0,1}
+@attribute 'heuristic-Usage-[verb]s use.' {0,1}
+@attribute heuristic-Usage-[verb]s. {0,1}
+@attribute 'heuristic-Usage-^ adds.' {0,1}
+@attribute 'heuristic-Usage-^ gets to get.' {0,1}
+@attribute 'heuristic-Usage-^ walks.' {0,1}
+@attribute 'heuristic-Usage-^s [something].' {0,1}
+@attribute tfidf-# numeric
+@attribute tfidf-#12286 numeric
+@attribute tfidf-#13552 numeric
+@attribute tfidf-#17067 numeric
+@attribute tfidf-#8551 numeric
+@attribute 'tfidf-\%' numeric
+@attribute 'tfidf-\%cd' numeric
+@attribute 'tfidf-\%s' numeric
+@attribute tfidf-& numeric
+@attribute tfidf-&amp numeric
+@attribute tfidf-&lt numeric
+@attribute tfidf-0 numeric
+@attribute tfidf-00 numeric
+@attribute tfidf-001 numeric
+@attribute tfidf-01 numeric
+@attribute tfidf-02 numeric
+@attribute tfidf-021 numeric
+@attribute tfidf-02453 numeric
+@attribute tfidf-025 numeric
+@attribute tfidf-03135 numeric
+@attribute tfidf-04 numeric
+@attribute tfidf-05 numeric
+@attribute tfidf-06 numeric
+@attribute tfidf-08 numeric
+@attribute tfidf-09 numeric
+@attribute tfidf-0999 numeric
+@attribute tfidf-1 numeric
+@attribute tfidf-10 numeric
+@attribute tfidf-100 numeric
+@attribute tfidf-1000 numeric
+@attribute tfidf-10044 numeric
+@attribute tfidf-101 numeric
+@attribute tfidf-11306 numeric
+@attribute tfidf-12 numeric
+@attribute tfidf-123 numeric
+@attribute tfidf-123456 numeric
+@attribute tfidf-125 numeric
+@attribute tfidf-14126980 numeric
+@attribute tfidf-16 numeric
+@attribute tfidf-19073 numeric
+@attribute tfidf-19838 numeric
+@attribute tfidf-1999 numeric
+@attribute tfidf-1d numeric
+@attribute tfidf-1e numeric
+@attribute tfidf-2 numeric
+@attribute tfidf-20 numeric
+@attribute tfidf-200 numeric
+@attribute tfidf-22 numeric
+@attribute tfidf-220 numeric
+@attribute tfidf-224 numeric
+@attribute tfidf-24 numeric
+@attribute tfidf-25798 numeric
+@attribute tfidf-28 numeric
+@attribute tfidf-2d numeric
+@attribute tfidf-2e numeric
+@attribute tfidf-2x3 numeric
+@attribute tfidf-3 numeric
+@attribute tfidf-30 numeric
+@attribute tfidf-300 numeric
+@attribute tfidf-301 numeric
+@attribute tfidf-302 numeric
+@attribute tfidf-303 numeric
+@attribute tfidf-307 numeric
+@attribute tfidf-308 numeric
+@attribute tfidf-31 numeric
+@attribute tfidf-32 numeric
+@attribute tfidf-33 numeric
+@attribute tfidf-35 numeric
+@attribute tfidf-36 numeric
+@attribute tfidf-3d numeric
+@attribute tfidf-3xx numeric
+@attribute tfidf-4 numeric
+@attribute tfidf-400 numeric
+@attribute tfidf-42 numeric
+@attribute tfidf-440 numeric
+@attribute tfidf-47 numeric
+@attribute tfidf-5 numeric
+@attribute tfidf-51 numeric
+@attribute tfidf-512 numeric
+@attribute tfidf-5x7x9 numeric
+@attribute tfidf-6 numeric
+@attribute tfidf-6000 numeric
+@attribute tfidf-6010 numeric
+@attribute tfidf-64 numeric
+@attribute tfidf-7 numeric
+@attribute tfidf-79 numeric
+@attribute tfidf-7x7x7 numeric
+@attribute tfidf-8 numeric
+@attribute tfidf-85 numeric
+@attribute tfidf-8k16bitpcm^wav numeric
+@attribute tfidf-9 numeric
+@attribute tfidf-99 numeric
+@attribute tfidf-@mag numeric
+@attribute tfidf-^ numeric
+@attribute tfidf-^ab numeric
+@attribute tfidf-^ap numeric
+@attribute tfidf-^aspx numeric
+@attribute tfidf-^back numeric
+@attribute tfidf-^ext numeric
+@attribute tfidf-^flush numeric
+@attribute tfidf-^fn numeric
+@attribute tfidf-^g numeric
+@attribute tfidf-^join numeric
+@attribute tfidf-^lower numeric
+@attribute tfidf-^mac numeric
+@attribute tfidf-^matml numeric
+@attribute tfidf-^parsestr numeric
+@attribute tfidf-^pprint numeric
+@attribute tfidf-^random numeric
+@attribute tfidf-^s numeric
+@attribute tfidf-^setparseact numeric
+@attribute tfidf-^split numeric
+@attribute tfidf-^t numeric
+@attribute tfidf-^transp numeric
+@attribute tfidf-^upd numeric
+@attribute tfidf-^zip numeric
+@attribute tfidf-ab numeric
+@attribute tfidf-abil numeric
+@attribute tfidf-abl numeric
+@attribute tfidf-abov numeric
+@attribute tfidf-abstract numeric
+@attribute tfidf-ac numeric
+@attribute tfidf-acc numeric
+@attribute tfidf-acceler numeric
+@attribute tfidf-accept numeric
+@attribute tfidf-accord numeric
+@attribute tfidf-account numeric
+@attribute tfidf-acm numeric
+@attribute tfidf-acr numeric
+@attribute tfidf-act numeric
+@attribute tfidf-actu numeric
+@attribute tfidf-ad numeric
+@attribute tfidf-adadelt numeric
+@attribute tfidf-adam numeric
+@attribute tfidf-adamac numeric
+@attribute tfidf-adapt numeric
+@attribute tfidf-adapter numeric
+@attribute tfidf-addit numeric
+@attribute tfidf-addr numeric
+@attribute tfidf-admin numeric
+@attribute tfidf-adopt numeric
+@attribute tfidf-adr numeric
+@attribute tfidf-adv numeric
+@attribute tfidf-affect numeric
+@attribute tfidf-ag numeric
+@attribute tfidf-aggreg numeric
+@attribute tfidf-aid numeric
+@attribute tfidf-aidan numeric
+@attribute tfidf-al numeric
+@attribute tfidf-algorithm numeric
+@attribute tfidf-alignm numeric
+@attribute tfidf-allitem numeric
+@attribute tfidf-allk numeric
+@attribute tfidf-allvalu numeric
+@attribute tfidf-alon numeric
+@attribute tfidf-alph numeric
+@attribute tfidf-alphabetiz numeric
+@attribute tfidf-alread numeric
+@attribute tfidf-alter numeric
+@attribute tfidf-altern numeric
+@attribute tfidf-alw numeric
+@attribute tfidf-amount numeric
+@attribute tfidf-amplitud numeric
+@attribute tfidf-amsgrad numeric
+@attribute tfidf-ancest numeric
+@attribute tfidf-annot numeric
+@attribute tfidf-answer numeric
+@attribute tfidf-anyth numeric
+@attribute tfidf-ap numeric
+@attribute tfidf-app1 numeric
+@attribute tfidf-app2 numeric
+@attribute tfidf-appconfig numeric
+@attribute tfidf-appl numeric
+@attribute tfidf-appropr numeric
+@attribute tfidf-ar numeric
+@attribute tfidf-arbitr numeric
+@attribute tfidf-arch numeric
+@attribute tfidf-archiv numeric
+@attribute tfidf-arg numeric
+@attribute tfidf-argum numeric
+@attribute tfidf-argumentparser numeric
+@attribute tfidf-argv numeric
+@attribute tfidf-arxiv^org numeric
+@attribute tfidf-asc numeric
+@attribute tfidf-ashish numeric
+@attribute tfidf-aspect numeric
+@attribute tfidf-asser numeric
+@attribute tfidf-assign numeric
+@attribute tfidf-assignm numeric
+@attribute tfidf-assoc numeric
+@attribute tfidf-async numeric
+@attribute tfidf-atom numeric
+@attribute tfidf-attach numeric
+@attribute tfidf-attempt numeric
+@attribute tfidf-attr numeric
+@attribute tfidf-attribut numeric
+@attribute tfidf-aud numeric
+@attribute tfidf-aut numeric
+@attribute tfidf-auth numeric
+@attribute tfidf-autoenv numeric
+@attribute tfidf-autoescap numeric
+@attribute tfidf-autofield numeric
+@attribute tfidf-autofieldmixin numeric
+@attribute tfidf-autom numeric
+@attribute tfidf-automat numeric
+@attribute tfidf-autopl numeric
+@attribute tfidf-av numeric
+@attribute tfidf-avail numeric
+@attribute tfidf-aver numeric
+@attribute tfidf-averag numeric
+@attribute tfidf-aw numeric
+@attribute tfidf-ba numeric
+@attribute tfidf-back numeric
+@attribute tfidf-backoff numeric
+@attribute tfidf-backtrac numeric
+@attribute tfidf-bad numeric
+@attribute tfidf-bag numeric
+@attribute tfidf-bar numeric
+@attribute tfidf-barh numeric
+@attribute tfidf-batch numeric
+@attribute tfidf-bcewithlogitsl numeric
+@attribute tfidf-bcrypt numeric
+@attribute tfidf-becaus numeric
+@attribute tfidf-becom numeric
+@attribute tfidf-befor numeric
+@attribute tfidf-begin numeric
+@attribute tfidf-behav numeric
+@attribute tfidf-behavior numeric
+@attribute tfidf-bench numeric
+@attribute tfidf-beyon numeric
+@attribute tfidf-bfg numeric
+@attribute tfidf-bi numeric
+@attribute tfidf-bind numeric
+@attribute tfidf-bit numeric
+@attribute tfidf-black numeric
+@attribute tfidf-block numeric
+@attribute tfidf-blu numeric
+@attribute tfidf-bod numeric
+@attribute tfidf-bogon numeric
+@attribute tfidf-bool numeric
+@attribute tfidf-boolean numeric
+@attribute tfidf-boolean^kleen numeric
+@attribute tfidf-booleanar numeric
+@attribute tfidf-bottom numeric
+@attribute tfidf-bottommost numeric
+@attribute tfidf-bound numeric
+@attribute tfidf-break numeric
+@attribute tfidf-brew numeric
+@attribute tfidf-brew^func numeric
+@attribute tfidf-brokenpipeerror numeric
+@attribute tfidf-broker numeric
+@attribute tfidf-buck numeric
+@attribute tfidf-buffer numeric
+@attribute tfidf-build numeric
+@attribute tfidf-builder numeric
+@attribute tfidf-built numeric
+@attribute tfidf-builtin numeric
+@attribute tfidf-bulk numeric
+@attribute tfidf-bus numeric
+@attribute tfidf-bytecod numeric
+@attribute tfidf-bytestr numeric
+@attribute tfidf-bz2 numeric
+@attribute tfidf-ca numeric
+@attribute tfidf-cach numeric
+@attribute tfidf-caffe2benchmarkb numeric
+@attribute tfidf-cal numeric
+@attribute tfidf-calcl numeric
+@attribute tfidf-calibr numeric
+@attribute tfidf-callback numeric
+@attribute tfidf-caller numeric
+@attribute tfidf-candid numeric
+@attribute tfidf-capac numeric
+@attribute tfidf-capit numeric
+@attribute tfidf-car numeric
+@attribute tfidf-card numeric
+@attribute tfidf-carrot numeric
+@attribute tfidf-caseinsensitivedict numeric
+@attribute tfidf-caselesskeyword numeric
+@attribute tfidf-catch numeric
+@attribute tfidf-categor numeric
+@attribute tfidf-categoricaldtyp numeric
+@attribute tfidf-categoricalind numeric
+@attribute tfidf-cbv numeric
+@attribute tfidf-cdot numeric
+@attribute tfidf-cel numeric
+@attribute tfidf-center numeric
+@attribute tfidf-cerberus numeric
+@attribute tfidf-ch numeric
+@attribute tfidf-chain numeric
+@attribute tfidf-chang numeric
+@attribute tfidf-channel numeric
+@attribute tfidf-character numeric
+@attribute tfidf-check numeric
+@attribute tfidf-checkpoint numeric
+@attribute tfidf-child numeric
+@attribute tfidf-chunk numeric
+@attribute tfidf-ci numeric
+@attribute tfidf-circl numeric
+@attribute tfidf-cl numeric
+@attribute tfidf-classif numeric
+@attribute tfidf-claus numeric
+@attribute tfidf-clean numeric
+@attribute tfidf-client numeric
+@attribute tfidf-clobber numeric
+@attribute tfidf-clr numeric
+@attribute tfidf-cmak numeric
+@attribute tfidf-cmemcach numeric
+@attribute tfidf-cod numeric
+@attribute tfidf-coeff numeric
+@attribute tfidf-col numeric
+@attribute tfidf-collect numeric
+@attribute tfidf-color numeric
+@attribute tfidf-colorbar numeric
+@attribute tfidf-colormap numeric
+@attribute tfidf-colour numeric
+@attribute tfidf-column numeric
+@attribute tfidf-com^au numeric
+@attribute tfidf-comb numeric
+@attribute tfidf-command numeric
+@attribute tfidf-commanderror numeric
+@attribute tfidf-commentcl numeric
+@attribute tfidf-common numeric
+@attribute tfidf-commun numeric
+@attribute tfidf-comp numeric
+@attribute tfidf-comparison numeric
+@attribute tfidf-compat numeric
+@attribute tfidf-compiler numeric
+@attribute tfidf-compl numeric
+@attribute tfidf-compon numeric
+@attribute tfidf-comput numeric
+@attribute tfidf-con numeric
+@attribute tfidf-concat numeric
+@attribute tfidf-condit numeric
+@attribute tfidf-config numeric
+@attribute tfidf-configdict numeric
+@attribute tfidf-configur numeric
+@attribute tfidf-configvalueerror numeric
+@attribute tfidf-confus numeric
+@attribute tfidf-connect numeric
+@attribute tfidf-const numeric
+@attribute tfidf-constraint numeric
+@attribute tfidf-construc numeric
+@attribute tfidf-cont numeric
+@attribute tfidf-container numeric
+@attribute tfidf-context numeric
+@attribute tfidf-contextfunct numeric
+@attribute tfidf-contigu numeric
+@attribute tfidf-control numeric
+@attribute tfidf-conv numeric
+@attribute tfidf-conv3d numeric
+@attribute tfidf-conver numeric
+@attribute tfidf-converg numeric
+@attribute tfidf-convolut numeric
+@attribute tfidf-convrelu3d numeric
+@attribute tfidf-cook numeric
+@attribute tfidf-cookiejar numeric
+@attribute tfidf-cop numeric
+@attribute tfidf-correct numeric
+@attribute tfidf-correl numeric
+@attribute tfidf-correspon numeric
+@attribute tfidf-cosm numeric
+@attribute tfidf-count numeric
+@attribute tfidf-covar numeric
+@attribute tfidf-cr numeric
+@attribute tfidf-crash numeric
+@attribute tfidf-creat numeric
+@attribute tfidf-crit numeric
+@attribute tfidf-criter numeric
+@attribute tfidf-crypt numeric
+@attribute tfidf-cub numeric
+@attribute tfidf-cud numeric
+@attribute tfidf-cuml numeric
+@attribute tfidf-cur numeric
+@attribute tfidf-custom numeric
+@attribute tfidf-cycl numeric
+@attribute tfidf-cython^distutil numeric
+@attribute tfidf-d@evil^com numeric
+@attribute tfidf-d^g numeric
+@attribute tfidf-d^getl numeric
+@attribute tfidf-d^setl numeric
+@attribute tfidf-damp numeric
+@attribute tfidf-dat numeric
+@attribute tfidf-data^setparseact numeric
+@attribute tfidf-datab numeric
+@attribute tfidf-datafram numeric
+@attribute tfidf-dataleft numeric
+@attribute tfidf-dataright numeric
+@attribute tfidf-dateoff numeric
+@attribute tfidf-datetim numeric
+@attribute tfidf-datetime^timedelt numeric
+@attribute tfidf-day numeric
+@attribute tfidf-db numeric
+@attribute tfidf-deal numeric
+@attribute tfidf-dec numeric
+@attribute tfidf-decompr numeric
+@attribute tfidf-decor numeric
+@attribute tfidf-deep numeric
+@attribute tfidf-def numeric
+@attribute tfidf-default numeric
+@attribute tfidf-defin numeric
+@attribute tfidf-definit numeric
+@attribute tfidf-degr numeric
+@attribute tfidf-del numeric
+@attribute tfidf-deleg numeric
+@attribute tfidf-delim numeric
+@attribute tfidf-delimiter numeric
+@attribute tfidf-delitem numeric
+@attribute tfidf-delt numeric
+@attribute tfidf-den numeric
+@attribute tfidf-denomin numeric
+@attribute tfidf-denot numeric
+@attribute tfidf-dep numeric
+@attribute tfidf-deprec numeric
+@attribute tfidf-depth numeric
+@attribute tfidf-dequ numeric
+@attribute tfidf-dequantstub numeric
+@attribute tfidf-der numeric
+@attribute tfidf-deriv numeric
+@attribute tfidf-desc numeric
+@attribute tfidf-describ numeric
+@attribute tfidf-descript numeric
+@attribute tfidf-desir numeric
+@attribute tfidf-destr numeric
+@attribute tfidf-detail numeric
+@attribute tfidf-detect numeric
+@attribute tfidf-dev numeric
+@attribute tfidf-developer numeric
+@attribute tfidf-df1 numeric
+@attribute tfidf-df2 numeric
+@attribute tfidf-di numeric
+@attribute tfidf-diagon numeric
+@attribute tfidf-diagonalt numeric
+@attribute tfidf-dict numeric
+@attribute tfidf-differ numeric
+@attribute tfidf-digraph numeric
+@attribute tfidf-dil numeric
+@attribute tfidf-dim numeric
+@attribute tfidf-dir numeric
+@attribute tfidf-direct numeric
+@attribute tfidf-disabl numeric
+@attribute tfidf-discard numeric
+@attribute tfidf-disjoint numeric
+@attribute tfidf-disk numeric
+@attribute tfidf-dispatch numeric
+@attribute tfidf-displ numeric
+@attribute tfidf-displayhook numeric
+@attribute tfidf-distingu numeric
+@attribute tfidf-distribut numeric
+@attribute tfidf-distutil numeric
+@attribute tfidf-div numeric
+@attribute tfidf-divid numeric
+@attribute tfidf-djang numeric
+@attribute tfidf-django^contrib numeric
+@attribute tfidf-django^db numeric
+@attribute tfidf-dn653308 numeric
+@attribute tfidf-doctyp numeric
+@attribute tfidf-doctypecl numeric
+@attribute tfidf-docum numeric
+@attribute tfidf-documentcl numeric
+@attribute tfidf-doesn numeric
+@attribute tfidf-doesnot numeric
+@attribute tfidf-domain numeric
+@attribute tfidf-don numeric
+@attribute tfidf-dot numeric
+@attribute tfidf-doub numeric
+@attribute tfidf-download numeric
+@attribute tfidf-draw numeric
+@attribute tfidf-dropout numeric
+@attribute tfidf-dry numeric
+@attribute tfidf-dtyp numeric
+@attribute tfidf-duck numeric
+@attribute tfidf-dud numeric
+@attribute tfidf-dum numeric
+@attribute tfidf-dur numeric
+@attribute tfidf-dynam numeric
+@attribute tfidf-ea numeric
+@attribute tfidf-earliest numeric
+@attribute tfidf-ec numeric
+@attribute tfidf-edg numeric
+@attribute tfidf-eff numeric
+@attribute tfidf-effect numeric
+@attribute 'tfidf-eg\%cd' numeric
+@attribute tfidf-el numeric
+@attribute tfidf-elementcl numeric
+@attribute tfidf-em numeric
+@attribute tfidf-em&gt numeric
+@attribute tfidf-emb numeric
+@attribute tfidf-embeddingbag numeric
+@attribute tfidf-empt numeric
+@attribute tfidf-en numeric
+@attribute tfidf-enabl numeric
+@attribute tfidf-encapsl numeric
+@attribute tfidf-encod numeric
+@attribute tfidf-encoder numeric
+@attribute tfidf-encounter numeric
+@attribute tfidf-encrypteddict numeric
+@attribute tfidf-endfor numeric
+@attribute tfidf-endpoint numeric
+@attribute tfidf-enforc numeric
+@attribute tfidf-eng numeric
+@attribute tfidf-ensur numeric
+@attribute tfidf-entir numeric
+@attribute tfidf-entr numeric
+@attribute tfidf-enumer numeric
+@attribute tfidf-env numeric
+@attribute tfidf-environm numeric
+@attribute tfidf-eof numeric
+@attribute tfidf-ep numeric
+@attribute tfidf-equ numeric
+@attribute tfidf-equiv numeric
+@attribute tfidf-error numeric
+@attribute tfidf-escap numeric
+@attribute tfidf-estim numeric
+@attribute tfidf-ev numeric
+@attribute tfidf-eval numeric
+@attribute tfidf-evalu numeric
+@attribute tfidf-event numeric
+@attribute tfidf-eventu numeric
+@attribute tfidf-everyth numeric
+@attribute tfidf-evil numeric
+@attribute tfidf-exact numeric
+@attribute tfidf-examin numeric
+@attribute tfidf-exampl numeric
+@attribute tfidf-example^com numeric
+@attribute tfidf-excel numeric
+@attribute tfidf-execut numeric
+@attribute tfidf-exempt numeric
+@attribute tfidf-exhaust numeric
+@attribute tfidf-exit numeric
+@attribute tfidf-exp numeric
+@attribute tfidf-expect numeric
+@attribute tfidf-experim numeric
+@attribute tfidf-explicit numeric
+@attribute tfidf-expr numeric
+@attribute tfidf-exptransform numeric
+@attribute tfidf-ext numeric
+@attribute tfidf-extensiondtyp numeric
+@attribute tfidf-extern numeric
+@attribute tfidf-extr numeric
+@attribute tfidf-extract numeric
+@attribute tfidf-f^relu numeric
+@attribute tfidf-fact numeric
+@attribute tfidf-fail numeric
+@attribute tfidf-failon numeric
+@attribute tfidf-fal numeric
+@attribute tfidf-fallback numeric
+@attribute tfidf-fast numeric
+@attribute tfidf-featur numeric
+@attribute tfidf-fewer numeric
+@attribute tfidf-fic numeric
+@attribute tfidf-field numeric
+@attribute tfidf-figur numeric
+@attribute tfidf-fil numeric
+@attribute tfidf-filedescript numeric
+@attribute tfidf-filemetad numeric
+@attribute tfidf-filenam numeric
+@attribute tfidf-fileobject numeric
+@attribute tfidf-filesystemloader numeric
+@attribute tfidf-filter numeric
+@attribute tfidf-fin numeric
+@attribute tfidf-find numeric
+@attribute tfidf-finder numeric
+@attribute tfidf-fir numeric
+@attribute tfidf-fish numeric
+@attribute tfidf-fishersnedecor numeric
+@attribute tfidf-fit numeric
+@attribute tfidf-fk numeric
+@attribute tfidf-flag numeric
+@attribute tfidf-float numeric
+@attribute tfidf-flow numeric
+@attribute tfidf-fn numeric
+@attribute tfidf-fo numeric
+@attribute tfidf-fold numeric
+@attribute tfidf-folder numeric
+@attribute tfidf-follow numeric
+@attribute tfidf-followedb numeric
+@attribute tfidf-followlink numeric
+@attribute tfidf-font numeric
+@attribute tfidf-foo&gt numeric
+@attribute tfidf-forc numeric
+@attribute tfidf-forcel numeric
+@attribute tfidf-foreign numeric
+@attribute tfidf-form numeric
+@attribute tfidf-format numeric
+@attribute tfidf-forml numeric
+@attribute tfidf-found numeric
+@attribute tfidf-frac numeric
+@attribute tfidf-fram numeric
+@attribute tfidf-framer numeric
+@attribute tfidf-framework numeric
+@attribute tfidf-freedom numeric
+@attribute tfidf-french numeric
+@attribute tfidf-freq numeric
+@attribute tfidf-frequ numeric
+@attribute tfidf-front numeric
+@attribute tfidf-func numeric
+@attribute tfidf-funct numeric
+@attribute tfidf-functional^conv2d numeric
+@attribute tfidf-functional^fold numeric
+@attribute tfidf-functional^pad numeric
+@attribute tfidf-fus numeric
+@attribute tfidf-gam numeric
+@attribute tfidf-gav numeric
+@attribute tfidf-ge numeric
+@attribute tfidf-gener numeric
+@attribute tfidf-genericrel numeric
+@attribute tfidf-getattr numeric
+@attribute tfidf-getitem numeric
+@attribute tfidf-giv numeric
+@attribute tfidf-gl numeric
+@attribute tfidf-glob numeric
+@attribute tfidf-globl numeric
+@attribute tfidf-goal numeric
+@attribute tfidf-gomez numeric
+@attribute tfidf-good numeric
+@attribute tfidf-google^com numeric
+@attribute tfidf-grad numeric
+@attribute tfidf-grammar numeric
+@attribute tfidf-graph numeric
+@attribute tfidf-green numeric
+@attribute tfidf-grid numeric
+@attribute tfidf-group numeric
+@attribute tfidf-gu numeric
+@attribute tfidf-guar numeric
+@attribute tfidf-guy numeric
+@attribute tfidf-gzip^gzipfil numeric
+@attribute tfidf-ha numeric
+@attribute tfidf-half numeric
+@attribute tfidf-hand numeric
+@attribute tfidf-handl numeric
+@attribute tfidf-handler numeric
+@attribute tfidf-hap numeric
+@attribute tfidf-harder numeric
+@attribute tfidf-hardwar numeric
+@attribute tfidf-harm numeric
+@attribute tfidf-hash numeric
+@attribute tfidf-hat numeric
+@attribute tfidf-hav numeric
+@attribute tfidf-header numeric
+@attribute tfidf-heav numeric
+@attribute tfidf-hebrew numeric
+@attribute tfidf-hebrewprober numeric
+@attribute tfidf-height numeric
+@attribute tfidf-hel numeric
+@attribute tfidf-hexbin numeric
+@attribute tfidf-hid numeric
+@attribute tfidf-high numeric
+@attribute tfidf-hist numeric
+@attribute tfidf-histogram numeric
+@attribute tfidf-hol numeric
+@attribute tfidf-hold numeric
+@attribute tfidf-holovat numeric
+@attribute tfidf-hood numeric
+@attribute tfidf-hook numeric
+@attribute tfidf-horizont numeric
+@attribute tfidf-hot numeric
+@attribute tfidf-hour numeric
+@attribute tfidf-href numeric
+@attribute tfidf-html numeric
+@attribute tfidf-http numeric
+@attribute tfidf-http^request numeric
+@attribute tfidf-httpbin^org numeric
+@attribute tfidf-id numeric
+@attribute tfidf-idempot numeric
+@attribute tfidf-ident numeric
+@attribute tfidf-identif numeric
+@attribute tfidf-ignor numeric
+@attribute tfidf-ij numeric
+@attribute tfidf-il numeric
+@attribute tfidf-im numeric
+@attribute tfidf-im2col numeric
+@attribute tfidf-imag numeric
+@attribute tfidf-imagefield numeric
+@attribute tfidf-immut numeric
+@attribute tfidf-imp numeric
+@attribute tfidf-impl numeric
+@attribute tfidf-implem numeric
+@attribute tfidf-implicit numeric
+@attribute tfidf-import numeric
+@attribute tfidf-improper numeric
+@attribute tfidf-improv numeric
+@attribute tfidf-inclus numeric
+@attribute tfidf-incon numeric
+@attribute tfidf-incr numeric
+@attribute tfidf-incur numeric
+@attribute tfidf-ind numeric
+@attribute tfidf-index^html numeric
+@attribute tfidf-individu numeric
+@attribute tfidf-inf numeric
+@attribute tfidf-infer numeric
+@attribute tfidf-infin numeric
+@attribute tfidf-infinit numeric
+@attribute tfidf-inform numeric
+@attribute tfidf-inherit numeric
+@attribute tfidf-init numeric
+@attribute tfidf-inl numeric
+@attribute tfidf-inp numeric
+@attribute tfidf-input numeric
+@attribute tfidf-insensit numeric
+@attribute tfidf-inser numeric
+@attribute tfidf-insid numeric
+@attribute tfidf-inspir numeric
+@attribute tfidf-inst numeric
+@attribute tfidf-int numeric
+@attribute tfidf-int32 numeric
+@attribute tfidf-int64 numeric
+@attribute tfidf-integer numeric
+@attribute tfidf-integer^setresultsnam numeric
+@attribute tfidf-integerar numeric
+@attribute tfidf-interact numeric
+@attribute tfidf-intercept numeric
+@attribute tfidf-interest numeric
+@attribute tfidf-interfac numeric
+@attribute tfidf-interm numeric
+@attribute tfidf-intern numeric
+@attribute tfidf-interpr numeric
+@attribute tfidf-interpreter numeric
+@attribute tfidf-interv numeric
+@attribute tfidf-intervalind numeric
+@attribute tfidf-inv numeric
+@attribute tfidf-invalidkeyerror numeric
+@attribute tfidf-inver numeric
+@attribute tfidf-invok numeric
+@attribute tfidf-io numeric
+@attribute tfidf-ipython numeric
+@attribute tfidf-isinst numeric
+@attribute tfidf-isn numeric
+@attribute tfidf-isol numeric
+@attribute tfidf-issu numeric
+@attribute tfidf-item numeric
+@attribute tfidf-iter numeric
+@attribute tfidf-iterallitem numeric
+@attribute tfidf-iterallk numeric
+@attribute tfidf-iterallvalu numeric
+@attribute tfidf-iteritem numeric
+@attribute tfidf-iterk numeric
+@attribute tfidf-iterl numeric
+@attribute tfidf-iterlistitem numeric
+@attribute tfidf-itervalu numeric
+@attribute tfidf-jakob numeric
+@attribute tfidf-jar numeric
+@attribute tfidf-jinj numeric
+@attribute tfidf-jinja2^parser numeric
+@attribute tfidf-jon numeric
+@attribute tfidf-jpeg numeric
+@attribute tfidf-json numeric
+@attribute tfidf-kaiser numeric
+@attribute tfidf-katakan numeric
+@attribute tfidf-kd numeric
+@attribute tfidf-kernel numeric
+@attribute tfidf-key numeric
+@attribute tfidf-keyerror numeric
+@attribute tfidf-keyword numeric
+@attribute tfidf-kind numeric
+@attribute tfidf-kleen numeric
+@attribute tfidf-kw numeric
+@attribute tfidf-kwarg numeric
+@attribute tfidf-l2 numeric
+@attribute tfidf-label numeric
+@attribute tfidf-langu numeric
+@attribute tfidf-larg numeric
+@attribute tfidf-larger numeric
+@attribute tfidf-largest numeric
+@attribute tfidf-lastnam numeric
+@attribute tfidf-latest numeric
+@attribute tfidf-layer numeric
+@attribute tfidf-layout numeric
+@attribute tfidf-laz numeric
+@attribute tfidf-lead numeric
+@attribute tfidf-learn numeric
+@attribute tfidf-left numeric
+@attribute tfidf-leg numeric
+@attribute tfidf-len numeric
+@attribute tfidf-length numeric
+@attribute tfidf-level numeric
+@attribute tfidf-lfloor numeric
+@attribute tfidf-libr numeric
+@attribute tfidf-lif numeric
+@attribute tfidf-lifetim numeric
+@attribute tfidf-lik numeric
+@attribute tfidf-lim numeric
+@attribute tfidf-lin numeric
+@attribute tfidf-link numeric
+@attribute tfidf-linux numeric
+@attribute tfidf-liquid numeric
+@attribute tfidf-liquids^vodk numeric
+@attribute tfidf-list numeric
+@attribute tfidf-listitem numeric
+@attribute tfidf-listmixin numeric
+@attribute tfidf-liter numeric
+@attribute tfidf-liv numeric
+@attribute tfidf-llion numeric
+@attribute tfidf-lo numeric
+@attribute tfidf-load numeric
+@attribute tfidf-loader numeric
+@attribute tfidf-loc numeric
+@attribute tfidf-localhost numeric
+@attribute tfidf-localpath numeric
+@attribute tfidf-lock numeric
+@attribute tfidf-lockerror numeric
+@attribute tfidf-lockfail numeric
+@attribute tfidf-log numeric
+@attribute tfidf-login numeric
+@attribute tfidf-logit numeric
+@attribute tfidf-loglog numeric
+@attribute tfidf-longer numeric
+@attribute tfidf-lookahead numeric
+@attribute tfidf-lookup numeric
+@attribute tfidf-loop numeric
+@attribute tfidf-lr numeric
+@attribute tfidf-lru numeric
+@attribute tfidf-lstrip numeric
+@attribute tfidf-lukasz numeric
+@attribute tfidf-m^sampl numeric
+@attribute tfidf-mac numeric
+@attribute tfidf-macr numeric
+@attribute tfidf-mad numeric
+@attribute tfidf-mag numeric
+@attribute tfidf-magnif numeric
+@attribute tfidf-mailbox numeric
+@attribute tfidf-mailpilevcard numeric
+@attribute tfidf-main numeric
+@attribute tfidf-maintain numeric
+@attribute tfidf-mak numeric
+@attribute tfidf-malform numeric
+@attribute tfidf-man numeric
+@attribute tfidf-manag numeric
+@attribute tfidf-manage^p numeric
+@attribute tfidf-manager numeric
+@attribute tfidf-manager^pool numeric
+@attribute tfidf-manager^request numeric
+@attribute tfidf-manifest numeric
+@attribute tfidf-manu numeric
+@attribute tfidf-map numeric
+@attribute tfidf-mark numeric
+@attribute tfidf-markup numeric
+@attribute tfidf-mask numeric
+@attribute tfidf-mat numeric
+@attribute tfidf-match numeric
+@attribute tfidf-math numeric
+@attribute tfidf-mathc numeric
+@attribute tfidf-mathemat numeric
+@attribute tfidf-mathml numeric
+@attribute tfidf-matlab numeric
+@attribute tfidf-matplotlib numeric
+@attribute tfidf-matplotlib^ac numeric
+@attribute tfidf-matr numeric
+@attribute tfidf-maxim numeric
+@attribute tfidf-maxlength numeric
+@attribute tfidf-maxretryerror numeric
+@attribute tfidf-meantim numeric
+@attribute tfidf-measur numeric
+@attribute tfidf-mechan numeric
+@attribute tfidf-mem numeric
+@attribute tfidf-member numeric
+@attribute tfidf-memcach numeric
+@attribute tfidf-memcheck numeric
+@attribute tfidf-memor numeric
+@attribute tfidf-menu numeric
+@attribute tfidf-mer numeric
+@attribute tfidf-merg numeric
+@attribute tfidf-metacl numeric
+@attribute tfidf-metad numeric
+@attribute tfidf-meth numeric
+@attribute tfidf-method numeric
+@attribute tfidf-mi numeric
+@attribute tfidf-middlewar numeric
+@attribute tfidf-migr numeric
+@attribute tfidf-migrations^migr numeric
+@attribute tfidf-min numeric
+@attribute tfidf-minfunc numeric
+@attribute tfidf-minibatch numeric
+@attribute tfidf-minim numeric
+@attribute tfidf-minimalclientinterfac numeric
+@attribute tfidf-minlength numeric
+@attribute tfidf-minor numeric
+@attribute tfidf-minut numeric
+@attribute tfidf-mistak numeric
+@attribute tfidf-mixin numeric
+@attribute tfidf-mo numeric
+@attribute tfidf-mock numeric
+@attribute tfidf-mockpop3 numeric
+@attribute tfidf-mod numeric
+@attribute tfidf-model numeric
+@attribute tfidf-model^parameter numeric
+@attribute tfidf-modem numeric
+@attribute tfidf-modif numeric
+@attribute tfidf-modl numeric
+@attribute tfidf-momentum numeric
+@attribute tfidf-mon numeric
+@attribute tfidf-month numeric
+@attribute tfidf-mor numeric
+@attribute tfidf-mov numeric
+@attribute tfidf-msdn^microsoft numeric
+@attribute tfidf-msg numeric
+@attribute tfidf-mult numeric
+@attribute tfidf-multiind numeric
+@attribute tfidf-multipart numeric
+@attribute tfidf-multipl numeric
+@attribute tfidf-multiproc numeric
+@attribute tfidf-multivalu numeric
+@attribute tfidf-multivaluedict numeric
+@attribute tfidf-multivaluedict^par numeric
+@attribute tfidf-mut numeric
+@attribute tfidf-myform^beatl numeric
+@attribute tfidf-myfram numeric
+@attribute tfidf-mypackage^app1 numeric
+@attribute tfidf-mypackage^app2 numeric
+@attribute tfidf-na numeric
+@attribute tfidf-nam numeric
+@attribute tfidf-namespac numeric
+@attribute tfidf-namespace^m numeric
+@attribute tfidf-nan numeric
+@attribute tfidf-narg numeric
+@attribute tfidf-nbatch numeric
+@attribute tfidf-nbconver numeric
+@attribute tfidf-nchan numeric
+@attribute tfidf-ndar numeric
+@attribute tfidf-nec numeric
+@attribute tfidf-neg numeric
+@attribute tfidf-neighbor numeric
+@attribute tfidf-nest numeric
+@attribute tfidf-nestedobject numeric
+@attribute tfidf-nesterov numeric
+@attribute tfidf-net numeric
+@attribute tfidf-network numeric
+@attribute tfidf-neur numeric
+@attribute tfidf-newl numeric
+@attribute tfidf-nhead numeric
+@attribute tfidf-nic numeric
+@attribute tfidf-nik numeric
+@attribute tfidf-nl numeric
+@attribute tfidf-nn numeric
+@attribute tfidf-nn^bcewithlogitsl numeric
+@attribute tfidf-nn^constantpad3d numeric
+@attribute tfidf-nn^conv2d numeric
+@attribute tfidf-nn^conv3d numeric
+@attribute tfidf-nn^embeddingbag numeric
+@attribute tfidf-nn^maxunpool3d numeric
+@attribute tfidf-nn^modl numeric
+@attribute tfidf-nn^multilabelmarginl numeric
+@attribute tfidf-nn^transformerencoderlayer numeric
+@attribute tfidf-nnq^dequ numeric
+@attribute tfidf-noam numeric
+@attribute tfidf-nod numeric
+@attribute tfidf-noh numeric
+@attribute tfidf-nonconsol numeric
+@attribute tfidf-nonec numeric
+@attribute tfidf-nonneg numeric
+@attribute tfidf-noq numeric
+@attribute tfidf-norder numeric
+@attribute tfidf-norm numeric
+@attribute tfidf-notan numeric
+@attribute tfidf-notebook numeric
+@attribute tfidf-np numeric
+@attribute tfidf-np^dtyp numeric
+@attribute tfidf-np^linspac numeric
+@attribute tfidf-np^p numeric
+@attribute tfidf-np^sin numeric
+@attribute tfidf-nsampl numeric
+@attribute tfidf-nsubject numeric
+@attribute tfidf-num numeric
+@attribute tfidf-number numeric
+@attribute tfidf-numer numeric
+@attribute tfidf-nump numeric
+@attribute tfidf-numpy^ndar numeric
+@attribute tfidf-obj numeric
+@attribute tfidf-object numeric
+@attribute tfidf-observ numeric
+@attribute tfidf-obtain numeric
+@attribute tfidf-occur numeric
+@attribute tfidf-odf numeric
+@attribute tfidf-omdict numeric
+@attribute tfidf-onc numeric
+@attribute tfidf-onehotcategor numeric
+@attribute tfidf-oneormor numeric
+@attribute tfidf-onl numeric
+@attribute tfidf-op numeric
+@attribute tfidf-open numeric
+@attribute tfidf-opendocum numeric
+@attribute tfidf-openpypl numeric
+@attribute tfidf-openpyxl numeric
+@attribute tfidf-oper numeric
+@attribute tfidf-operatornam numeric
+@attribute tfidf-opnamespac numeric
+@attribute tfidf-ops^ad numeric
+@attribute tfidf-ops^const numeric
+@attribute tfidf-ops^cop numeric
+@attribute tfidf-ops^loop numeric
+@attribute tfidf-ops^ml numeric
+@attribute tfidf-ops^task numeric
+@attribute tfidf-opt numeric
+@attribute tfidf-optim numeric
+@attribute tfidf-optim2 numeric
+@attribute tfidf-optimiz numeric
+@attribute tfidf-optimizer^step numeric
+@attribute tfidf-optimizer^zer numeric
+@attribute tfidf-order numeric
+@attribute tfidf-orient numeric
+@attribute tfidf-origin numeric
+@attribute tfidf-os numeric
+@attribute tfidf-os^environ numeric
+@attribute tfidf-output numeric
+@attribute tfidf-output^ numeric
+@attribute tfidf-output^back numeric
+@attribute tfidf-outsid numeric
+@attribute tfidf-overlap numeric
+@attribute tfidf-overload numeric
+@attribute tfidf-overrid numeric
+@attribute tfidf-overwrit numeric
+@attribute tfidf-pa numeric
+@attribute tfidf-pack numeric
+@attribute tfidf-packageloader numeric
+@attribute tfidf-pad numeric
+@attribute tfidf-pag numeric
+@attribute tfidf-pan numeric
+@attribute tfidf-pandas^ar numeric
+@attribute tfidf-pandas^booleanar numeric
+@attribute tfidf-paper numeric
+@attribute tfidf-par numeric
+@attribute tfidf-parallel numeric
+@attribute tfidf-param numeric
+@attribute tfidf-parameter numeric
+@attribute tfidf-parent numeric
+@attribute tfidf-parmar numeric
+@attribute tfidf-parseexpr numeric
+@attribute tfidf-parser numeric
+@attribute tfidf-parser^fr numeric
+@attribute tfidf-parseresult numeric
+@attribute tfidf-parsestr numeric
+@attribute tfidf-part numeric
+@attribute tfidf-particl numeric
+@attribute tfidf-password numeric
+@attribute tfidf-patch numeric
+@attribute tfidf-path numeric
+@attribute tfidf-path^loc numeric
+@attribute tfidf-pathlib^path numeric
+@attribute tfidf-pattern numeric
+@attribute tfidf-pcm numeric
+@attribute tfidf-pd^ar numeric
+@attribute tfidf-pd^categoricaldtyp numeric
+@attribute tfidf-pd^categoricalind numeric
+@attribute tfidf-pd^int32dtyp numeric
+@attribute tfidf-pd^intervaldtyp numeric
+@attribute tfidf-pd^ser numeric
+@attribute tfidf-penalt numeric
+@attribute tfidf-pep numeric
+@attribute tfidf-perform numeric
+@attribute tfidf-perm numeric
+@attribute tfidf-pexpect^spawn numeric
+@attribute tfidf-pi numeric
+@attribute tfidf-pip numeric
+@attribute tfidf-pkg numeric
+@attribute tfidf-pl numeric
+@attribute tfidf-plac numeric
+@attribute tfidf-placeholder numeric
+@attribute tfidf-plain numeric
+@attribute tfidf-plan numeric
+@attribute tfidf-platform numeric
+@attribute tfidf-plot numeric
+@attribute tfidf-plotting^back numeric
+@attribute tfidf-plugin numeric
+@attribute tfidf-pm numeric
+@attribute tfidf-pm^g numeric
+@attribute tfidf-pm^iterk numeric
+@attribute tfidf-pm^stat numeric
+@attribute tfidf-pmf numeric
+@attribute tfidf-po numeric
+@attribute tfidf-point numeric
+@attribute tfidf-poisson numeric
+@attribute tfidf-pol numeric
+@attribute tfidf-polosukhin numeric
+@attribute tfidf-pool numeric
+@attribute tfidf-poolmanager numeric
+@attribute tfidf-pop numeric
+@attribute tfidf-pop3 numeric
+@attribute tfidf-pop3mailbox numeric
+@attribute tfidf-popitem numeric
+@attribute tfidf-popl numeric
+@attribute tfidf-poplib numeric
+@attribute tfidf-poplistitem numeric
+@attribute tfidf-popvalu numeric
+@attribute tfidf-posit numeric
+@attribute tfidf-posn numeric
+@attribute tfidf-post numeric
+@attribute tfidf-pot numeric
+@attribute tfidf-pot^k numeric
+@attribute tfidf-pot^rl numeric
+@attribute tfidf-pot^valu numeric
+@attribute tfidf-pot^walk numeric
+@attribute tfidf-potat numeric
+@attribute tfidf-pr numeric
+@attribute tfidf-prec numeric
+@attribute tfidf-predict numeric
+@attribute tfidf-pref numeric
+@attribute tfidf-prefer numeric
+@attribute tfidf-prefixloader numeric
+@attribute tfidf-prepar numeric
+@attribute tfidf-preparedrequest numeric
+@attribute tfidf-preserv numeric
+@attribute tfidf-prev numeric
+@attribute tfidf-print numeric
+@attribute tfidf-printer numeric
+@attribute tfidf-privileg numeric
+@attribute tfidf-prob numeric
+@attribute tfidf-probabil numeric
+@attribute tfidf-prober numeric
+@attribute tfidf-probs^ numeric
+@attribute tfidf-proc numeric
+@attribute tfidf-prod numeric
+@attribute tfidf-produc numeric
+@attribute tfidf-progr numeric
+@attribute tfidf-program numeric
+@attribute tfidf-project numeric
+@attribute tfidf-prompt numeric
+@attribute tfidf-prop numeric
+@attribute tfidf-proper numeric
+@attribute tfidf-protect numeric
+@attribute tfidf-prov numeric
+@attribute tfidf-provid numeric
+@attribute tfidf-provider numeric
+@attribute tfidf-prox numeric
+@attribute tfidf-publ numeric
+@attribute tfidf-py numeric
+@attribute tfidf-pydist^json numeric
+@attribute tfidf-pyp numeric
+@attribute tfidf-python numeric
+@attribute tfidf-pytorch numeric
+@attribute tfidf-qu numeric
+@attribute tfidf-quant numeric
+@attribute tfidf-quantized^conv3d numeric
+@attribute tfidf-quantstub numeric
+@attribute tfidf-quer numeric
+@attribute tfidf-quot numeric
+@attribute tfidf-quotedstr numeric
+@attribute tfidf-ra numeric
+@attribute tfidf-rad numeric
+@attribute tfidf-radio^ch numeric
+@attribute tfidf-radio^id numeric
+@attribute tfidf-random numeric
+@attribute tfidf-rang numeric
+@attribute tfidf-rat numeric
+@attribute tfidf-raw numeric
+@attribute tfidf-reach numeric
+@attribute tfidf-read numeric
+@attribute tfidf-real numeric
+@attribute tfidf-reason numeric
+@attribute tfidf-rec numeric
+@attribute tfidf-recent numeric
+@attribute tfidf-recogniz numeric
+@attribute tfidf-recom numeric
+@attribute tfidf-reconstruc numeric
+@attribute tfidf-record numeric
+@attribute tfidf-red numeric
+@attribute tfidf-redirect numeric
+@attribute tfidf-reduc numeric
+@attribute tfidf-redund numeric
+@attribute tfidf-ref numeric
+@attribute tfidf-refer numeric
+@attribute tfidf-reflect numeric
+@attribute tfidf-regard numeric
+@attribute tfidf-register numeric
+@attribute tfidf-regl numeric
+@attribute tfidf-regr numeric
+@attribute tfidf-reject numeric
+@attribute tfidf-rel numeric
+@attribute tfidf-relationship numeric
+@attribute tfidf-reload numeric
+@attribute tfidf-relu numeric
+@attribute tfidf-remember numeric
+@attribute tfidf-remot numeric
+@attribute tfidf-remov numeric
+@attribute tfidf-render numeric
+@attribute tfidf-renorm numeric
+@attribute tfidf-repl numeric
+@attribute tfidf-replac numeric
+@attribute tfidf-repoint numeric
+@attribute tfidf-report numeric
+@attribute tfidf-repr numeric
+@attribute tfidf-req numeric
+@attribute tfidf-req^prepar numeric
+@attribute tfidf-request numeric
+@attribute tfidf-requestfact numeric
+@attribute tfidf-requesth numeric
+@attribute tfidf-requests^ numeric
+@attribute tfidf-requests^request numeric
+@attribute tfidf-requir numeric
+@attribute tfidf-resc numeric
+@attribute tfidf-reshap numeric
+@attribute tfidf-resolut numeric
+@attribute tfidf-resourc numeric
+@attribute tfidf-resourcefinder numeric
+@attribute tfidf-respect numeric
+@attribute tfidf-respon numeric
+@attribute tfidf-rest numeric
+@attribute tfidf-restrict numeric
+@attribute tfidf-restructuredtext numeric
+@attribute tfidf-result numeric
+@attribute tfidf-result^d numeric
+@attribute tfidf-result^dump numeric
+@attribute tfidf-retain numeric
+@attribute tfidf-retr numeric
+@attribute tfidf-retrief numeric
+@attribute tfidf-retry^incr numeric
+@attribute tfidf-retry^retr numeric
+@attribute tfidf-return numeric
+@attribute tfidf-reus numeric
+@attribute tfidf-rever numeric
+@attribute tfidf-rfc2388 numeric
+@attribute tfidf-rfloor numeric
+@attribute tfidf-rh numeric
+@attribute tfidf-rl numeric
+@attribute tfidf-robust numeric
+@attribute tfidf-rol numeric
+@attribute tfidf-rot numeric
+@attribute tfidf-row numeric
+@attribute tfidf-run numeric
+@attribute tfidf-runtim numeric
+@attribute tfidf-s^g numeric
+@attribute tfidf-s^str numeric
+@attribute tfidf-saf numeric
+@attribute tfidf-sam numeric
+@attribute tfidf-sameorigin numeric
+@attribute tfidf-sampl numeric
+@attribute tfidf-sampleproject numeric
+@attribute tfidf-san numeric
+@attribute tfidf-sanitiz numeric
+@attribute tfidf-satisf numeric
+@attribute tfidf-savepoint numeric
+@attribute tfidf-sbcharsetprober numeric
+@attribute tfidf-sbl numeric
+@attribute tfidf-sbl^ap numeric
+@attribute tfidf-scal numeric
+@attribute tfidf-scan numeric
+@attribute tfidf-scheduler numeric
+@attribute tfidf-scheduler^cycliclr numeric
+@attribute tfidf-schem numeric
+@attribute tfidf-scor numeric
+@attribute tfidf-se numeric
+@attribute tfidf-search numeric
+@attribute tfidf-secon numeric
+@attribute tfidf-sect numeric
+@attribute tfidf-sel numeric
+@attribute tfidf-select numeric
+@attribute tfidf-self^conv1 numeric
+@attribute tfidf-self^conv2 numeric
+@attribute tfidf-self^field numeric
+@attribute tfidf-self^layer numeric
+@attribute tfidf-sen numeric
+@attribute tfidf-sender numeric
+@attribute tfidf-sensit numeric
+@attribute tfidf-sep numeric
+@attribute tfidf-separ numeric
+@attribute tfidf-sequ numeric
+@attribute tfidf-ser numeric
+@attribute tfidf-series^plot numeric
+@attribute tfidf-serv numeric
+@attribute tfidf-server numeric
+@attribute tfidf-setdefault numeric
+@attribute tfidf-setitem numeric
+@attribute tfidf-sev numeric
+@attribute tfidf-sever numeric
+@attribute tfidf-sgd numeric
+@attribute tfidf-shap numeric
+@attribute tfidf-shar numeric
+@attribute tfidf-shazeer numeric
+@attribute tfidf-shel numeric
+@attribute tfidf-shift numeric
+@attribute tfidf-shim numeric
+@attribute tfidf-short numeric
+@attribute tfidf-show numeric
+@attribute tfidf-shown numeric
+@attribute tfidf-sid numeric
+@attribute tfidf-sigm numeric
+@attribute tfidf-sign numeric
+@attribute tfidf-sil numeric
+@attribute tfidf-simil numeric
+@attribute tfidf-simon numeric
+@attribute tfidf-simp numeric
+@attribute tfidf-simpl numeric
+@attribute tfidf-simplest numeric
+@attribute tfidf-sinc numeric
+@attribute tfidf-singl numeric
+@attribute tfidf-sit numeric
+@attribute tfidf-six^mov numeric
+@attribute tfidf-siz numeric
+@attribute tfidf-skip numeric
+@attribute tfidf-skipt numeric
+@attribute tfidf-sl numeric
+@attribute tfidf-slash numeric
+@attribute tfidf-sleep numeric
+@attribute tfidf-smal numeric
+@attribute tfidf-smallest numeric
+@attribute tfidf-smtorp numeric
+@attribute tfidf-snedecor numeric
+@attribute tfidf-som numeric
+@attribute tfidf-someth numeric
+@attribute tfidf-sometim numeric
+@attribute tfidf-sort numeric
+@attribute tfidf-sought numeric
+@attribute tfidf-sound numeric
+@attribute tfidf-sourc numeric
+@attribute tfidf-spac numeric
+@attribute tfidf-spar numeric
+@attribute tfidf-spat numeric
+@attribute tfidf-spatialref numeric
+@attribute tfidf-spec numeric
+@attribute tfidf-specif numeric
+@attribute tfidf-spel numeric
+@attribute tfidf-split numeric
+@attribute tfidf-splitter numeric
+@attribute tfidf-sql numeric
+@attribute tfidf-sqlalchem numeric
+@attribute tfidf-sqlt numeric
+@attribute tfidf-squar numeric
+@attribute tfidf-squash numeric
+@attribute tfidf-src numeric
+@attribute tfidf-ssl numeric
+@attribute tfidf-st numeric
+@attribute tfidf-stack numeric
+@attribute tfidf-stacktransform numeric
+@attribute tfidf-stag numeric
+@attribute tfidf-standalon numeric
+@attribute tfidf-standard numeric
+@attribute tfidf-start numeric
+@attribute tfidf-startup numeric
+@attribute tfidf-stat numeric
+@attribute tfidf-state^p numeric
+@attribute tfidf-status numeric
+@attribute tfidf-stdout numeric
+@attribute tfidf-step numeric
+@attribute tfidf-stochast numeric
+@attribute tfidf-stop numeric
+@attribute tfidf-stopon numeric
+@attribute tfidf-storageback numeric
+@attribute tfidf-storagebackedlong numeric
+@attribute tfidf-storageweakref numeric
+@attribute tfidf-str numeric
+@attribute tfidf-str^parsestr numeric
+@attribute tfidf-str^strip numeric
+@attribute tfidf-stream numeric
+@attribute tfidf-string numeric
+@attribute tfidf-stringar numeric
+@attribute tfidf-stringr numeric
+@attribute tfidf-strong numeric
+@attribute tfidf-struc numeric
+@attribute tfidf-structur numeric
+@attribute tfidf-stub numeric
+@attribute tfidf-styl numeric
+@attribute tfidf-subcl numeric
+@attribute tfidf-subject numeric
+@attribute tfidf-subm numeric
+@attribute tfidf-submatr numeric
+@attribute tfidf-submodl numeric
+@attribute tfidf-subplot numeric
+@attribute tfidf-subsequ numeric
+@attribute tfidf-subtyp numeric
+@attribute tfidf-subwidg numeric
+@attribute tfidf-succ numeric
+@attribute tfidf-suff numeric
+@attribute tfidf-sum numeric
+@attribute tfidf-super numeric
+@attribute tfidf-suppl numeric
+@attribute tfidf-support numeric
+@attribute tfidf-suppr numeric
+@attribute tfidf-sur numeric
+@attribute tfidf-surpr numeric
+@attribute tfidf-svg numeric
+@attribute tfidf-swap numeric
+@attribute tfidf-sym numeric
+@attribute tfidf-symbol numeric
+@attribute tfidf-symlog numeric
+@attribute tfidf-syntac numeric
+@attribute tfidf-sys^displayhook numeric
+@attribute tfidf-system numeric
+@attribute tfidf-tab numeric
+@attribute tfidf-tabl numeric
+@attribute tfidf-tag numeric
+@attribute tfidf-tak numeric
+@attribute tfidf-talk numeric
+@attribute tfidf-tar numeric
+@attribute tfidf-tarfil numeric
+@attribute tfidf-targ numeric
+@attribute tfidf-task numeric
+@attribute tfidf-taskgroup numeric
+@attribute tfidf-temp numeric
+@attribute tfidf-templ numeric
+@attribute tfidf-templatedoesnot numeric
+@attribute tfidf-tempor numeric
+@attribute tfidf-ten numeric
+@attribute tfidf-tensorboard numeric
+@attribute tfidf-term numeric
+@attribute tfidf-termin numeric
+@attribute tfidf-terminolog numeric
+@attribute tfidf-test numeric
+@attribute tfidf-test@mailpile^ numeric
+@attribute tfidf-text numeric
+@attribute tfidf-ther numeric
+@attribute tfidf-therefor numeric
+@attribute tfidf-thin numeric
+@attribute tfidf-thing numeric
+@attribute tfidf-thr numeric
+@attribute tfidf-thread numeric
+@attribute tfidf-threat numeric
+@attribute tfidf-throw numeric
+@attribute tfidf-thrown numeric
+@attribute tfidf-tick numeric
+@attribute tfidf-tim numeric
+@attribute tfidf-timeout numeric
+@attribute tfidf-titl numeric
+@attribute tfidf-tkt^dump numeric
+@attribute tfidf-tl numeric
+@attribute tfidf-tok numeric
+@attribute tfidf-token^strip numeric
+@attribute tfidf-tokenmap numeric
+@attribute tfidf-toler numeric
+@attribute tfidf-toml numeric
+@attribute tfidf-tool numeric
+@attribute tfidf-top numeric
+@attribute tfidf-torch numeric
+@attribute tfidf-torch^ numeric
+@attribute tfidf-torch^empt numeric
+@attribute tfidf-torch^fl numeric
+@attribute tfidf-torch^float numeric
+@attribute tfidf-torch^float32 numeric
+@attribute tfidf-torch^g numeric
+@attribute tfidf-torch^longt numeric
+@attribute tfidf-torch^mac numeric
+@attribute tfidf-torch^mean numeric
+@attribute tfidf-torch^n numeric
+@attribute tfidf-torch^on numeric
+@attribute tfidf-torch^op numeric
+@attribute tfidf-torch^optim numeric
+@attribute tfidf-torch^rand numeric
+@attribute tfidf-torch^randn numeric
+@attribute tfidf-torch^rang numeric
+@attribute tfidf-torch^stack numeric
+@attribute tfidf-torch^sum numeric
+@attribute tfidf-torch^t numeric
+@attribute tfidf-torchscript numeric
+@attribute tfidf-tot numeric
+@attribute tfidf-tr numeric
+@attribute tfidf-traceback numeric
+@attribute tfidf-track numeric
+@attribute tfidf-trad numeric
+@attribute tfidf-trail numeric
+@attribute tfidf-train numeric
+@attribute tfidf-transact numeric
+@attribute tfidf-transform numeric
+@attribute tfidf-transl numeric
+@attribute tfidf-transp numeric
+@attribute tfidf-transpar numeric
+@attribute tfidf-treat numeric
+@attribute tfidf-treebuilder numeric
+@attribute tfidf-triangl numeric
+@attribute tfidf-triangular2 numeric
+@attribute tfidf-trick numeric
+@attribute tfidf-trim numeric
+@attribute tfidf-tru numeric
+@attribute tfidf-tseq numeric
+@attribute tfidf-tum numeric
+@attribute tfidf-tuner numeric
+@attribute tfidf-tupl numeric
+@attribute tfidf-turn numeric
+@attribute tfidf-tw numeric
+@attribute tfidf-tweak numeric
+@attribute tfidf-twil numeric
+@attribute tfidf-typ numeric
+@attribute tfidf-uint16 numeric
+@attribute tfidf-ultim numeric
+@attribute tfidf-undefin numeric
+@attribute tfidf-underl numeric
+@attribute tfidf-unequ numeric
+@attribute tfidf-unexpect numeric
+@attribute tfidf-unf numeric
+@attribute tfidf-unf^transp numeric
+@attribute tfidf-unf^view numeric
+@attribute tfidf-unfold numeric
+@attribute tfidf-unicod numeric
+@attribute tfidf-uninst numeric
+@attribute tfidf-uninstallpath numeric
+@attribute tfidf-uniqu numeric
+@attribute tfidf-unlik numeric
+@attribute tfidf-unlockerror numeric
+@attribute tfidf-unnam numeric
+@attribute tfidf-unorder numeric
+@attribute tfidf-unpacklongl numeric
+@attribute tfidf-unquot numeric
+@attribute tfidf-unreduc numeric
+@attribute tfidf-unst numeric
+@attribute tfidf-unus numeric
+@attribute tfidf-upd numeric
+@attribute tfidf-upgrad numeric
+@attribute tfidf-upload numeric
+@attribute tfidf-upper numeric
+@attribute tfidf-upperc numeric
+@attribute tfidf-url numeric
+@attribute tfidf-urllib numeric
+@attribute tfidf-urllib3 numeric
+@attribute tfidf-urlparse^parseresultb numeric
+@attribute tfidf-usag numeric
+@attribute tfidf-useoptim numeric
+@attribute tfidf-user numeric
+@attribute tfidf-usernam numeric
+@attribute tfidf-usu numeric
+@attribute tfidf-uszkoreit numeric
+@attribute tfidf-utf numeric
+@attribute tfidf-util numeric
+@attribute tfidf-val numeric
+@attribute tfidf-valu numeric
+@attribute tfidf-valueerror numeric
+@attribute tfidf-var numeric
+@attribute tfidf-variabl numeric
+@attribute tfidf-vaswan numeric
+@attribute tfidf-vcard numeric
+@attribute tfidf-vcardl numeric
+@attribute tfidf-vcs^ad numeric
+@attribute tfidf-vcs^del numeric
+@attribute tfidf-vcs^find numeric
+@attribute tfidf-vcs^g numeric
+@attribute tfidf-vect numeric
+@attribute tfidf-ver numeric
+@attribute tfidf-verb numeric
+@attribute tfidf-verif numeric
+@attribute tfidf-versionad numeric
+@attribute tfidf-versionchang numeric
+@attribute tfidf-versus numeric
+@attribute tfidf-vi numeric
+@attribute tfidf-vid numeric
+@attribute tfidf-view numeric
+@attribute tfidf-visu numeric
+@attribute tfidf-vodk numeric
+@attribute tfidf-w^ numeric
+@attribute tfidf-w^r numeric
+@attribute tfidf-w^view numeric
+@attribute tfidf-wa numeric
+@attribute tfidf-wait numeric
+@attribute tfidf-warn numeric
+@attribute tfidf-watch numeric
+@attribute tfidf-water numeric
+@attribute tfidf-wav numeric
+@attribute tfidf-waveform numeric
+@attribute tfidf-web numeric
+@attribute tfidf-weight numeric
+@attribute tfidf-wel numeric
+@attribute tfidf-wer numeric
+@attribute tfidf-wh numeric
+@attribute tfidf-whil numeric
+@attribute tfidf-whitel numeric
+@attribute tfidf-whitespac numeric
+@attribute tfidf-whol numeric
+@attribute tfidf-wi numeric
+@attribute tfidf-widg numeric
+@attribute tfidf-widget^g numeric
+@attribute tfidf-width numeric
+@attribute tfidf-wil numeric
+@attribute tfidf-willison numeric
+@attribute tfidf-wincon^h numeric
+@attribute tfidf-window numeric
+@attribute tfidf-wolf numeric
+@attribute tfidf-won numeric
+@attribute tfidf-word numeric
+@attribute tfidf-work numeric
+@attribute tfidf-workbook numeric
+@attribute tfidf-workflow numeric
+@attribute tfidf-workspac numeric
+@attribute tfidf-world numeric
+@attribute tfidf-world&lt numeric
+@attribute tfidf-wouldn numeric
+@attribute tfidf-wrap numeric
+@attribute tfidf-wrapper numeric
+@attribute tfidf-writ numeric
+@attribute tfidf-wsg numeric
+@attribute tfidf-www^nch numeric
+@attribute tfidf-www^youtub numeric
+@attribute tfidf-wxpanel numeric
+@attribute tfidf-x^ numeric
+@attribute tfidf-xer numeric
+@attribute tfidf-xfram numeric
+@attribute tfidf-xhtml numeric
+@attribute tfidf-xl numeric
+@attribute tfidf-xlrd numeric
+@attribute tfidf-xlsx numeric
+@attribute tfidf-xml numeric
+@attribute tfidf-xtick numeric
+@attribute tfidf-yahoo^com numeric
+@attribute tfidf-ye numeric
+@attribute tfidf-year numeric
+@attribute tfidf-yellowfin numeric
+@attribute tfidf-yer numeric
+@attribute tfidf-yield numeric
+@attribute tfidf-ylim numeric
+@attribute tfidf-youtubev numeric
+@attribute tfidf-ytick numeric
+@attribute tfidf-zer numeric
+@attribute tfidf-zeroormor numeric
+@attribute tfidf-zipfil numeric
+@attribute category-Usage {0,1}
+
+@data
+{727 4.788091,1059 4.788091,1391 2.478383,1474 2.958836,1873 2.062757}
+{1474 2.958836}
+{317 1,756 2.958836,765 3.439289,1382 2.076483,1425 2.529751,1811 2.407833,1984 3.439289}
+{1804 2.529751,2012 1}
+{123 1,202 1,206 1,315 1,926 3.439289,1811 2.407833,2012 1}
+{713 1.59603,926 3.439289,1278 4.307638,1279 2.266709,2012 1}
+{700 4.307638}
+{899 4.858996,1058 3.346732,1250 2.711608,1981 4.307638,2012 1}
+{899 4.858996,1058 3.346732,1981 4.307638,2012 1}
+{8 1,71 1,149 1,206 1,343 1,347 1,796 1.961758,799 3.546138,881 4.788091,1425 4.00956,1669 3.346732}
+{713 1.59603,1827 3.265091}
+{246 1,591 4.307638,626 2.266709,796 1.961758,1144 2.711608,1189 4.307638,1833 3.192061}
+{1145 2.784638}
+{14 1,76 1,632 3.010204,925 2.645544,1474 2.958836,1572 4.307638,1653 1.742091}
+{759 2.866279,1243 3.546138,1744 4.788091}
+{812 3.439289,1073 3.192061,2012 1}
+{96 1,126 1,134 1,293 1,320 1,384 1,759 2.866279,778 2.614732,1243 3.546138,1862 4.026591,2012 1}
+{1733 2.614732}
+{943 6.381996,1366 2.866279,1580 3.546138,1643 3.672514,1862 4.026591,2012 1}
+{778 2.614732,859 3.546138,1509 3.265091,1573 3.827185,1628 4.307638}
+{30 1,53 1,101 1,141 1,211 1,258 1,299 1,389 1,1041 2.824257,1279 2.266709,1636 2.556936,1882 2.478383,2012 1}
+{722 2.866279,780 3.065685,915 3.546138,1631 2.784638,1710 2.866279,1862 4.026591,2012 1}
+{13 1,36 1,74 1,118 1,303 1,353 1,402 1,563 1.884044,594 2.529751,926 3.439289,1117 2.503591,1250 2.711608,1279 2.266709,1620 2.248704,2012 1}
+{680 2.231155,722 2.866279,1018 2.824257,1620 2.248704,1917 2.747162,1924 1.692559}
+{1475 3.827185}
+{91 1,1621 4.788091,1636 2.556936,2012 1}
+{126 1,304 1,320 1,887 4.788091,1124 4.026591,1139 4.307638,1302 4.858996}
+{241 1,535 3.827185,626 2.266709,713 1.59603,1856 3.439289}
+{920 3.439289}
+{208 1,533 4.788091,847 2.364497,945 3.346732,1160 3.827185}
+{572 4.026591,1160 3.827185,1669 3.346732,1756 2.149514}
+{143 1,589 1.493153,758 4.026591,847 2.364497,1377 2.645544,1391 2.478383,1647 3.065685,1756 2.149514,1882 2.478383}
+{14 1,76 1,872 3.439289,1259 3.265091,1306 2.911014,1391 2.478383,1653 1.742091,1765 4.788091}
+{1381 4.307638,1787 4.026591}
+{169 1,565 4.788091,632 3.010204,633 4.788091,1168 4.307638,1580 3.546138,1722 2.585232}
+{123 1,202 1,206 1,315 1,1139 4.307638,1681 4.788091,2012 1}
+{241 1,320 1,1764 2.711608,2012 1}
+{241 1,606 4.788091,759 2.866279,810 3.346732,1243 3.546138,1809 2.478383}
+{39 1,41 1,125 1,326 1,414 1,680 2.231155,1326 4.307638,1392 4.77106,1846 3.827185,1917 2.747162,1970 1.795436,1986 4.307638}
+{2012 1}
+{14 1,76 1,759 2.866279,765 3.439289,810 3.346732,1118 1.961758,1243 3.546138,1653 1.742091,1696 4.788091,1787 4.026591}
+{750 3.439289,920 3.439289,1445 4.307638,1681 4.788091}
+{680 2.231155,989 2.784638,1109 2.784638,1278 4.307638,1279 3.592648}
+{1109 2.784638,1278 4.307638,1449 2.747162}
+{1091 3.439289,1109 2.784638,1278 4.307638,1681 4.788091,1764 2.711608}
+{1037 4.788091,1109 2.784638,1278 4.307638}
+{950 3.672514,1109 2.784638,1278 4.307638}
+{722 2.866279,1109 2.784638,1278 4.307638}
+{616 4.307638,627 2.958836,740 4.788091,1108 3.546138,1237 4.307638,1276 3.827185}
+{80 1,135 1,563 1.884044,589 1.493153,707 3.192061,866 3.672514,1140 4.307638,1240 3.010204,1580 3.546138,2012 1}
+{194 1,572 4.026591,892 2.866279,1397 2.407833,1970 1.795436,2012 1}
+{257 1,619 3.672514,839 4.788091,965 2.824257,1019 2.911014}
+{4 1,12 1,35 1,65 1,78 1,144 1,152 1,263 1,344 1,397 1,998 4.026591,1756 2.149514,1906 3.439289,1924 1.692559}
+{787 3.125997,853 3.346732,1822 4.244195,1977 3.439289}
+{55 1,241 1,259 1,626 2.266709,713 1.59603,1011 2.556936,1091 3.439289,1232 3.265091}
+{52 1,100 1,1011 2.556936,1324 2.585232,1558 4.788091,1681 4.788091}
+{}
+{9 1,12 1,35 1,270 1,319 1,397 1,713 2.529648,1011 2.556936,1232 3.265091,1534 3.546138,1764 2.711608,2012 1}
+{810 5.304445,1232 5.175047,1279 2.266709,2012 1}
+{1011 2.556936,1102 4.307638,1232 3.265091,1279 2.266709,2012 1}
+{4 1,65 1,126 1,144 1,152 1,241 1,263 1,344 1,677 2.911014,713 1.59603,1109 2.784638,1437 2.266709,2012 1}
+{1109 2.784638,2012 1}
+{79 1,183 1,244 1,280 1,814 3.265091,967 2.076483,1764 2.711608}
+{35 1,231 1,397 1,1127 3.346732,1287 4.788091,1601 3.065685}
+{704 3.125997,920 3.439289,1194 2.585232,1406 1.863351,1596 2.677789,2012 1}
+{680 2.231155,940 3.439289,1279 2.266709,2012 1}
+{241 1,717 4.307638,756 2.958836,1127 3.346732,1287 4.788091,1425 2.529751,2012 1}
+{1534 3.546138,1823 3.827185,2012 1}
+{404 1,813 1.575542,1823 6.065945,2012 1}
+{486 3.265091,2012 1}
+{940 3.439289,1044 3.192061,1550 2.958836,2012 1}
+{264 1,590 4.307638,1065 3.439289,1107 3.827185,1325 2.911014}
+{2012 1}
+{1044 3.192061,1279 2.266709,1483 3.439289,1739 3.346732,1882 2.478383}
+{30 1,53 1,101 1,141 1,211 1,258 1,299 1,389 1,796 1.961758,1052 2.645544}
+{670 4.788091,733 4.613848,1240 3.010204,1469 4.307638,1764 2.711608,1882 2.478383}
+{547 4.788091,550 4.788091,1041 2.824257,1184 2.958836,1279 2.266709,1530 4.788091,1556 3.125997}
+{79 1,183 1,244 1,280 1,639 3.010204,1180 3.546138,1426 3.439289}
+{72 1,552 3.827185,563 1.884044,1044 3.192061,1216 2.958836,1462 3.265091,1710 2.866279}
+{594 2.529751}
+{229 1,814 3.265091,847 2.364497,1145 4.413547,1407 2.824257,1436 2.248704,1437 2.266709}
+{1036 3.192061,1437 2.266709}
+{1275 4.307638}
+{1417 2.248704,1862 4.026591}
+{442 3.192061,813 1.575542,1437 2.266709}
+{109 1,114 1,199 1,238 1,302 1,395 1,619 3.672514,1417 2.248704,1741 2.824257,1873 2.062757,1970 1.795436}
+{640 3.672514,1984 3.439289}
+{655 2.784638,733 2.911014,1516 3.125997,1653 1.742091,1873 2.062757,1952 3.827185}
+{223 1,266 1,798 3.065685,857 3.827185,877 3.546138,1253 2.866279,1282 4.144252}
+{35 1,231 1,397 1,707 3.192061,1601 3.065685,1789 3.010204}
+{733 2.911014,940 3.439289}
+{136 1,294 1,563 1.884044,713 1.59603,812 3.439289,926 3.439289,1668 2.824257,1738 4.788091}
+{441 1.833427,813 1.575542,983 2.645544,1184 2.958836,1224 3.439289,1556 3.125997}
+{563 1.884044,812 3.439289,926 3.439289,1346 3.672514}
+{583 4.689644,748 6.065945,1044 3.192061,1961 2.911014}
+{136 1,726 3.265091,814 3.265091,887 4.788091,1018 2.824257,1651 4.026591,1756 2.149514,1807 4.788091}
+{4 1,24 1,65 1,126 1,144 1,152 1,168 1,191 1,193 1,263 1,320 1,344 1,372 1,668 3.672514,713 1.59603,726 3.265091,1293 3.672514,1651 4.026591,2012 1}
+{548 3.439289,1041 2.824257,1279 2.266709,1407 2.824257,1530 4.788091,1746 4.307638}
+{983 2.645544,1031 3.439289,1407 2.824257,1412 2.503591,1806 3.546138,1830 7.588945}
+{126 1,439 4.026591,440 4.307638,623 3.125997,813 1.575542,1031 3.439289,1631 2.784638,1729 3.827185}
+{42 1,90 1,201 1,241 1,320 1,546 2.529751,824 4.026591,922 4.026591,983 2.645544,1095 4.307638,1406 1.863351,1806 3.546138}
+{459 2.323712,847 2.364497,1531 4.788091,1721 4.026591}
+{589 2.366592,765 3.439289,1109 2.784638,1165 2.181026,1201 2.119372,1653 1.742091,1877 2.585232}
+{1074 2.824257,1077 3.265091}
+{241 1,332 1,626 2.266709,713 1.59603,901 3.010204,1077 3.265091,1139 4.307638,1653 1.742091,1943 6.065945}
+{252 1,859 3.546138,1943 3.827185,2012 1}
+{1118 1.961758}
+{472 4.307638,1655 3.439289,1739 3.346732,2012 1}
+{472 4.307638,1739 3.346732,1943 3.827185,2007 4.788091,2012 1}
+{1182 4.026591,1208 2.614732,1307 3.827185,1382 2.076483,1434 2.645544,1699 4.788091,1912 4.788091}
+{441 1.833427,1071 4.788091,1118 1.961758,1291 4.307638,1655 5.451144,1739 3.346732,2012 1}
+{872 3.439289,1437 2.266709,1534 3.546138,2012 1}
+{1182 4.026591,1208 2.614732,1307 3.827185,1382 2.076483,1608 2.585232,1699 4.788091,1912 4.788091}
+{1074 2.824257}
+{920 3.439289,1541 2.911014,1587 3.672514,1801 2.407833,1882 2.478383}
+{72 1,557 3.827185,707 3.192061,1462 3.265091,1882 2.478383}
+{948 2.677789,1023 2.503591,1221 3.827185,1253 2.866279,1434 2.645544}
+{79 1,123 1,183 1,202 1,205 1,206 1,244 1,280 1,315 1,406 1,778 2.614732,1741 2.824257,1791 5.175047,1926 2.677789}
+{7 1,34 1,948 2.677789,1112 1.884044,1391 2.478383,1434 2.645544,1722 2.585232,1756 2.149514,1938 3.546138}
+{93 1,227 1,382 1,680 2.231155,765 3.439289,1278 4.307638,1437 2.266709}
+{458 3.546138,502 3.439289,813 1.575542,1378 3.672514,1733 2.614732}
+{12 1,563 1.884044,621 4.026591,982 4.026591,1052 2.645544,1065 3.439289,1926 2.677789}
+{2012 1}
+{183 1,415 2.214039,655 2.784638,948 2.677789,1036 3.192061,1778 2.958836,1936 3.265091,2012 1}
+{415 2.214039,1397 2.407833,2012 1}
+{1121 2.711608,1376 3.265091,1976 3.672514,2012 1}
+{1100 2.529751}
+{468 3.546138,626 2.266709,634 2.784638,1112 1.884044,1207 4.193088,1254 1.973606,1284 3.827185,1804 2.529751}
+{221 1,589 1.493153,1194 2.585232,1924 1.692559}
+{40 1,934 3.672514,1478 4.788091,2012 1}
+{13 1,74 1,102 1,213 1,353 1,1100 4.00956,1417 2.248704,1620 3.564111,1873 2.062757,1970 1.795436}
+{937 2.090487,2012 1}
+{1134 3.265091,1165 2.181026,1477 3.827185,2012 1}
+{491 3.125997,499 4.307638,505 3.827185,2012 1}
+{1166 4.788091,2012 1}
+{610 2.585232}
+{1279 2.266709}
+{499 4.307638,2012 1}
+{79 1,183 1,244 1,280 1,318 1,564 3.192061,636 4.788091,1050 4.307638,1447 3.672514,1565 4.307638}
+{441 1.833427,442 3.192061,498 3.672514,502 3.439289,505 3.827185,1112 1.884044,1849 3.439289,2012 1}
+{287 1,564 3.192061,1240 3.010204,2012 1}
+{126 1,415 2.214039,1417 2.248704,1700 2.049298,1797 2.677789,2012 1}
+{589 1.493153,622 4.307638,627 2.958836,1279 2.266709,1669 3.346732,1756 2.149514}
+{147 1,608 3.672514,897 2.958836,967 2.076483,1213 4.307638,1231 4.788091,1550 2.958836}
+{}
+{1112 1.884044,1417 2.248704,2012 1}
+{13 1,36 1,74 1,118 1,303 1,353 1,402 1,657 3.546138,739 4.026591,1279 2.266709,1620 2.248704,1757 4.026591}
+{1550 2.958836,2012 1}
+{1081 3.672514}
+{135 1,166 1,813 1.575542,1873 2.062757}
+{}
+{106 1,796 1.961758,1323 4.307638,1710 2.866279,1811 2.407833,2012 1}
+{609 1.863351,623 3.125997,634 2.784638,897 2.958836,1081 3.672514,1700 2.049298}
+{713 1.59603,1551 4.788091,2012 1}
+{41 1,125 1,414 1,884 2.407833,1454 3.346732,1756 2.149514}
+{657 3.546138,2012 1}
+{798 3.065685,1654 4.307638}
+{959 2.364497,1323 4.307638,1873 2.062757,2012 1}
+{609 1.863351,623 3.125997,1700 2.049298}
+{32 1,68 1,97 1,112 1,139 1,207 1,297 1,1103 3.439289,1567 3.827185,1732 4.788091}
+{604 4.307638,847 2.364497,1023 2.503591,1124 4.026591,1279 2.266709,1738 4.788091,1924 1.692559}
+{226 1,847 3.747639,1279 2.266709,1387 4.026591,1434 2.645544,1615 4.307638}
+{834 3.439289,847 2.364497,1109 2.784638,1382 2.076483}
+{563 1.884044,1124 4.026591,1382 3.291148,1387 4.026591,1590 3.065685,1970 1.795436}
+{441 1.833427}
+{771 3.439289,1187 4.026591,1906 3.439289,2012 1}
+{108 1,109 1,114 1,302 1,395 1,835 4.307638,1559 2.866279,1926 2.677789}
+{459 2.323712}
+{1144 2.711608,1149 3.827185,1150 4.026591,1153 4.307638,1165 2.181026,1924 1.692559,2012 1}
+{471 2.285194}
+{546 2.529751,589 1.493153,892 2.866279,1406 1.863351,1437 2.266709,2012 1}
+{1406 1.863351,2012 1}
+{589 1.493153,681 4.788091,840 4.026591,851 2.407833,1738 4.788091}
+{126 1,589 1.493153,707 3.192061,847 2.364497,945 3.346732,1626 3.672514,1640 3.827185,1924 1.692559}
+{42 1,241 1,320 1,336 1,337 1,546 2.529751,1041 2.824257,1165 2.181026,1279 2.266709,1437 2.266709,2012 1}
+{1804 2.529751,2012 1}
+{126 1,223 1,266 1,814 3.265091,847 2.364497,1144 2.711608,1201 2.119372,1253 2.866279,1626 3.672514}
+{}
+{42 1,126 1,320 1,563 1.884044,1124 4.026591,1201 2.119372,1279 2.266709,1324 4.097496,1924 1.692559,2012 1}
+{164 1,563 1.884044,813 1.575542,888 3.827185,927 3.672514,1180 3.546138,1631 2.784638,1861 3.827185}
+{813 1.575542,1469 4.307638,1626 3.672514,1924 1.692559}
+{371 1,544 3.672514,713 1.59603,717 4.307638,1809 2.478383}
+{42 1,813 1.575542,903 4.026591,1201 3.359125,1924 1.692559}
+{91 1,288 1,738 4.026591,1018 2.824257,1499 4.026591,1596 2.677789,1917 2.747162}
+{42 1,126 1,1722 2.585232,1882 2.478383,1924 1.692559}
+{546 2.529751,1653 1.742091,2012 1}
+{589 1.493153,717 4.307638,769 4.026591,1382 2.076483,1615 4.307638,1741 2.824257,1970 1.795436}
+{506 4.788091,1118 1.961758,2012 1}
+{959 2.364497,1194 2.585232,1199 3.672514,2012 1}
+{1194 2.585232,1809 2.478383}
+{448 3.439289,1118 1.961758,1204 4.026591,1946 3.827185,2012 1}
+{759 2.866279,1525 3.672514,1801 2.407833,1944 3.265091}
+{904 2.866279,1073 3.192061,1587 3.672514,1917 2.747162}
+{1011 2.556936,1100 2.529751,1669 3.346732,1756 2.149514,1935 3.827185}
+{726 3.265091,1199 3.672514,1792 3.672514,2012 1}
+{1452 4.788091,1541 2.911014,1756 2.149514}
+{1500 3.265091,1505 3.672514,2012 1}
+{937 2.090487,2012 1}
+{945 3.346732,962 3.125997,1112 1.884044,1254 1.973606,1376 3.265091,1700 2.049298}
+{28 1,89 1,200 1,380 1,1590 3.065685,1634 4.788091,2012 1}
+{744 3.192061}
+{0 1,42 1,126 1,299 1,655 2.784638,1041 2.824257,1302 3.065685,1653 1.742091,1873 2.062757,1924 1.692559}
+{1184 2.958836,1437 2.266709}
+{79 1,123 1,183 1,202 1,205 1,206 1,235 1,244 1,280 1,315 1,406 1,575 3.672514,634 2.784638,1302 3.065685,1741 2.824257,1858 3.672514}
+{589 1.493153,1722 2.585232,1809 2.478383}
+{135 1,166 1,813 1.575542,1873 2.062757}
+{426 2.062757,1500 3.265091,1792 3.672514,2012 1}
+{1722 2.585232,1809 2.478383,1877 2.585232}
+{449 3.827185,2012 1}
+{745 4.307638,1392 3.010204,1669 3.346732,1809 2.478383}
+{937 2.090487,2012 1}
+{441 1.833427,748 3.827185,1134 3.265091,1792 3.672514,1924 1.692559,1925 4.788091,2012 1}
+{933 4.307638,1713 4.788091,1809 2.478383}
+{443 3.439289,2012 1}
+{1041 2.824257,1100 2.529751}
+{33 1,228 1,305 1,713 1.59603,905 3.827185,952 4.026591,967 2.076483,1382 2.076483,1536 4.026591,1706 4.307638}
+{1301 3.010204,1406 1.863351,2012 1}
+{676 4.788091,1195 3.546138,1302 3.065685}
+{589 1.493153,733 2.911014,1196 2.866279,1406 2.953342,1919 4.307638,1924 1.692559}
+{613 4.307638,788 4.613848,1074 2.824257,1764 2.711608,1809 2.478383,1917 2.747162}
+{}
+{153 1,312 1,1685 4.026591,1756 3.406899,1924 1.692559}
+{594 2.529751,1573 3.827185}
+{30 1,53 1,101 1,141 1,211 1,258 1,299 1,389 1,609 1.863351,1052 2.645544,1334 4.307638,1519 4.026591,1775 2.645544,2009 3.439289}
+{1382 2.076483}
+{151 1,762 3.065685,920 3.439289,1436 2.248704,1685 4.026591,1686 4.026591,1926 2.677789}
+{609 2.953342,1218 4.026591,1519 4.026591}
+{241 1,733 2.911014,1241 4.788091,1809 2.478383}
+{931 4.307638,1519 4.026591,1520 4.788091,1804 2.529751}
+{12 1,35 1,121 1,397 1,405 1,1436 2.248704,1529 3.672514,1653 1.742091,1924 1.692559,1970 1.795436}
+{371 1,544 3.672514,982 6.381996,994 4.788091,1406 1.863351,1436 2.248704}
+{1779 3.827185}
+{109 1,114 1,302 1,395 1,813 1.575542}
+{937 2.090487,2012 1}
+{713 1.59603,925 2.645544,957 3.672514}
+{570 4.788091,948 2.677789,1324 2.585232,1390 4.307638,1976 3.672514,2012 1}
+{905 3.827185}
+{206 1,594 2.529751,1109 2.784638,1425 2.529751}
+{0 1,42 1,63 1,150 1,619 3.672514,655 2.784638,1653 1.742091}
+{937 2.090487,2012 1}
+{471 2.285194,1804 2.529751,2012 1}
+{1377 2.645544,1437 2.266709,1556 4.954588,1804 2.529751}
+{245 1,274 1,285 1,563 1.884044,627 2.958836,1733 2.614732}
+{1060 7.588945,1406 1.863351,1417 2.248704,1436 2.248704}
+{1019 2.911014,2012 1}
+{732 4.307638,1180 3.546138,1207 2.645544,1688 3.546138,1697 2.911014}
+{250 1,989 2.784638,1118 1.961758,1180 3.546138,1397 2.407833}
+{171 1,557 3.827185,944 4.026591,1216 2.958836,1378 3.672514,1733 2.614732,1775 2.645544,1793 3.346732,1871 4.307638}
+{680 3.536297,829 4.307638,830 4.788091,1302 3.065685,1544 4.307638}
+{1302 3.065685}
+{639 3.010204,765 3.439289,829 4.307638,1011 2.556936,1302 3.065685,1546 4.788091,1970 1.795436}
+{765 3.439289,1112 1.884044,1383 4.026591,1546 4.788091,1804 2.529751}
+{32 1,68 1,97 1,112 1,139 1,207 1,545 3.672514,1544 4.307638,1783 4.307638,1970 1.795436}
+{1060 4.788091,1112 3.768087,1118 1.961758,1724 4.788091,1879 3.010204,1882 2.478383,1967 3.346732}
+{79 1,183 1,244 1,280 1,333 1,602 3.546138,666 4.788091,678 2.711608,1018 2.824257,1129 3.125997}
+{619 3.672514,678 2.711608,1579 4.788091}
+{640 3.672514,677 2.911014,897 2.958836}
+{677 2.911014,904 2.866279}
+{241 1,247 1,325 1,650 2.430561,713 1.59603,756 2.958836}
+{554 4.026591,1576 4.026591,1975 4.026591,2012 1}
+{55 1,259 1,833 4.026591,1031 3.439289,1090 2.958836,1303 2.824257,1406 1.863351,1746 4.307638}
+{677 2.911014,680 2.231155,1117 2.503591,1580 3.546138,1587 3.672514,1970 1.795436,2012 1}
+{1036 3.192061,1437 2.266709}
+{563 1.884044,1090 2.958836,1279 2.266709,1397 2.407833}
+{771 3.439289,847 2.364497,1959 3.827185}
+{9 1,270 1,1144 2.711608,1533 2.866279}
+{443 3.439289,471 2.285194,473 4.026591,713 1.59603,923 3.439289,1001 3.546138,1254 1.973606,1482 3.010204,1958 2.614732}
+{594 2.529751,1121 2.711608,1620 2.248704,1882 2.478383}
+{243 1,323 1,546 2.529751,1234 4.788091,1306 2.911014}
+{514 4.788091,680 2.231155,888 3.827185,974 3.827185,1466 4.307638}
+{262 1,282 1,541 5.820797,602 3.546138,1234 4.788091,1722 2.585232,1970 1.795436}
+{}
+{415 2.214039,441 1.833427,498 3.672514,563 1.884044,589 1.493153,923 3.439289,1482 3.010204,1845 4.788091,1958 4.144252,2012 1}
+{53 1,85 1,141 1,258 1,1052 2.645544,1287 4.788091}
+{349 1,358 1,1068 3.827185,1287 4.788091,1525 3.672514}
+{677 2.911014,722 2.866279,967 2.076483,1886 4.788091,1961 2.911014}
+{593 3.192061}
+{634 2.784638,897 2.958836}
+{426 2.062757,575 3.672514,1100 2.529751,1187 4.026591,1642 4.788091,1970 1.795436}
+{15 1,410 1,892 2.866279,915 3.546138,1196 2.866279,1653 1.742091}
+{813 1.575542}
+{319 1,534 3.546138,713 1.59603,1406 1.863351,1636 2.556936}
+{159 1,333 1,1018 4.476342,1129 4.954588,1620 2.248704,1697 4.613848}
+{609 1.863351,623 3.125997,965 2.824257,1700 2.049298}
+{52 1,77 1,100 1,1011 2.556936,1144 2.711608,1188 3.192061,1201 2.119372,1653 1.742091}
+{237 1,807 4.788091,910 4.788091,1391 2.478383,1893 3.827185,1924 1.692559}
+{916 4.788091,1382 2.076483}
+{959 2.364497,1570 2.585232}
+{931 6.827445,1216 2.958836,1697 2.911014}
+{310 1,401 1,563 1.884044,1185 3.010204,1318 4.788091,1612 2.824257,1885 3.439289,1970 1.795436}
+{134 1,778 2.614732,1306 2.911014}
+{609 1.863351,623 3.125997,634 2.784638,897 2.958836,1081 3.672514,1700 2.049298}
+{169 1,182 1,191 1,583 2.958836,1406 1.863351,1417 2.248704,1570 4.097496,1722 2.585232,1756 2.149514}
+{144 1,152 1,190 1,191 1,193 1,587 3.065685,1570 2.585232,1970 1.795436}
+{126 1,897 2.958836,1417 3.564111,1775 4.193088,1970 1.795436}
+{79 1,123 1,183 1,202 1,205 1,206 1,244 1,280 1,315 1,406 1,750 3.439289,1209 3.439289,1801 2.407833}
+{42 1,1144 2.711608,1406 1.863351,1877 2.585232,1882 3.928144}
+{241 1,319 1,409 1,713 1.59603,1973 4.307638}
+{42 1,320 1,713 1.59603,923 3.439289,1188 3.192061,1377 2.645544,1935 3.827185}
+{970 4.307638}
+{610 2.585232,1612 2.824257,2012 1}
+{14 1,76 1,233 1,713 1.59603,1653 1.742091,2012 1}
+{42 1,226 1,320 1,552 3.827185,851 2.407833,1112 1.884044,1254 3.128092,1377 2.645544,1961 2.911014}
+{726 3.265091,1187 4.026591,1397 2.407833,1417 2.248704,1756 2.149514}
+{33 1,55 1,153 1,228 1,259 1,300 1,305 1,391 1,1090 2.958836,1127 3.346732,1382 2.076483}
+{1121 2.711608,1376 3.265091,1976 3.672514,2012 1}
+{1417 2.248704,1647 3.065685}
+{93 1,227 1,382 1,680 2.231155,818 4.788091,1091 3.439289,1102 4.307638}
+{796 1.961758,1122 3.827185,1752 2.323712,2002 3.827185,2012 1}
+{740 4.788091,1010 3.192061,1851 4.788091}
+{1077 3.265091,1201 2.119372,1248 3.827185,1499 4.026591,1654 4.307638,1806 3.546138}
+{42 1,43 1,241 1,243 1,320 1,323 1,546 2.529751,1100 2.529751}
+{1201 2.119372,1612 2.824257,1809 2.478383,2012 1}
+{126 1,241 1,1118 1.961758,1653 1.742091}
+{352 1,426 2.062757,1612 2.824257,1809 2.478383,2012 1}
+{1645 4.026591,1733 2.614732,2012 1}
+{1305 3.439289,1612 2.824257,1809 2.478383,2012 1}
+{1613 4.788091,1809 2.478383,2012 1}
+{1305 3.439289,1612 2.824257,1809 2.478383,2012 1}
+{1291 4.307638,1612 2.824257,1809 2.478383,2012 1}
+{796 1.961758,1100 2.529751,1722 2.585232}
+{2012 1}
+{1516 3.125997,2012 1}
+{45 1,127 1,143 1,537 2.677789,589 1.493153,759 2.866279,1391 2.478383,1559 2.866279,2012 1}
+{759 2.866279,847 2.364497,1018 2.824257,1391 2.478383,1397 2.407833,1559 2.866279,1778 2.958836,1801 2.407833}
+{241 1,1217 4.788091,1809 2.478383,1944 3.265091}
+{109 1,114 1,302 1,395 1,552 3.827185,1278 4.307638,1604 4.788091,1812 3.346732}
+{13 1,36 1,74 1,118 1,303 1,353 1,402 1,874 4.307638,957 3.672514,1166 4.788091,1279 2.266709,1620 2.248704}
+{479 3.672514,805 3.546138,2012 1}
+{589 1.493153,904 2.866279,1417 2.248704,1631 2.784638,1653 1.742091,1798 3.827185}
+{456 3.672514,2002 3.827185,2012 1}
+{459 2.323712,1117 2.503591,1324 2.585232,1359 3.439289,1376 3.265091,1798 6.065945,2012 1}
+{79 1,183 1,244 1,280 1,647 4.026591,678 2.711608,1091 3.439289,1270 4.026591,1541 2.911014}
+{943 4.026591,1405 4.026591,2012 1}
+{30 1,53 1,85 1,88 1,101 1,141 1,211 1,258 1,299 1,389 1,1052 2.645544,1306 2.911014,1970 1.795436,2012 1}
+{791 4.026591,1930 4.307638,2012 1}
+{42 1,126 1,320 1,868 4.307638,1117 2.503591,1201 2.119372,1397 3.816324,1519 4.026591,2012 1}
+{1026 3.672514,1388 4.307638,2012 1}
+{42 1,126 1,320 1,583 2.958836,826 3.346732,1201 2.119372,1282 2.614732,1324 2.585232,1449 2.747162,1877 2.585232,2012 1}
+{853 3.346732,1929 3.192061,2012 1}
+{563 1.884044,940 3.439289,1117 2.503591,1388 4.307638,1391 2.478383,1970 1.795436,2012 1}
+{886 4.788091,2012 1}
+{40 1,66 1,217 1,394 1,1929 3.192061,1934 4.026591,2012 1}
+{426 2.062757,515 4.788091,1039 3.827185,1929 3.192061,1933 4.307638,2012 1}
+{236 1,765 3.439289,1877 2.585232,1985 3.672514}
+{79 1,183 1,244 1,280 1,689 4.788091,817 3.827185,1586 3.439289,1929 3.192061,2012 1}
+{796 1.961758,1204 4.026591}
+{826 3.346732,893 4.307638,1282 2.614732,1359 3.439289}
+{0 1,241 1,273 1,1417 2.248704,1593 3.065685,1798 3.827185}
+{563 1.884044,589 1.493153,967 2.076483,1282 4.144252,1590 3.065685,2012 1}
+{}
+{35 1,397 1,563 1.884044}
+{1586 3.439289}
+{126 1,680 2.231155,1279 2.266709,1689 3.672514}
+{1090 2.958836,1301 3.010204,1917 2.747162}
+{158 1,239 1,650 2.430561,904 2.866279,1249 2.747162,1756 2.149514}
+{13 1,36 1,74 1,118 1,303 1,353 1,402 1,970 4.307638,1044 3.192061,1620 2.248704}
+{593 3.192061}
+{72 1,1462 3.265091,1655 3.439289,1926 2.677789}
+{537 2.677789,1721 4.026591,1764 2.711608}
+{108 1,109 1,114 1,199 1,302 1,395 1,626 2.266709,707 3.192061,853 3.346732,967 2.076483}
+{35 1,42 1,231 1,320 1,397 1,1298 2.529751,1343 4.788091,1377 2.645544,1601 3.065685}
+{813 1.575542,851 3.816324,1298 2.529751,1340 3.827185}
+{241 1,563 1.884044,736 4.788091,756 2.958836,1133 4.026591,1809 2.478383,1926 2.677789}
+{813 1.575542,1011 2.556936,1128 3.827185,1180 3.546138,1583 6.827445}
+{333 1,661 4.788091,945 3.346732,998 4.026591,1018 2.824257,1171 4.788091}
+{126 1,813 1.575542}
+{35 1,231 1,397 1,1601 3.065685}
+{247 1,292 1,325 1,609 1.863351,668 3.672514,720 4.307638,919 4.307638,1882 2.478383,2012 1}
+{66 1,668 3.672514,1104 4.788091,1882 2.478383,1970 1.795436,2012 1}
+{1127 3.346732}
+{1196 2.866279,1509 3.265091,1741 2.824257}
+{1436 2.248704,1449 4.354148,1604 7.588945,1873 2.062757}
+{194 1,253 1,892 2.866279,2012 1}
+{4 1,24 1,65 1,144 1,152 1,190 1,191 1,193 1,263 1,344 1,372 1,668 3.672514,720 4.307638,1416 4.788091,1882 2.478383,1970 1.795436,2012 1}
+{589 1.493153,655 2.784638,796 1.961758,959 2.364497,1280 3.265091,1873 2.062757,1924 1.692559}
+{563 1.884044,1196 2.866279,1572 4.307638,1653 1.742091,1741 2.824257}
+{563 1.884044,589 1.493153,1280 3.265091,1282 2.614732,1590 3.065685}
+{272 1,351 1,589 1.493153,857 3.827185,1118 1.961758,1236 4.788091,1282 2.614732,1324 2.585232,1590 3.065685,1653 1.742091}
+{17 1,109 1,114 1,302 1,395 1,1509 3.265091,1970 1.795436}
+{589 1.493153,826 3.346732,1282 2.614732,1483 3.439289,1590 3.065685}
+{0 1,42 1,63 1,126 1,150 1,167 1,173 1,1100 2.529751,1436 2.248704,1653 1.742091,1697 2.911014,1873 2.062757}
+{1216 4.689644,1397 2.407833}
+{5 1,32 1,68 1,97 1,111 1,112 1,139 1,140 1,155 1,207 1,221 1,826 3.346732,1023 2.503591,1238 3.546138,1663 4.026591,1893 3.827185}
+{657 3.546138,946 4.026591,2012 1}
+{0 1,42 1,63 1,150 1,589 1.493153,1183 3.827185,1653 1.742091,1717 3.827185,1790 4.307638,1873 2.062757}
+{563 1.884044,713 1.59603,1096 3.439289,1107 3.827185,1397 2.407833}
+{634 2.784638,650 2.430561,954 4.026591,1112 1.884044,1210 3.265091,1703 3.346732,1804 2.529751}
+{41 1,125 1,414 1,1096 3.439289,1112 1.884044,1397 2.407833}
+{627 2.958836,748 3.827185,1096 3.439289,1112 1.884044,1324 2.585232,1631 2.784638,1678 2.784638,1792 3.672514,1809 3.928144}
+{117 1,273 1,309 1,590 4.307638,851 2.407833,1254 1.973606,1593 3.065685,1719 3.125997,2012 1}
+{627 2.958836,940 3.439289,959 2.364497,1279 2.266709,1631 4.413547,1970 1.795436}
+{1397 2.407833,2012 1}
+{441 1.833427,589 1.493153,655 2.784638,796 1.961758,884 2.407833}
+{627 2.958836,940 3.439289,1279 2.266709,1631 2.784638,1970 1.795436}
+{1251 3.672514,1380 4.026591}
+{654 2.645544,771 3.439289,813 1.575542,959 2.364497}
+{1 1,109 1,114 1,133 1,302 1,329 1,395 1,705 2.958836,1210 3.265091,1254 3.128092,1935 3.827185,2012 1}
+{813 1.575542,959 2.364497,1342 3.672514,1697 2.911014}
+{140 1,299 1,335 1,1023 2.503591,1052 2.645544,1608 2.585232}
+{904 2.866279,1506 4.307638,1801 2.407833}
+{420 3.346732,459 2.323712,1001 3.546138,1185 3.010204,1190 4.307638,1428 2.747162,1524 3.192061,1700 2.049298,1719 3.125997,1811 3.816324,1822 2.677789,2012 1}
+{53 1,141 1,258 1,626 2.266709,670 4.788091,713 1.59603,1041 2.824257,1297 3.065685,2012 1}
+{1939 4.026591}
+{123 1,202 1,206 1,315 1,1118 1.961758,1636 2.556936}
+{851 2.407833,2012 1}
+{655 2.784638,884 2.407833,959 2.364497,1454 3.346732,1873 2.062757,2012 1}
+{657 3.546138,2012 1}
+{471 2.285194,655 2.784638,884 2.407833,1188 3.192061,2012 1}
+{42 1,320 1,609 1.863351,639 3.010204,851 2.407833,1377 2.645544,1428 2.747162,1483 3.439289,1687 3.827185}
+{583 2.958836,997 2.911014}
+{937 2.090487,2012 1}
+{593 3.192061}
+{639 3.010204,948 2.677789,1417 2.248704}
+{442 3.192061,453 4.307638,460 3.672514,471 2.285194,472 4.307638,1112 1.884044,1849 3.439289,2012 1}
+{415 2.214039,848 5.451144,1428 2.747162,1687 3.827185,2012 1}
+{441 1.833427,813 1.575542}
+{813 1.575542}
+{713 1.59603,1250 2.711608}
+{8 1,71 1,149 1,343 1,347 1,680 2.231155,1041 2.824257,1324 2.585232,1425 2.529751,1801 2.407833}
+{441 1.833427,813 1.575542}
+{609 3.726702,850 3.125997,1164 2.585232,1428 2.747162,1700 2.049298}
+{4 1,21 1,65 1,84 1,96 1,144 1,152 1,184 1,245 1,263 1,281 1,344 1,362 1,378 1,552 3.827185,589 1.493153,778 2.614732,1437 2.266709}
+{793 4.788091,1324 2.585232,2012 1}
+{28 1,41 1,89 1,125 1,200 1,414 1,713 1.59603,1117 2.503591}
+{42 1,109 1,114 1,302 1,395 1,677 2.911014,851 2.407833,1112 1.884044,1397 2.407833,1712 4.788091,1719 3.125997,1879 3.010204}
+{126 1,678 2.711608,1700 2.049298}
+{681 4.788091,713 1.59603,987 3.546138,1612 2.824257,1844 2.958836,1924 1.692559}
+{1362 4.788091,2012 1}
+{713 1.59603,892 2.866279,1550 2.958836}
+{1324 2.585232,1697 2.911014,1924 1.692559}
+{202 1,241 1,315 1,484 4.307638,587 3.065685,738 4.026591,767 3.672514,1112 2.986139,1676 4.307638,1689 3.672514}
+{589 1.493153,987 3.546138,1019 2.911014,1397 2.407833,1580 3.546138,1892 3.439289}
+{100 1,109 1,114 1,220 1,227 1,673 4.307638,802 4.788091,1071 4.788091,1482 3.010204,1593 3.065685,1764 2.711608}
+{47 1,834 3.439289,1254 1.973606,1417 2.248704,1507 4.026591}
+{}
+{426 2.062757,441 1.833427,508 3.439289,1112 1.884044,1775 2.645544,1958 2.614732}
+{1582 4.788091,1801 2.407833,1970 1.795436}
+{126 1,576 4.307638,609 1.863351,762 3.065685,1092 3.827185,1428 4.354148,2009 3.439289}
+{385 1,987 3.546138,1417 2.248704,1700 2.049298}
+{987 3.546138,1436 2.248704}
+{987 3.546138,1436 2.248704,1892 3.439289}
+{654 2.645544,813 1.575542,959 2.364497,1412 2.503591}
+{30 1,32 1,53 1,68 1,97 1,101 1,112 1,139 1,141 1,207 1,211 1,258 1,299 1,389 1,609 1.863351,834 3.439289,850 3.125997,1041 2.824257,1047 4.788091,1197 3.439289,1344 4.788091,1945 4.307638}
+{64 1,694 3.621946,1412 2.503591,1867 3.439289}
+{609 1.863351,753 3.010204,762 3.065685,1036 3.192061,1112 1.884044,1417 2.248704}
+{4 1,21 1,24 1,42 1,65 1,126 1,144 1,152 1,184 1,191 1,193 1,245 1,263 1,281 1,344 1,362 1,372 1,694 2.285194,892 2.866279,1237 4.307638,1412 2.503591,1924 1.692559}
+{8 1,71 1,149 1,343 1,347 1,660 3.546138,847 2.364497,1209 6.878578,1425 2.529751,1961 2.911014}
+{609 2.953342,705 4.689644,864 3.672514}
+{126 1,241 1,250 1,694 2.285194,732 4.307638,1397 2.407833,1604 4.788091,1970 1.795436}
+{109 1,114 1,302 1,395 1,892 2.866279,959 2.364497,1237 4.307638,1412 2.503591,1812 3.346732}
+{884 2.407833,1112 1.884044}
+{610 2.585232}
+{441 1.833427,563 2.986139,589 1.493153,767 3.672514,1036 3.192061,1112 1.884044,1417 2.248704}
+{884 2.407833,1112 1.884044,1845 4.788091}
+{694 2.285194}
+{897 2.958836,1711 4.026591,2012 1}
+{171 1,557 3.827185,962 3.125997,1541 2.911014,1793 3.346732}
+{1 1,94 1,133 1,204 1,329 1,864 3.672514,897 2.958836,1804 2.529751,2009 3.439289}
+{349 1,705 2.958836,1042 4.026591,1417 2.248704,1525 3.672514,1770 4.026591}
+{1924 1.692559}
+{585 4.788091,967 2.076483,1101 4.788091,1208 2.614732,1655 3.439289,2012 1}
+{42 1,169 1,694 2.285194,713 1.59603,1722 2.585232,1882 2.478383}
+{1924 1.692559}
+{1112 1.884044,1254 1.973606,2012 1}
+{1118 1.961758,1697 2.911014,1924 1.692559}
+{1572 4.307638,1653 1.742091}
+{1306 2.911014}
+{459 2.323712,471 2.285194,1164 2.585232,1700 2.049298,1892 3.439289,2012 1}
+{441 1.833427,2012 1}
+{415 2.214039,470 4.788091,486 3.265091,650 2.430561,1112 1.884044,1164 2.585232,1855 3.546138,2012 1}
+{471 2.285194,1327 3.672514,2012 1}
+{459 2.323712,694 2.285194,1382 2.076483,2012 1}
+{264 1,1065 3.439289,1156 4.307638,1516 3.125997,1857 3.192061}
+{486 3.265091,491 3.125997,1111 6.381996,1844 2.958836,1889 4.307638,2012 1}
+{241 1,248 1,591 4.307638,1550 2.958836,1559 2.866279}
+{593 3.192061}
+{33 1,96 1,228 1,305 1,713 1.59603,780 3.065685,1382 2.076483,1596 4.244195,1917 2.747162}
+{426 2.062757,813 1.575542}
+{847 2.364497}
+{42 1,126 1,320 1,907 3.546138,997 2.911014,1165 2.181026,1201 2.119372,1534 3.546138,1877 2.585232,1924 1.692559,1970 1.795436}
+{241 1,626 2.266709,713 1.59603,1282 2.614732,1397 2.407833}
+{171 1,1469 4.307638,1793 3.346732}
+{583 2.958836,1436 3.564111,1437 2.266709,1911 5.620496}
+{1112 1.884044,1254 1.973606}
+{1254 1.973606,1417 2.248704,1961 2.911014}
+{1254 1.973606}
+{626 2.266709,694 2.285194,713 1.59603,1100 2.529751,1886 4.788091}
+{694 2.285194,696 3.346732,1194 2.585232,1195 3.546138,1391 2.478383,1793 3.346732}
+{1254 1.973606}
+{42 1,1184 2.958836,1302 3.065685,1678 2.784638,1804 2.529751,1958 4.144252}
+{722 2.866279,2012 1}
+{79 1,123 1,183 1,202 1,205 1,206 1,244 1,280 1,315 1,406 1,554 4.026591,866 3.672514,989 2.784638,1463 3.546138,1698 4.026591,2012 1}
+{12 1,35 1,397 1,1144 2.711608,1896 4.788091}
+{1254 1.973606,1255 4.788091,1638 2.824257,1961 2.911014}
+{319 1,348 1,363 1,532 3.546138,704 4.954588,1195 3.546138,1463 3.546138,1917 2.747162,1944 3.265091,2012 1}
+{654 2.645544,1406 1.863351,1412 2.503591}
+{937 2.090487,2012 1}
+{415 2.214039,923 3.439289,1164 2.585232,1729 3.827185,1752 2.323712,2012 1}
+{694 2.285194}
+{442 3.192061,443 3.439289,453 4.307638,460 3.672514,1112 1.884044,1849 3.439289,2012 1}
+{4 1,24 1,65 1,144 1,152 1,191 1,193 1,263 1,344 1,372 1,695 4.788091,713 1.59603}
+{1112 1.884044,1417 2.248704,2012 1}
+{694 2.285194,1412 2.503591}
+{209 1,256 1,297 1,925 2.645544,967 2.076483,1019 2.911014,1196 2.866279,1385 3.346732,1434 2.645544,1550 2.958836,1601 3.065685}
+{722 2.866279}
+{162 1,694 2.285194,1586 3.439289,1905 4.788091}
+{694 2.285194,1653 1.742091}
+{537 2.677789,796 1.961758,1041 2.824257,1312 4.307638,1499 6.381996,1942 3.827185}
+{}
+{14 1,76 1,1653 1.742091,1917 2.747162}
+{750 3.439289,1616 2.645544}
+{28 1,89 1,200 1,380 1,1074 2.824257,1430 4.307638,1733 2.614732,1917 2.747162}
+{1306 2.911014}
+{937 2.090487,2012 1}
+{126 1,320 1,813 1.575542,814 3.265091,1487 3.265091,1616 2.645544,2012 1}
+{41 1,125 1,414 1,2012 1}
+{711 3.827185,2012 1}
+{42 1,320 1,1377 2.645544,1616 2.645544,1855 3.546138}
+{203 1,1117 2.503591,2012 1}
+{753 3.010204,1118 1.961758,1436 2.248704}
+{1118 1.961758,1436 2.248704,1559 2.866279}
+{589 1.493153,925 2.645544,1550 2.958836,1596 2.677789,1672 3.546138,1950 2.866279}
+{545 3.672514,1809 2.478383}
+{42 1,126 1,320 1,1196 2.866279,1201 2.119372,1238 3.546138,1382 2.076483,1984 3.439289}
+{30 1,53 1,85 1,88 1,101 1,141 1,211 1,258 1,299 1,389 1,895 4.026591,1052 2.645544,1596 2.677789,1687 3.827185}
+{835 4.307638}
+{663 3.827185,2012 1}
+{1407 2.824257,1916 4.026591,1958 4.144252,2012 1}
+{92 1,291 1,610 2.585232,1545 4.788091,1636 2.556936,1844 2.958836}
+{0 1,42 1,126 1,167 1,426 2.062757,957 3.672514,1616 2.645544,1653 1.742091,1882 2.478383}
+{563 1.884044,796 1.961758,1103 3.439289,1277 3.065685,1467 3.439289,1535 4.788091,1579 4.788091,1596 2.677789}
+{1145 2.784638,1279 2.266709,1436 2.248704,1963 4.788091}
+{1636 2.556936,1733 2.614732}
+{609 1.863351,1279 2.266709,1653 1.742091,1963 4.788091}
+{0 1,42 1,126 1,167 1,180 1,959 2.364497,1616 2.645544,1653 1.742091,1924 1.692559,1937 4.788091}
+{1694 3.827185,1944 3.265091}
+{319 1,409 1,713 1.59603,798 3.065685,826 3.346732}
+{628 4.788091,956 3.827185,983 2.645544,1436 2.248704}
+{182 1,191 1,583 2.958836,608 3.672514,628 4.788091,956 3.827185,1655 3.439289}
+{660 3.546138,1145 2.784638,1647 3.065685,1879 3.010204}
+{589 1.493153,925 2.645544,1084 4.788091,1604 4.788091,1655 3.439289}
+{626 2.266709,789 3.065685}
+{203 1,634 2.784638,704 3.125997,789 3.065685,928 4.307638,1184 4.689644,1485 4.307638,1556 4.954588}
+{803 4.788091,1060 4.788091,1112 3.768087,1118 1.961758,1724 4.788091,1879 3.010204,1882 2.478383,1967 3.346732}
+{1655 3.439289}
+{297 1,814 3.265091,967 2.076483,1653 1.742091,1671 4.026591,1741 2.824257,1911 3.546138}
+{429 3.346732,628 4.788091,956 3.827185,1010 3.192061,1705 4.788091,1970 1.795436}
+{609 1.863351,1229 2.911014}
+{0 1,42 1,374 1,426 2.062757,628 4.788091,813 1.575542,854 4.307638,1653 1.742091}
+{42 1,126 1,320 1,589 1.493153,1201 2.119372,1210 3.265091,2012 1}
+{1023 2.503591,1412 2.503591,2012 1}
+{594 2.529751,1406 1.863351}
+{888 3.827185,909 4.788091,1062 5.620496,1436 2.248704,1596 2.677789,1877 2.585232}
+{1053 2.911014,1134 3.265091,1534 3.546138,1924 1.692559,1950 2.866279}
+{109 1,114 1,126 1,302 1,395 1,1201 2.119372,1412 2.503591}
+{33 1,228 1,305 1,713 1.59603,1318 4.788091,1382 2.076483,1513 6.827445}
+{1856 3.439289}
+{1747 4.788091,1812 3.346732}
+{}
+{42 1,126 1,320 1,998 4.026591,1201 2.119372,1414 3.827185,1743 3.010204,1877 2.585232,1961 2.911014}
+{1000 3.546138,1561 4.307638,1801 2.407833}
+{1595 4.788091,2012 1}
+{273 1,730 3.125997,796 1.961758,1100 2.529751,1593 3.065685}
+{2012 1}
+{1018 2.824257,1513 4.307638,2012 1}
+{241 1,713 1.59603,799 3.546138,939 4.788091,1118 1.961758,1382 2.076483,1434 2.645544,1791 3.265091}
+{28 1,89 1,200 1,2012 1}
+{1437 2.266709}
+{589 1.493153,814 3.265091,1324 2.585232,1612 2.824257,2012 1}
+{94 1,204 1,713 1.59603,1382 2.076483,1608 4.097496}
+{570 4.788091,796 1.961758,1976 5.820797,2012 1}
+{796 1.961758,990 3.439289,1173 3.010204,1976 3.672514}
+{798 3.065685,1298 2.529751,1324 2.585232,1739 3.346732}
+{649 4.788091,726 3.265091,1185 3.010204,1498 4.788091,1678 2.784638,1729 3.827185,1909 4.788091,2012 1}
+{342 1,1417 2.248704,1601 3.065685,1809 2.478383}
+{1383 4.026591}
+{117 1,273 1,309 1,459 2.323712,589 1.493153,1123 3.439289,1379 3.439289,1593 3.065685,2012 1}
+{1 1,94 1,133 1,204 1,329 1,588 4.307638,589 1.493153,796 1.961758,884 2.407833,1121 2.711608,1379 3.439289}
+{4 1,24 1,65 1,126 1,144 1,152 1,191 1,193 1,263 1,320 1,344 1,372 1,1298 2.529751}
+{1437 2.266709}
+{237 1,1380 4.026591,1924 1.692559}
+{441 1.833427,589 1.493153,884 2.407833,1121 2.711608}
+{654 2.645544,771 3.439289,813 1.575542,959 2.364497}
+{771 3.439289,1251 3.672514,1924 1.692559}
+{1279 2.266709}
+{}
+{796 1.961758,1209 3.439289,2012 1}
+{21 1,184 1,245 1,281 1,362 1,765 3.439289,1117 2.503591,1118 1.961758,1756 2.149514}
+{442 3.192061,1555 3.546138,2012 1}
+{1123 3.439289,2012 1}
+{2012 1}
+{134 1,778 2.614732,1010 3.192061,1123 3.439289,1431 3.439289}
+{2012 1}
+{715 4.788091,948 2.677789,1002 3.546138,1298 2.529751,1973 4.307638}
+{563 2.986139,589 1.493153,622 4.307638,884 2.407833,1756 2.149514,2012 1}
+{147 1,742 4.788091,877 3.546138,1118 1.961758}
+{589 1.493153,687 4.788091,2012 1}
+{342 1,1050 4.307638,1601 3.065685,1950 2.866279}
+{1123 3.439289,2012 1}
+{37 1,120 1,121 1,405 1,1002 5.620496,1208 2.614732,1406 1.863351,1608 2.585232,1653 1.742091,1698 4.026591,2012 1}
+{823 4.788091,866 3.672514,1528 4.307638,1653 1.742091,2012 1}
+{134 1,611 3.827185,778 2.614732,1382 2.076483}
+{252 1,310 1,401 1,611 3.827185,762 3.065685,859 5.620496,1011 2.556936,1612 2.824257,1970 1.795436}
+{1009 4.307638,1368 4.788091,1391 2.478383,1977 3.439289}
+{109 1,114 1,199 1,302 1,395 1}
+{1596 2.677789,1653 1.742091}
+{626 2.266709,845 4.307638,2012 1}
+{1093 3.125997,1596 2.677789,2012 1}
+{705 2.958836,1412 2.503591,1653 1.742091,1738 4.788091}
+{42 1,126 1,273 1,320 1,983 2.645544,1121 2.711608,1201 2.119372,1304 4.788091,1593 3.065685,1956 4.307638}
+{759 2.866279,1243 3.546138,2012 1}
+{9 1,19 1,109 1,114 1,116 1,270 1,277 1,302 1,395 1,846 4.788091,1011 2.556936,1236 4.788091,1306 2.911014,1533 2.866279}
+{40 1,412 1,1018 2.824257,1074 2.824257,1076 4.026591,1633 4.788091,2012 1}
+{4 1,65 1,144 1,152 1,263 1,344 1,589 1.493153,1366 2.866279,1406 1.863351,1956 4.307638,1970 1.795436}
+{4 1,65 1,144 1,152 1,263 1,344 1,970 4.307638,998 4.026591,1778 2.958836,1911 3.546138,1970 1.795436}
+{1893 3.827185,1911 3.546138}
+{970 4.307638,1893 3.827185}
+{545 3.672514,884 2.407833,885 4.788091,1379 3.439289,1882 2.478383}
+{21 1,184 1,245 1,281 1,362 1,611 3.827185,796 3.109312,901 3.010204,1873 2.062757}
+{1414 3.827185,1573 3.827185,1716 4.307638}
+{0 1,37 1,42 1,120 1,121 1,126 1,355 1,405 1,1653 1.742091,1873 2.062757}
+{611 3.827185,753 3.010204,1368 4.788091,1468 4.788091}
+{63 1,594 2.529751,813 1.575542,1167 4.026591,1653 1.742091,1873 2.062757,1911 3.546138}
+{1279 2.266709}
+{3 1,338 1,948 2.677789,1000 3.546138}
+{1120 4.307638,1132 4.307638,2012 1}
+{62 1,459 2.323712,589 1.493153,897 2.958836,948 2.677789,1201 2.119372,1620 2.248704,1701 3.672514,1797 2.677789,1811 2.407833}
+{0 1,42 1,126 1,611 3.827185,1084 4.788091,1468 4.788091,1653 1.742091,1739 3.346732,1873 2.062757}
+{94 1,204 1,223 1,948 2.677789,959 2.364497,1253 2.866279,1797 2.677789}
+{654 2.645544,1366 2.866279}
+{611 3.827185,1262 4.026591,1366 2.866279,1482 3.010204,1602 4.788091}
+{1555 3.546138}
+{796 1.961758,959 2.364497,1653 1.742091}
+{441 2.905912,925 2.645544,1096 3.439289,1550 2.958836}
+{415 2.214039,805 3.546138,835 4.307638,1393 3.672514,1676 4.307638,2012 1}
+{100 1,109 1,114 1,220 1,227 1,775 4.788091,925 2.645544,1216 2.958836,1217 4.788091,1723 4.788091,2012 1}
+{1003 4.307638,2012 1}
+{5 1,68 1,139 1,155 1,799 3.546138,1238 3.546138,1474 2.958836,1669 3.346732}
+{123 1,202 1,206 1,315 1,627 2.958836,1722 2.585232,2012 1}
+{223 1,284 1,286 1,415 2.214039,706 4.307638,1081 3.672514,1115 4.307638,1253 2.866279,1548 6.381996,1756 3.406899,2012 1}
+{611 3.827185,796 1.961758,1003 4.307638,1556 3.125997,2012 1}
+{26 1,32 1,68 1,97 1,112 1,139 1,207 1,415 2.214039,563 1.884044,705 2.958836,1306 2.911014,2012 1}
+{459 2.323712,463 4.788091,800 4.788091,1372 4.307638,1373 4.307638,2012 1}
+{563 1.884044,594 2.529751,902 4.788091,1638 2.824257,1778 2.958836,1958 2.614732}
+{326 1,680 2.231155,1279 2.266709,1382 2.076483}
+{28 1,89 1,200 1,611 3.827185,1073 3.192061,1074 2.824257,1911 3.546138,2012 1}
+{1297 3.065685,1570 2.585232,1722 2.585232}
+{415 2.214039,611 3.827185,967 2.076483,1449 2.747162,2012 1}
+{611 3.827185,970 4.307638,1449 2.747162,2012 1}
+{1516 3.125997,2012 1}
+{2012 1}
+{799 3.546138}
+{446 4.307638,495 3.546138,779 4.307638,781 4.307638,1128 3.827185,1789 3.010204,2012 1}
+{611 3.827185,796 3.109312,1557 3.546138,1955 4.788091,2012 1}
+{358 1,1168 4.307638,1474 2.958836,1525 3.672514}
+{126 1,851 2.407833,901 4.77106,1118 1.961758,1700 2.049298,1935 3.827185}
+{1080 3.546138}
+{775 4.788091,925 2.645544,1216 2.958836,1217 4.788091,1723 4.788091,2012 1}
+{805 3.546138,1393 3.672514,2012 1}
+{}
+{1143 3.827185,1376 3.265091,2012 1}
+{634 2.784638,1284 3.827185,1976 3.672514}
+{823 4.788091,1163 4.788091,1636 2.556936}
+{490 4.788091,805 3.546138,1393 3.672514,2012 1}
+{1474 2.958836}
+{1057 3.672514,1877 2.585232,1969 3.672514}
+{631 5.451144,744 3.192061,1229 4.613848,1924 1.692559}
+{706 4.307638,1555 3.546138,1653 1.742091,1893 6.065945}
+{610 2.585232}
+{926 3.439289,989 2.784638,1196 2.866279,1548 4.026591,1626 3.672514,1636 2.556936,1697 2.911014}
+{609 2.953342,1112 2.986139,1406 1.863351}
+{847 2.364497,1201 2.119372,1763 3.439289}
+{0 1,609 1.863351,1100 2.529751,1406 1.863351,1804 2.529751,1958 2.614732}
+{654 2.645544,813 1.575542,959 2.364497,1784 4.307638}
+{536 3.546138,1216 2.958836,1647 4.858996,1786 4.788091}
+{13 1,36 1,74 1,118 1,303 1,353 1,402 1,560 4.788091,609 1.863351,826 3.346732,1297 3.065685,1620 2.248704,1924 1.692559,1970 1.795436}
+{1940 3.827185}
+{1 1,12 1,122 1,133 1,196 1,314 1,329 1,342 1,457 4.026591,609 1.863351,1601 3.065685,1804 2.529751}
+{536 3.546138,1216 2.958836,1647 4.858996,1786 4.788091}
+{609 2.953342,1112 1.884044,1678 2.784638,1944 3.265091,1970 1.795436}
+{299 1,426 2.062757,631 3.439289,903 4.026591,1052 4.193088,1188 3.192061,1970 1.795436}
+{24 1,126 1,182 1,187 1,191 1,278 1,320 1,360 1,377 1,1924 1.692559,2008 4.026591}
+{42 1,983 2.645544,1406 1.863351,1638 2.824257,1804 4.00956,1958 4.144252}
+{459 2.323712,1201 2.119372,1877 2.585232}
+{813 1.575542,1118 1.961758,1629 4.788091}
+{126 1,320 1,1391 2.478383,1733 2.614732,1801 2.407833}
+{1474 2.958836}
+{813 1.575542,992 4.788091,1118 1.961758}
+{1 1,42 1,133 1,321 1,329 1,415 2.214039,442 3.192061,471 2.285194,901 3.010204,1302 3.065685,1700 2.049298,1804 2.529751,2012 1}
+{726 3.265091,728 4.307638,1658 4.026591}
