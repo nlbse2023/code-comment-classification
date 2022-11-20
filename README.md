@@ -22,8 +22,8 @@ This repository contains all the required data for the baseline of the code comm
     - input: The input files (training and testing split) of the categories of our interest is provided in the input folder. The folder contains, raw,  preprocessed, and partitioned files for all categories as well.
     - results: The results contain the CSV file output of each classifier for each selected category.
     - weka-arff: readymade input files for WEKA. 
-- ### Python/ - same structure as Java.
 - ### Pharo/- same structure as Java.
+- ### Python/ - same structure as Java.
 
 ## About the Pipeline: 
 - Raw dataset:  ground truth (manually labeled class comments) for each language, e.g.,  `java_0_raw.csv` contains the classified for JAVA. 
