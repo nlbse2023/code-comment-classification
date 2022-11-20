@@ -1,0 +1,41 @@
+,comment_sentence,partition,category
+2016,@since 11,1,deprecation
+2017,@since 32,1,deprecation
+2018,@since 10,1,deprecation
+2019,support only atsv2 client only.,1,deprecation
+2020,@since 30,1,deprecation
+2021,@since 52,1,deprecation
+2022,@since 74,1,deprecation
+2023,@since 51,1,deprecation
+2024,@since 72,1,deprecation
+2025,it internally uses atomics and,1,deprecation
+2026,@since 71,1,deprecation
+2027,"@deprecated see bug 517722, launch groups are now part of platform.",1,deprecation
+2028,"@deprecated as of 80, no replacement available.",1,deprecation
+2029,@since 110 thread safe since 230,1,deprecation
+2030,@since 80,1,deprecation
+2031,need a new finallaunchsequence for gdb 712,1,deprecation
+2032,legacypropertyhelper has been removed in vaadin 8 events,1,deprecation
+2033,@since 22,1,deprecation
+2034,gdb specific part @since 44,1,deprecation
+2035,@since 21,1,deprecation
+2036,@since 42,1,deprecation
+2037,generated today may i not i be readable by a binary that was compiled 6 months ago .,1,deprecation
+2038,@since 63,1,deprecation
+2039,"designed to run with gdb 74, see comment in makefile for olddwarfflags.",1,deprecation
+2040,this class was moved from package org^eclipse.cdt^dsf.gdb^internal.ui^tracing,1,deprecation
+2041,the result of the variations on compilation arguments means that some of the,1,deprecation
+2042,@since 26,1,deprecation
+2043,"p as of guava 230, this class is thread safe and lock free.",1,deprecation
+2044,backwards compatibility.,1,deprecation
+2045,p,1,deprecation
+2046,@since 77.4,1,deprecation
+2047,@since 160,1,deprecation
+2048,this is no longer used and only provided for,1,deprecation
+2049,@since 70,1,deprecation
+2050,@since 100,1,deprecation
+2051,@deprecated replaced in 81 with,1,deprecation
+2052,"of the code may not be readable by older versions of the code eg, a serialized bloom filter",1,deprecation
+2053,this can only be detected by gdb mi after gdb 68.,1,deprecation
+2054,individually decide whether it wants to handle a request or,1,deprecation
+2055,this can only be detected by gdb mi with gdb 72.,1,deprecation

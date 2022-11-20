@@ -1,0 +1,157 @@
+,comment_sentence,partition,category
+1144,"@link #compare byte ,int,int,byte ,int,int .",0,Pointer
+1145,@see applicationmasterprotocol#allocate org^apache.hadoop^yarn.api^protocolrecords.allocaterequest,0,Pointer
+1146,this is used by @link org^apache.spark^network.shuffle^oneforoneblockfetcher .,0,Pointer
+1147,@code entryiterator .,0,Pointer
+1148,shared state for @code abstractmultiselect .,0,Pointer
+1149,event which is fired when the window order position is changed.,0,Pointer
+1150,@see resourcerequest,0,Pointer
+1151,@see ui^windoworderupdateevent,0,Pointer
+1152,"grid#addvaluechangelistener container, object, object",0,Pointer
+1153,https github^com google guava wiki newcollectiontypesexplained#classtoinstancemap @code,0,Pointer
+1154,@see,0,Pointer
+1155,dom^client.focusevent,0,Pointer
+1156,@link readonlystatuschangelistener s.,0,Pointer
+1157,an orderingpolicy which orders schedulableentities for fairness see,0,Pointer
+1158,p see the guava user guide article on a,0,Pointer
+1159,this is represented as a @link timelinefilterlist object,0,Pointer
+1160,only needs @code forwardmultiset and,0,Pointer
+1161,https,0,Pointer
+1162,@see cprojectdescriptionevent,0,Pointer
+1163,a comparator for @link writablecomparable s.,0,Pointer
+1164,most tuning parameters are based on this url.,0,Pointer
+1165,these iterators never throw @link,0,Pointer
+1166,"@deprecated as of 80, replaced by @link valueprovider , @link setter , see",0,Pointer
+1167,selectionmodel should extend @link abstractgridextension .,0,Pointer
+1168,objects against the values of @link resourcerequest .,0,Pointer
+1169,@see grid#setselectionmodel gridselectionmodel,0,Pointer
+1170,dsf eclipse fully processed them could cause the state within the,0,Pointer
+1171,"namely entity id, entity type and entity created time.",0,Pointer
+1172,https github^com google guava wiki collectionhelpersexplained#peekingiterator @code,0,Pointer
+1173,mini tutorial code for,0,Pointer
+1174,http gee^cs.oswego^edu cgi bin viewcvs^cgi jsr166 src test tck jsr166e atomicdoublearraytest^java?revision 113,0,Pointer
+1175,base class for all swift rest operations.,0,Pointer
+1176,approach but with a subclass rather than a superclass.,0,Pointer
+1177,changed package org^apache.maven^artifact.versioning to package org^apache.hadoop^util 2.,0,Pointer
+1178,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,0,Pointer
+1179,generate an auth message.,0,Pointer
+1180,p see the guava user guide article on a href,0,Pointer
+1181,h3 more information h3,0,Pointer
+1182,tests for @link bindingclassifier .,0,Pointer
+1183,"bug 530377 prior to fixing 530377, events that arrived from gdb faster than",0,Pointer
+1184,pb impl of @link localizationstatus .,0,Pointer
+1185,@param t type of the record to query.,0,Pointer
+1186,"p for details about this hack, see @link gwtserializationdependencies , which takes the same",0,Pointer
+1187,@see grid#valuechangelisteners,0,Pointer
+1188,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,0,Pointer
+1189,get the current operation statistics.,0,Pointer
+1190,@return a snapshot of the statistics,0,Pointer
+1191,contains @link field#configs or @link field#all .,0,Pointer
+1192,@see designcontext#shouldwritedata component,0,Pointer
+1193,"open a file, while @link #applicationfinished applicationfinishdata is",0,Pointer
+1194,@see streamxmlrecordreader,0,Pointer
+1195,tests for s3 bucket manager.,0,Pointer
+1196,processed before the next event starts processing.,0,Pointer
+1197,all fields will,0,Pointer
+1198,performance than jsse and is made available via the,0,Pointer
+1199,p bloom filters are serializable.,0,Pointer
+1200,@link statestoredriver implementation based on a filesystem.,0,Pointer
+1201,handler for @link griddoubleclickevent s that happen in the footer of the,0,Pointer
+1202,code source of this file http grepcode^com file repo1^maven.org maven2 org^apache.maven maven artifact 31.1 org apache maven artifact versioning comparableversion^java modifications made on top of the source 1.,0,Pointer
+1203,see a,0,Pointer
+1204,vaadin^com wiki wiki main lightweight%20calculations%20of%20widget%20l,0,Pointer
+1205,@link #writeto and @link #readfrom methods.,0,Pointer
+1206,"fairsharepolicy , generally, processes with lesser usage are lesser.",0,Pointer
+1207,@param completion payload the type of event which could cancel the,0,Pointer
+1208,fairscheduler,0,Pointer
+1209,tests context api and @link statusreporter#getprogress via @link taskattemptcontext#getprogress api .,0,Pointer
+1210,this class is instantiated by the fsnamesystem.,0,Pointer
+1211,@deprecated replaced by @link includefilecontentprovider,0,Pointer
+1212,data to retrieve contains the following br,0,Pointer
+1213,p,0,Pointer
+1214,to define alternate,0,Pointer
+1215,an @link recordreader for @link sequencefile s.,0,Pointer
+1216,"or empty, all configurations will be fetched if fieldstoretrieve",0,Pointer
+1217,delete operation.,0,Pointer
+1218,similar to those in this class for non precondition checks.,0,Pointer
+1219,they also support a more compact serial representation via the,0,Pointer
+1220,it falls back to the @link pseudodelegationtokenauthenticator if the http,0,Pointer
+1221,li,0,Pointer
+1222,exact config keys or prefixes which are then compared against config,0,Pointer
+1223,@param m request,0,Pointer
+1224,confused with configfilters which is used to decide which entities to,0,Pointer
+1225,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,0,Pointer
+1226,be fetched.,0,Pointer
+1227,@param r result,0,Pointer
+1228,files are broken into lines.,0,Pointer
+1229,be retrieved.,0,Pointer
+1230,exact metric ids or prefixes which are then compared against metric,0,Pointer
+1231,implementation of runtimefactory with tony runtime,0,Pointer
+1232,has not actually been put in the @code bloomfilter .,0,Pointer
+1233,common utility functions for @link logparser .,0,Pointer
+1234,p the false positive probability @code fpp of a bloom filter is defined as the probability,0,Pointer
+1235,@param timeout payload the type of the events which are tracked.,0,Pointer
+1236,be invoked first when writing any history data of one application and it will,0,Pointer
+1237,p see the guava user guide on a,0,Pointer
+1238,synchronizer and manager to become corrupt.,0,Pointer
+1239,dom^client.blurevent,0,Pointer
+1240,"https vaadin^com wiki wiki main widget%20styling%20using%20only%20css,",0,Pointer
+1241,ul,0,Pointer
+1242,builder class for omnodedetails.,0,Pointer
+1243,href https github^com google guava wiki conditionalfailuresexplained conditional failures,0,Pointer
+1244,@param r,0,Pointer
+1245,dsf as not requiring the normal synchronization primitives as everything is,0,Pointer
+1246,a @link loggedtask represents a hadoop task that is part of a hadoop job.,0,Pointer
+1247,delegate used by @link designcontext to determine whether container data,0,Pointer
+1248,same state.,0,Pointer
+1249,in response.,0,Pointer
+1250,li b confstoretrieve b used for deciding which configs to return,0,Pointer
+1251,builder class for @link resourcerequestsjsonverifications .,0,Pointer
+1252,test class for @link ozonenativeauthorizer .,0,Pointer
+1253,@see also http www^linuxhowtos.org system procstat^htm,0,Pointer
+1254,settestsuitebuilder .,0,Pointer
+1255,non javadoc,0,Pointer
+1256,"we use a qmc method to approximate the integral i int s f x dx ,",0,Pointer
+1257,that violated many assumptions in,0,Pointer
+1258,"or empty, all metrics will be fetched if fieldstoretrieve contains",0,Pointer
+1259,this parameter is ignored if metrics are not to,0,Pointer
+1260,"in this example,",0,Pointer
+1261,@link org^apache.hadoop^yarn.server^resourcemanager.webapp^dao.resourcerequestinfo,0,Pointer
+1262,"p if you are unfamiliar with bloom filters, this nice a",0,Pointer
+1263,modified to adapt to guava coding conventions,0,Pointer
+1264,please see @link com^google.common^collect.testing^maptestsuitebuilder .,0,Pointer
+1265,"orderings, override @link #compare writablecomparable,writablecomparable .",0,Pointer
+1266,create operation.,0,Pointer
+1267,a hashmap backed implementation of @link targetdetails for termina^^^n.,0,Pointer
+1268,https github^com facebook rocksdb wiki setup options and basic tuning,0,Pointer
+1269,p one may optimize compare intensive operations by overriding,0,Pointer
+1270,this is an unsuprising assumption based on the general idea of,0,Pointer
+1271,see interface hierarchy for more specifics.,0,Pointer
+1272,@link #queueevent breakpointevent that ensures each event is fully,0,Pointer
+1273,handles listener management for @link valuechangelistener s and,0,Pointer
+1274,return instead.,0,Pointer
+1275,href http llimllib^github.com bloomfilter tutorial tutorial a may help you understand how,0,Pointer
+1276,library.,0,Pointer
+1277,the context that is given to the @link mapper .,0,Pointer
+1278,explained a in the guava user guide for more advice.,0,Pointer
+1279,static utility methods are,0,Pointer
+1280,the next event would become intermingled.,0,Pointer
+1281,a @link sslsocketfactory that can delegate to various ssl implementations.,0,Pointer
+1282,"@see com^vaadin.ui^panel#changevariables java^lang.object, java^util.map",0,Pointer
+1283,@link binder,0,Pointer
+1284,these enums can be used in @link grid#setselectionmode selectionmode,0,Pointer
+1285,supposed to be last writing operation and will close the file.,0,Pointer
+1286,with the help of the,0,Pointer
+1287,@see icelementdelta,0,Pointer
+1288,tracking.,0,Pointer
+1289,implementation of the @link shuffledataio plugin system that replicates the local shuffle,0,Pointer
+1290,that @linkplain #mightcontain object will erroneously return @code true for an object that,0,Pointer
+1291,volumeset to manage hdds volumes in a datanode.,0,Pointer
+1292,"@link builder , users can also make verifications of the custom resource",0,Pointer
+1293,documentation for options.,0,Pointer
+1294,@param r response,0,Pointer
+1295,tests @link keyinputstream .,0,Pointer
+1296,@see multiselectionmodel,0,Pointer
+1297,https github^com facebook rocksdb blob master include rocksdb options^h,0,Pointer
+1298,these can either be,0,Pointer
+1299,@see icconfigurationdescription,0,Pointer

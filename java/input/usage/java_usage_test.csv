@@ -1,0 +1,200 @@
+,comment_sentence,partition,category
+1742,generic implementation of version comparison.,1,usage
+1743,"path filelist fileutil^stat2paths fs^liststatus outdir,",1,usage
+1744,"addequalitygroup new user page , new user page",1,usage
+1745,why wait without doing anything?,1,usage
+1746,clients may implement this interface.,1,usage
+1747,"p so that a hypothetical bad caller of this method, such as",1,usage
+1748,multimapbuilder^hashkeys ^enumsetvalues myenum^class ^build,1,usage
+1749,"we serve the request partly from storedpermits, using all the",1,usage
+1750,public graph load key key throws anyexception,1,usage
+1751,in a,1,usage
+1752,"new cacheloader key, graph",1,usage
+1753,be reclaimed by the garbage collector.,1,usage
+1754,the maximum number of permits that can be saved when the ratelimiter is unused is defined in,1,usage
+1755,@param valueout the value output type from the mapper,1,usage
+1756,the logic is very simple.,1,usage
+1757,@link provider .,1,usage
+1758,"class such as @link #named return this type, so that builder methods of more derived",1,usage
+1759,href https github^com google guava wiki preconditionsexplained using @code,1,usage
+1760,instances can be obtained from a @link rulercolumnregistry .,1,usage
+1761,bind new typeliteral&lt paymentservice&lt creditcard,1,usage
+1762,"cconfigurationdescription cconfigurationdata data, string buildsystemid, icdataproxycontainer cr",1,usage
+1763,@link basetestcase#source path directory.,1,usage
+1764,a node representing a group of options in the tree.,1,usage
+1765,"cheat sheet m total bits n expected insertions b m n, bits per insertion p expected false positive probability 1 optimal k b ln2 2 p 1 e ^ kn m ^k 3 for optimal k p 2 ^ k 06185^b 4 for optimal k m nlnp ln2 ^ 2",1,usage
+1766,grid^addcontextclicklistener event &gt notification^show,1,usage
+1767,selection mode representing the built in selection models in grid.,1,usage
+1768,"p the other methods of binder such as @link #bindscope , @link #bindinterceptor , @link",1,usage
+1769,"however, note that if the number of arguments does not match the",1,usage
+1770,in path passed to gcc,1,usage
+1771,0 storedpermits,1,usage
+1772,"#weakkeys was specified, the cache uses identity @code comparisons instead for keys.",1,usage
+1773,"last request, but it remembers the expected time of the next request.",1,usage
+1774,if throw idiom instead.,1,usage
+1775,sub classes must supply the miarg object.,1,usage
+1776,"overflow, depending on the real world consequences of not using the expected rate.",1,usage
+1777,we would only increase it for arrivals later than the expected one second.,1,usage
+1778,this class filters output part files from the given directory,1,usage
+1779,p,1,usage
+1780,@noextend this class is not intended to be subclassed by clients.,1,usage
+1781,"this role is played by storedpermitstowaittime double storedpermits, double permitstotake .",1,usage
+1782,"f x 1 if 2x 1 1 ^2 2x 2 1 ^2 &lt 1 and f x 0 , otherwise.",1,usage
+1783,"how is the ratelimiter designed, and why?",1,usage
+1784,class used to test whether equals correctly handles an instance of an incompatible class.,1,usage
+1785,li 1920.21,1,usage
+1786,"notably, @link verify offers assertions",1,usage
+1787,integrals .,1,usage
+1788,modeled by storedpermits variable.,1,usage
+1789,"cache#cleanup such entries may be counted in @link cache#size , but will never be visible to",1,usage
+1790,batches processed exceeds numbatchestimeout .,1,usage
+1791,at that point,1,usage
+1792,@author paul marks,1,usage
+1793,"request, and ensure that 1 qps seconds have elapsed since then.",1,usage
+1794,treated as if it were a request for a @code serviceimpl instance.,1,usage
+1795,can t be invoked directly please see,1,usage
+1796,ul,1,usage
+1797,is quite easier than in the arbitrary binding annotation case we just saw.,1,usage
+1798,pre,1,usage
+1799,p note that task wrapping may occur even if the task is never executed.,1,usage
+1800,preconditions a .,1,usage
+1801,this is important when the,1,usage
+1802,requested.,1,usage
+1803,@noextend this interface is not intended to be extended by clients.,1,usage
+1804,"this implements a bursty ratelimiter, where storedpermits are translated to zero throttling.",1,usage
+1805,guice will,1,usage
+1806,@noimplement this interface is not intended to be implemented by clients.,1,usage
+1807,"to the renderer, invoked when any of the rendered buttons is clicked.",1,usage
+1808,if you can think of how the concepts of one,1,usage
+1809,that would have been produced in that idle time .,1,usage
+1810,"also,",1,usage
+1811,it disables the gcm cipher when running on java 8.,1,usage
+1812,default jsse is not truly the the default jsse implementation because,1,usage
+1813,"this variable is zero when there is no underutilization,",1,usage
+1814,public static double sqrt double value,1,usage
+1815,"rate is applied to networking limiting bandwidth , where past underutilization typically",1,usage
+1816,"process a string denoting a filepath in a way compatible for gnu make rules, handling",1,usage
+1817,"that said, make will treat",1,usage
+1818,we increase storedpermits with the amount of permits,1,usage
+1819,function of any @link implementedby @implementedby or @link providedby @providedby,1,usage
+1820,p it is of course possible to use the methods of this class to check for invalid conditions,1,usage
+1821,it implements all optional operations of the @link loadingcache and,1,usage
+1822,concurrentmodificationexception .,1,usage
+1823,"p if @linkplain #weakkeys weakkeys , @linkplain #weakvalues weakvalues , or @linkplain",1,usage
+1824,"the @link cache#cleanup method of the returned cache will also perform maintenance, but",1,usage
+1825,abstractmodule .,1,usage
+1826,"setmultimap integer, myenum hashenummultimap",1,usage
+1827,red mymodule^class.getdeclaredfield red ^getannotation color^class,1,usage
+1828,values of your annotation.,1,usage
+1829,"time, then a request arrived and was immediately granted?",1,usage
+1830,s o u r c e s sources^mk m a k e f i l e m e t h o d s,1,usage
+1831,rate is,1,usage
+1832,leaving k and v as upper bounds rather than the actual key and value types allows type,1,usage
+1833,"for 10 seconds ie, we expected a request at time x, but we are at time x 10 seconds before",1,usage
+1834,p all default instances returned by @link #get are generics safe.,1,usage
+1835,essentially measure unused time we spend unused time buying storing permits.,1,usage
+1836,provided to assist in optimized implementations of this method.,1,usage
+1837,usage,1,usage
+1838,require a different in each case function that translates storedpermits to throttling time.,1,usage
+1839,"li when used , the time it takes, as explained in the introductory class note, is equal to",1,usage
+1840,"represents a string in the version item list, usually a qualifier.",1,usage
+1841,li after eclipse started a project is being opened.,1,usage
+1842,@param keyout the key output type from the mapper,1,usage
+1843,we already know how much time it takes to serve 3 fresh permits if the rate is,1,usage
+1844,"maximumsize , @linkplain #maximumweight long maximumweight , @linkplain #expireafterwrite",1,usage
+1845,string constants for makefile contents and messages private static final string auto dep comment ^autodeps non nls 1 private static final string message managedmakebuilder^message non nls 1 private static final string build error message ^error non nls 1 private static final string dep incl comment ^module.dep^includes non nls 1 private static final string mod incl comment ^module.make^includes non nls 1 private itool buildtools private boolean buildtoolsused private imanagedbuildinfo info private set outputextensionsset maps of macro names string to values list dependency file variables private vector dependencymakefiles ipath s relative to the top build directory or absolute,1,usage
+1846,p projects which use @code com^google.common should generally avoid the use of @link,1,usage
+1847,"us to the point of the next scheduling time, since we always maintain that.",1,usage
+1848,it tells guice how to,1,usage
+1849,ie,1,usage
+1850,hp^getport returns 80,1,usage
+1851,m a k e f i l e s p o p u l a t i o n m e t h o d s,1,usage
+1852,bindconstant ^annotatedwith names^named port ^to 8080,1,usage
+1853,"li fcfgcache is used to getspecsettings cconfigurationspecsettings, after that fcfgcache is set to null.",1,usage
+1854,it is important to realize that such a ratelimiter has a very superficial memory of the past,1,usage
+1855,given explicitly.,1,usage
+1856,@param b the common supertype that all entries must share often this is simply @link object,1,usage
+1857,this allows constructs such as,1,usage
+1858,click listeners can be added,1,usage
+1859,conversions,1,usage
+1860,"if you have such arguments, use the conventional",1,usage
+1861,if your module also includes bindings for particular i values i of the,1,usage
+1862,see the makefile for more,1,usage
+1863,if we are primarily interested to deal,1,usage
+1864,public class mymodule extends abstractmodule,1,usage
+1865,on the receiving instance you must store and use the new builder instance it returns instead.,1,usage
+1866,"1 token per second , then this will take 3 seconds.",1,usage
+1867,adds a macro addition prefix to a map of macro names to entries.,1,usage
+1868,calculate square root,1,usage
+1869,the reference to cache is kept in field fcfgcache.,1,usage
+1870,@throws nullpointerexception is path is null,1,usage
+1871,"the last one, then we achieve the intended rate.",1,usage
+1872,"or, alternatively",1,usage
+1873,"#install , @link #requeststaticinjection , @link #adderror and @link #currentstage are not",1,usage
+1874,unsupportedoperationexception in the situations they are intended for.,1,usage
+1875,"and f is a function describing the inscribed circle of the square s ,",1,usage
+1876,@since 160,1,usage
+1877,hp^gethost returns 2001 db8 1,1,usage
+1878,header and footer,1,usage
+1879,if the wildfly openssl integration is not,1,usage
+1880,"expireafteraccess is requested entries may be evicted on each cache modification, on occasional",1,usage
+1881,li,1,usage
+1882,"explicitly in @code com^google.common^collect , for example",1,usage
+1883,we are relying on make to do the right things when confronted,1,usage
+1884,@link,1,usage
+1885,placementalgorithmoutput attempt the number of times the requests in this,1,usage
+1886,"a timeout after 100 insignificant batches, call",1,usage
+1887,"expected arrival time of the next request is actually in the past, then the difference now",1,usage
+1888,say we leave the ratelimiter unused,1,usage
+1889,"p the message string is not formatted unless the exception will be thrown, so the cost of the",1,usage
+1890,permits?,1,usage
+1891,represents a version list item.,1,usage
+1892,"p note that this is not an exhaustive list, because these methods are only concerned with",1,usage
+1893,special committer that always requires commit.,1,usage
+1894,target dep1 dep2 dep3,1,usage
+1895,@param t,1,usage
+1896,all of the public methods are simply accessors for the instance variables we,1,usage
+1897,cachebuilder uses the same technique.,1,usage
+1898,clients won t get type,1,usage
+1899,binding specifies that guice should resolve an unannotated injection request for @code service,1,usage
+1900,for example,1,usage
+1901,"cache accesses, or on calls to @link cache#cleanup .",1,usage
+1902,void examplebadcaller,1,usage
+1903,documentation.,1,usage
+1904,maximumsize 10000,1,usage
+1905,throw new illegalargumentexception input is negative value,1,usage
+1906,removallistener my listener,1,usage
+1907,"implementation has been specified, but the value collection implementation has not.",1,usage
+1908,serializers should delegate to @link #serialize and @link #instantiate .,1,usage
+1909,because underutilization free resources for the taking.,1,usage
+1910,this implements the following function where coldinterval coldfactor stableinterval.,1,usage
+1911,interface with a default method annotated to be intercepted.,1,usage
+1912,code,1,usage
+1913,m a i n makefile m a k e f i l e m e t h o d s,1,usage
+1914,"p as with any performance concerns, you should consider profiling your code in a production",1,usage
+1915,a builder of @link loadingcache and @link cache instances having any combination of the,1,usage
+1916,"for computing many digits of pi, consider using bbp.",1,usage
+1917,"p or equivalently,",1,usage
+1918,how the program was compiled.,1,usage
+1919,specifies that a request for a @code service instance with no binding annotations should be,1,usage
+1920,by default,1,usage
+1921,m a k e f i l eg e n e r a t i o n c o m m o n m e t h o d s,1,usage
+1922,this also enables,1,usage
+1923,ol,1,usage
+1924,guice provides this object to your application s @link module implementors so,1,usage
+1925,a window is added to a @code ui using,1,usage
+1926,java bean class to be used with the example javasqlnetworkwordcount.,1,usage
+1927,the grid bean type,1,usage
+1928,"to save space, these",1,usage
+1929,p this base implementation uses the natural ordering.,1,usage
+1930,the result of the variations on compilation arguments means that some of the,1,usage
+1931,li 2001 db8 1 @link #gethost omits brackets,1,usage
+1932,r will first reset the path to its default,1,usage
+1933,"thus, we",1,usage
+1934,build,1,usage
+1935,simply and readably.,1,usage
+1936,underutilization.,1,usage
+1937,information.,1,usage
+1938,@see cconfigurationdescription,1,usage
+1939,imanagedbuildermakefilegenerator m e t h o d s,1,usage
+1940,serviceimpl before it reaches the point when it starts looking for these annotations.,1,usage
