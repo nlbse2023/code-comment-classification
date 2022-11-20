@@ -1,0 +1,193 @@
+,comment_sentence,partition,category
+1304,b rtcalendarbuilder new.,1,Example
+1305,argdictionary,1,Example
+1306,v rtview new.,1,Example
+1307,transformerinputfileon acollection,1,Example
+1308,the default form has one button ok .,1,Example
+1309,rtgrapherselectrangeviewcontext ongrapher g callback elements g view attributeat #presentation selection elements .,1,Example
+1310,b rtmondrian new.,1,Example
+1311,^ # name phonenumber,1,Example
+1312,edges orderedcollection new.,1,Example
+1313,create a linear gradient,1,Example
+1314,adding a second circle expands the enclosure circle to fit both circles c1 and c2 .,1,Example
+1315,e2 @ rtdraggable.,1,Example
+1316,create an empty canvas of size 400@250,1,Example
+1317,famix.,1,Example
+1318,value dictionary at d 005.,1,Example
+1319,@ rtdraggable.,1,Example
+1320,examples orderedcollection new.,1,Example
+1321,create a triangle vector path,1,Example
+1322,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray .,1,Example
+1323,1 color blue .,1,Example
+1324,yourentity class annotation,1,Example
+1325,^ b,1,Example
+1326,cn c name withoutprefix #famixjava.,1,Example
+1327,we will start with creation of the rectangle shape class blrectangleshape,1,Example
+1328,option value opera,1,Example
+1329,waselection creates a selectable list.,1,Example
+1330,three circle enclosure is a special case too.,1,Example
+1331,createconfiguration conffilename basedirectory basedirectory argdictionary arguments,1,Example
+1332,colors # # 165 0 38 # 215 48 38 # 244 109 67,1,Example
+1333,prfileinclusion new,1,Example
+1334,ks kolmogorovsmirnov comparedata 1 to 100 collect i nd random withdistribution nd.,1,Example
+1335,first create the text,1,Example
+1336,extension .,1,Example
+1337,the content of each tab is defined with the help of a stencil.,1,Example
+1338,size 100,1,Example
+1339,installer,1,Example
+1340,examples,1,Example
+1341,selection,1,Example
+1342,model moosemodel new.,1,Example
+1343,storedmethod setfunction funblock.,1,Example
+1344,b interaction showlabel,1,Example
+1345,the following example shows how i am configured for sparta moz2d library.,1,Example
+1346,the final result is the following,1,Example
+1347,my main entry point is,1,Example
+1348,instancevariables #instvarnames,1,Example
+1349,adocument anxdfile,1,Example
+1350,x^^^^a..,1,Example
+1351,colorpalette qualitative show,1,Example
+1352,znbase64encoder new,1,Example
+1353,"a traditional way to implement such geometry is to create a subclass of class blgeometry , override method blgeometry #buildpathonspartacanvas and implement quite cumbersome algorithm that computes the location of each point and then connects those points using moveto and lineto commands provided by pathbuilder .",1,Example
+1354,start each,1,Example
+1355,to create a toggle button with a label user should the corresponding class brmaterialtogglewithiconlook,1,Example
+1356,example blchildrenorderedcollectionexamples #add,1,Example
+1357,basedirectory filesystem workingdirectory,1,Example
+1358,b monthlayout month.,1,Example
+1359,index 1 iftrue index 1 .,1,Example
+1360,splitting the injected line,1,Example
+1361,injecting a line inside of the top edge,1,Example
+1362,try to use this script to know the excecution of roassal examples,1,Example
+1363,yet fails on,1,Example
+1364,"for example, a search results page might use something like",1,Example
+1365,self inform result printstring,1,Example
+1366,path triangle,1,Example
+1367,example,1,Example
+1368,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep previewexpanded true nocode,1,Example
+1369,pillartransformer 1 the parameter is the priority of the transformation,1,Example
+1370,b dateshape rectangle size 15 color color white bordercolor color lightgray.,1,Example
+1371,s rtellipse new color color red alpha 04 size 30.,1,Example
+1372,the model method just returns the object whose fields we wish to populate with date.,1,Example
+1373,editor measurement,1,Example
+1374,g pmgradient of x x first squared x second .,1,Example
+1375,example brexamplesshowroom #glamorousbutton,1,Example
+1376,b explore morph using #subclasses.,1,Example
+1377,mallatticepatterns on mallattice on context reportpatterns,1,Example
+1378,acollection,1,Example
+1379,b,1,Example
+1380,with edges,1,Example
+1381,g view rtview new.,1,Example
+1382,d addmetric #fourth.,1,Example
+1383,c,1,Example
+1384,for once off use,1,Example
+1385,colors at index.,1,Example
+1386,addeventhandleron blinfinitedatasourceitemrangemoved,1,Example
+1387,"inserting an inline frame within a section of text is much like inserting an object via the object element they both allow you to insert an html document in the middle of another, they may both be aligned with surrounding text, etc",1,Example
+1388,g,1,Example
+1389,triangle canvas path,1,Example
+1390,example brtexteditorexamples #element editortext show gtlivein,1,Example
+1391,the height of the text element in this case is a sum of ascent and descent which is given by the font.,1,Example
+1392,gtexample,1,Example
+1393,button can also be disabled to prevent click events,1,Example
+1394,dictionary at famix^javasourcelanguage put famixjava entities^sourcelanguage .,1,Example
+1395,this is an adapted extract from the paper squarified treemaps mentioned above.,1,Example
+1396,d value index,1,Example
+1397,index 11 iftrue index 11 .,1,Example
+1398,rendernameon html,1,Example
+1399,translating the top edge,1,Example
+1400,https github^com syrel sparta raw master images spartacanvas 02 triangle path^png label trianglepath,1,Example
+1401,this extension will only be visible when the package is loaded.,1,Example
+1402,x^^b..,1,Example
+1403,first we add a single rectangle.,1,Example
+1404,v,1,Example
+1405,inputfile filesystem workingdirectory chapters chapter1 chapter1^pillar .,1,Example
+1406,fmmetametamodel default exportwithprinter printer.,1,Example
+1407,language smalltalk,1,Example
+1408,d rtverticalmultipledata new.,1,Example
+1409,"from mouse down, mouse up, and mouse move events.",1,Example
+1410,example blrectangleshapewitharrowexplanation #rectangleshape previewshow #gtlivefor previewexpanded true previewheight 250,1,Example
+1411,treillis mallattice on context .,1,Example
+1412,"i am still an experiment, but if you know how to improve me, please contact jan kurs at kurs@iam^unibe.ch",1,Example
+1413,e rtellipse new size 30 elementon 42.,1,Example
+1414,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary.,1,Example
+1415,b normalizer normalizecolor #numberofmethods.,1,Example
+1416,we next fill the left half.,1,Example
+1417,b yearshape composite comp,1,Example
+1418,acanvas flush.,1,Example
+1419,"however, if we add the next area 4 above these original rectangles, the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep label #worstvaluerounded .",1,Example
+1420,storedmethod dhblinesearch new.,1,Example
+1421,v rtview new,1,Example
+1422,d addmetric #numberofmethods.,1,Example
+1423,xab,1,Example
+1424,check it out by executing,1,Example
+1425,^ self privatestate attributeat #yourextendingattribute,1,Example
+1426,show how to specily special input instead of using simple text field.,1,Example
+1427,model entitystorage forruntime.,1,Example
+1428,accordion,1,Example
+1429,source filter2,1,Example
+1430,s attachpoint rtrectangleattachpoint new.,1,Example
+1431,^ contact,1,Example
+1432,i can be build from rows as follows,1,Example
+1433,see wainputtest #renderoptiongroupon for examples.,1,Example
+1434,screenshot package kernel class integer method caption the plus method width 50 label aa,1,Example
+1435,option value safari,1,Example
+1436,will return a mooseincomingqueryresult containing the famixassociation having afamixclass or its children as target,1,Example
+1437,for example,1,Example
+1438,list,1,Example
+1439,see mooseentitystate for more information,1,Example
+1440,the toolbar is a logical set of action buttons either labelled or iconified .,1,Example
+1441,done,1,Example
+1442,nodes @ rthighlightablewithcursor.,1,Example
+1443,asymbol #name iftrue ^ your name .,1,Example
+1444,this is where a class blvectorshape comes in handy.,1,Example
+1445,"therefore, we decide that we have reached an optimum for the left half in step two, and start processing the right half.",1,Example
+1446,it means that the height of the text is independent from the content.,1,Example
+1447,width 6,1,Example
+1448,for repeated use,1,Example
+1449,b yearlayout horizontalline.,1,Example
+1450,50@20.,1,Example
+1451,defaultexporters latex,1,Example
+1452,b nodes collection withallsubclasses .,1,Example
+1453,trait named #famixtmethod,1,Example
+1454,addall edges.,1,Example
+1455,the pragma mseproperty type must be placed in the getter method to denote a fame property.,1,Example
+1456,canvas filter,1,Example
+1457,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1.,1,Example
+1458,child when blelementremovedevent do self inform removed from parent .,1,Example
+1459,code,1,Example
+1460,encode anxdfile streamingstrategy bytes,1,Example
+1461,create a gaussian blur filter,1,Example
+1462,to create a new phase you have to define its prority as a class method then to define the action of the phase with a method actionon aninput.,1,Example
+1463,https github^com syrel sparta raw master images spartacanvas 01 empty^png label emptycanvas,1,Example
+1464,v b1 b2 edges,1,Example
+1465,v add l.,1,Example
+1466,elements rtellipse new size 5 color color red size vv vv 4 elementson 1 to 15 .,1,Example
+1467,example bltextelementmeasurementstrategyexamples #measurementdifference nocode previewshow #gtlivefor previewheight 220,1,Example
+1468,i will initialize myself with a new fmmetamodel but this one can be replaced by an existing one.,1,Example
+1469,once we have everything we need for the arrow triangle we can move it s top up by the length of the arrow.,1,Example
+1470,pmmatrix rows # 1 2 3 4 5 6 .,1,Example
+1471,finish.,1,Example
+1472,inputfile value directory myfile^pillar,1,Example
+1473,connecttoall #subclasses.,1,Example
+1474,anxdfile adocument savetoxdoc.,1,Example
+1475,option value internet explorer,1,Example
+1476,d addmetric #second.,1,Example
+1477,storedmethod evaluate.,1,Example
+1478,contact is an inst var,1,Example
+1479,flush after each search result,1,Example
+1480,i have a meta model containing descriptions of my content.,1,Example
+1481,e1 rtbox new size 50 elementon 1.,1,Example
+1482,datalist,1,Example
+1483,v open,1,Example
+1484,rtweightedcirclelayout on elements.,1,Example
+1485,merge canvas compositefilter,1,Example
+1486,false,1,Example
+1487,xb,1,Example
+1488,rows,1,Example
+1489,here you can see how to configure a fire and check a click event on a child element,1,Example
+1490,selected roger,1,Example
+1491,example blrectangleshapewitharrowexplanation #rectanglewithtopinjectedline previewshow #gtlivefor previewexpanded true previewheight 250,1,Example
+1492,fca model treillis context,1,Example
+1493,area canvas bounds,1,Example
+1494,stddeviation 4.,1,Example
+1495,createconfiguration pillar^conf,1,Example

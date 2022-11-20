@@ -1,0 +1,1931 @@
+class,comment_sentence,partition,category
+MooseVisualLocator,it is meant to be subclassed.,train,Keyimplementationpoints
+GtExampleFactory,"in the second case, a new instance is created for running each example method.",train,Keyimplementationpoints
+BlLayout,"a small set of constraints, like padding, margin or minimal and maximum dimensions, are common among all the layouts.",train,Keyimplementationpoints
+BlLayout,as we know the size of each child we compute the actual position for each child,train,Keyimplementationpoints
+GtExampleFactory,"if the method is defined on the instance side, the provider consists in a new instance of that class.",train,Keyimplementationpoints
+BlMatrix2D,a31 a32 x y,train,Keyimplementationpoints
+RTVerticalMultipleData,each group has the same x value.,train,Keyimplementationpoints
+SpartaCairoTextMetrics,"because text extents are in user space coordinates, they are mostly, but not entirely, independent of the current transformation matrix.",train,Keyimplementationpoints
+BlLayout,space starts the layout step,train,Keyimplementationpoints
+BlLayout,"layouting should to be executed during a frame when various properties like, width, height or position change in any element contained by the space.",train,Keyimplementationpoints
+BlMatrix2D,a21 a22 shx sy,train,Keyimplementationpoints
+GtExampleFactory,"if this is done, this provider will be used for all examples created by the factory.",train,Keyimplementationpoints
+PMStateTime,"we don t want to use point, since state may be a vector quantity, and the behavior of array @ number is a little off it stores points in an array, what we want is the array itself in state, and the scalar quantity in time .",train,Keyimplementationpoints
+BlHostPulseLoop,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum.,train,Keyimplementationpoints
+PMLineSearch,optimization tip!!!,train,Keyimplementationpoints
+BlLayout,an edge can be layouted only after the position of the elements that it connects is known.,train,Keyimplementationpoints
+TROSMShape,algorithm,train,Keyimplementationpoints
+WALabelledFormDialog,override the buttons method to change the text or number of submit buttons on the form.,train,Keyimplementationpoints
+GtExampleFactory,users should configure me with a #sourceclass .,train,Keyimplementationpoints
+GtExampleFactory,"if the example method is defined on the class side, the provider is the class object.",train,Keyimplementationpoints
+WACookie,cookie spec,train,Keyimplementationpoints
+BlLayout,"the space only allows layout requests during the layouting phase a limited number of times method blspace #computelayout to avoid blocking rendering due to infinite recursions caused by layout requests, or void spending too much time on layouts in a frame.",train,Keyimplementationpoints
+BlLayout,by default class blelement delegates the measuring to its layout.,train,Keyimplementationpoints
+TROSMShape,set clipping rectangle to trosmshape bounds.,train,Keyimplementationpoints
+BlClickEvent,mouse up,train,Keyimplementationpoints
+GtExampleFactory,then i execute those methods with the example as a receiver and the pragma arguments.,train,Keyimplementationpoints
+BlClickEvent,click,train,Keyimplementationpoints
+WACookie,https tools^ietf.org html rfc6265,train,Keyimplementationpoints
+BlGridLayout,user can specify amount of columns or rows by sending columncount or rowcount to an instance of grid layout.,train,Keyimplementationpoints
+BlMatrixDecomposition,top left 2x2 minor of original matrix,train,Keyimplementationpoints
+BlLayout,todo explain why position is sometime changed in the measured bounds,train,Keyimplementationpoints
+BlMatrixDecomposition,quaternion,train,Keyimplementationpoints
+WACookie,http msdn2^microsoft.com en us library ms533046^aspx,train,Keyimplementationpoints
+WACookie,browser support,train,Keyimplementationpoints
+BlLayout,this step find the size of an element and sets measuredextent or position sometimes,train,Keyimplementationpoints
+BlPerpendicularFractionAnchor,the curvature distance from the line connecting reference anchors is defined as a fraction curvaturefraction of a length between anchors.,train,Keyimplementationpoints
+BlHostPulseLoop,the opened spaces listen the pulse to be synchronized and to update their state when it is needed.,train,Keyimplementationpoints
+BlMatrixDecomposition,skew,train,Keyimplementationpoints
+GtGradAbstractTreeLayout,it is an extension of the well known reingold tilfold algorithm.,train,Keyimplementationpoints
+BlDecelerateInterpolator,my formula is,train,Keyimplementationpoints
+TROSMShape,zoomlevel ln 156543034 rzoom ln 2,train,Keyimplementationpoints
+BrGlamorousIcons,you can import new icons using method name brglamorousicons class #importiconsfromdirectory using the script below.,train,Keyimplementationpoints
+BlGridLayout,"grid layout supports fitcontent, matchparent and exact resizing mode of the owner.",train,Keyimplementationpoints
+BlLayout,"however, an important aspect in bloc, is that when one of these properties changes, layouting is not performed immediately.",train,Keyimplementationpoints
+BlGridLayout,internal representation and key implementation points.,train,Keyimplementationpoints
+BlDecelerateInterpolator,"increasing factor above 10f makes exaggerates the ease out effect ie, it starts even faster and ends evens slower .",train,Keyimplementationpoints
+PMExponentialGenerator,"to generate an exponential sample x from a uniform 0,1 sample u.",train,Keyimplementationpoints
+BlLayout,i define an api of a layout.,train,Keyimplementationpoints
+TROSMShape,cache each tile.,train,Keyimplementationpoints
+GtRlMajorVersionComputation,if the symbolic version number on which i am applied has a patch or a minor number i reset them to zero in the created version number.,train,Keyimplementationpoints
+RTVerticalMultipleData,negative data are not allowed.,train,Keyimplementationpoints
+GtRlBaselineTagReleaseStrategy,as i am passive i do not export any metadata.,train,Keyimplementationpoints
+TROSMShape,compute the osm zoom level with the camera zoom value .,train,Keyimplementationpoints
+BlGridLayout,"each line is assigned to an index, meaning that a grid with n columns would have n 1 line.",train,Keyimplementationpoints
+GtGradAbstractTreeLayout,moen s trees are oriented horizontally.,train,Keyimplementationpoints
+BlGridLayout,"by default grid layout does not specify how many columns and rows exist, instead it tries to compute necessary amount of columns or rows depending on amount of children.",train,Keyimplementationpoints
+GtGradAbstractTreeLayout,"to accomplish that, it uses shapes represented by polyline structures.",train,Keyimplementationpoints
+BlLayout,a tipical example is deadling with edges.,train,Keyimplementationpoints
+GtExampleFactory,to initialize the subjects of an example i call #gtexamplesubjects on the provider object.,train,Keyimplementationpoints
+GtRlBaselineTagReleaseStrategy,because of this i do not use metadata to check previous versions it is not reliable .,train,Keyimplementationpoints
+BlMatrixDecomposition,3d 4x4 matrices are decomposed as follows,train,Keyimplementationpoints
+BlLayout,layout constraints,train,Keyimplementationpoints
+BlLayout,layout events,train,Keyimplementationpoints
+TROSMShape,r zoom to osm zoom level base is 1km pixel,train,Keyimplementationpoints
+BlDecelerateInterpolator,setting factor to 10f produces an upside down y x^2 parabola.,train,Keyimplementationpoints
+PMLineSearch,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations.,train,Keyimplementationpoints
+BlLayout,todo,train,Keyimplementationpoints
+TROSMShape,"from the camera, get the zoom level and offset.",train,Keyimplementationpoints
+BlChildrenSubset,internally the result of method blchildrensubset #subsetfrom is stored into an instance variable.,train,Keyimplementationpoints
+BlLayout,each element can decide how it wants to be measured method blelement #onmeasure .,train,Keyimplementationpoints
+BlLayout,applying the layout,train,Keyimplementationpoints
+BlMatrixDecomposition,rotation angle,train,Keyimplementationpoints
+BlLayout,"hence, in bloc layout is not executed immediately after a property like the width of an element changes.",train,Keyimplementationpoints
+TROSMShape,lon to roassal space l 40075016686 l 360,train,Keyimplementationpoints
+PMLineSearch,"the step from x 0 to x 1 suppose to minimize g x i^eg 0 0 , but due to nonlinearity of g x might fail to do so.",train,Keyimplementationpoints
+BlLayout,"when needing to test layouts, however, it is necessary to apply a layout immediately, instead of waiting for a frame to end.",train,Keyimplementationpoints
+BlInfiniteDataSourceCommandType,i suppose to be stateless and therefore immutable.,train,Keyimplementationpoints
+GtExampleFactory,"to create an example, a method defining an example is executed having a provider as a receiver.",train,Keyimplementationpoints
+BlLayout,for example when nodes change the position edges should be updated.,train,Keyimplementationpoints
+BlInfiniteDataSourceCommandType,for performance and memory reasons i provide a unique instance of me to be shared among my users,train,Keyimplementationpoints
+BlLayout,they were introduced to avoid changing the real extent of element while layouting of children is still being performed.,train,Keyimplementationpoints
+BlElementDynamicTransformation,it means that matrix computation is performed only when requested taking owner element into account.,train,Keyimplementationpoints
+BlGridLayout,grid layout supports spacing between cells which can be set sending cellspacing message.,train,Keyimplementationpoints
+BlLayout,they can react by requesting another layout.,train,Keyimplementationpoints
+BlLayout,each type of layout can further define its own specific constraints by creating a subclass of class bllayoutconstraints .,train,Keyimplementationpoints
+PMStepper,steppers perform one single step.,train,Keyimplementationpoints
+BlLayout,"space starts the measurement process from the root element after measurement it tell children to measure themselves, etc",train,Keyimplementationpoints
+BlLayout,performing a layout,train,Keyimplementationpoints
+WAErrorHandler,"if either method is not implemented, the default implementation will call #handledefault , which can be used to provide common behaviour for both exception types.",train,Keyimplementationpoints
+WASelection,items can be any object.,train,Keyimplementationpoints
+BlLayout,"however, often elements need to reach and perform actions, when for example their position or extent changes.",train,Keyimplementationpoints
+WAIframeTag,"the contents of the iframe element, on the other hand, should only be displayed by user agents that do not support frames or are configured not to display frames.",train,Keyimplementationpoints
+BlChildrenSubset,this result is then used when accessing or iterating over elements.,train,Keyimplementationpoints
+BlChildrenSubset,this decision was taken to allow iterators to perform work when the iterator is created and ensure a faster iteration.,train,Keyimplementationpoints
+BlGridLayout,all children of an element with gridlayout must use gridconstraints that allows users to configure how children are located within grid independently.,train,Keyimplementationpoints
+GtExampleFactory,optionally users can configure the factory with an explicit provider.,train,Keyimplementationpoints
+TROSMShape,lat to roassal space l float pi 4 l degreestoradians 2 tan ln 40075016686 20 float pi,train,Keyimplementationpoints
+GtExampleFactory,this is the class used to look for methods defining examples.,train,Keyimplementationpoints
+WACookie,http www^mnot.net blog 2006 10 27 cookie fun,train,Keyimplementationpoints
+BlLayout,layouts should override method bllayout #measure with to implement the actual measuring.,train,Keyimplementationpoints
+WACookie,cookie 2 spec,train,Keyimplementationpoints
+BlLayout,"more technical details can be found in the method method blspace #dolayout , the main entry point for executing the layout phase in a space.",train,Keyimplementationpoints
+GtGradAbstractTreeLayout,"these shapes are initially formed for each leaf, so that the polyline goes around the node, but leaves the left side open.",train,Keyimplementationpoints
+BlLayout,after the entire layout phase is completed the real bounds and measured bounds will have the same value.,train,Keyimplementationpoints
+WATagBrush,element name #tag,train,Keyimplementationpoints
+BlLayout,phases are modeled as subclasses of class blspaceframephase and are executed once per frame.,train,Keyimplementationpoints
+WALabelledFormDialog,see example below.,train,Keyimplementationpoints
+WATagBrush,its main additions are,train,Keyimplementationpoints
+BlArrowheadTriangle,it is possible to have a border around triangle by specifying a border width of a triangle arrowhead.,train,Keyimplementationpoints
+BlLayout,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element.,train,Keyimplementationpoints
+BlLayout,layouting of elements is a phase executed by a space during every frame.,train,Keyimplementationpoints
+BlMatrix2D,my components are named according to mathematical convention,train,Keyimplementationpoints
+BlLayout,"this is done after events and tasks have been executed, but before the drawing phase.",train,Keyimplementationpoints
+BlLayout,the measured bounds act like a temporary cache for the new bounds of an element.,train,Keyimplementationpoints
+BlMatrixDecomposition,scale,train,Keyimplementationpoints
+WAImageButtonTag,"when a pointing device is used to click on the image, the form is submitted and the click coordinates passed to the server.",train,Keyimplementationpoints
+WASelection,"if optional labelblock is not given the string versions of the items are displayed to user, otherwise labelblock is used to generate the text to display for each item.",train,Keyimplementationpoints
+FMModel,i include a system of caches in case my users want to store informations to speed up an application.,train,Keyimplementationpoints
+SpartaCairoTextMetrics,"they will change slightly due to hinting so you can t assume that metrics are independent of the transformation matrix , but otherwise will remain unchanged.",train,Keyimplementationpoints
+BlDecelerateInterpolator,"i meant to be immutable, therefore factor can be only set using factory method #factor on my class side",train,Keyimplementationpoints
+PMODESolver,announcements are made when a step is taken.,train,Keyimplementationpoints
+TDependencyQueries,most of the generic methods takes a symbol to describe the direction.,train,Keyimplementationpoints
+BlGridLayout,implementation points,train,Keyimplementationpoints
+BlChildrenSubset,implementation details,train,Keyimplementationpoints
+BlGridLayout,because child s matchparent does not make sense in case of grid users should use #fill to declare that child should take all available cell s space.,train,Keyimplementationpoints
+BlLayout,the real bounds contain the actual position and extent of an element that users of that element should rely on.,train,Keyimplementationpoints
+TROSMShape,"when displaying, check if tile exists.",train,Keyimplementationpoints
+GtGradAbstractTreeLayout,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically.,train,Keyimplementationpoints
+WACookie,netscape spec,train,Keyimplementationpoints
+BlLayout,i support a set of attributes refered to as constraints in bloc which define the visual properties of the layout.,train,Keyimplementationpoints
+GtGradAbstractTreeLayout,it calculates left and right subtrees of a tree and merges them.,train,Keyimplementationpoints
+WAImageButtonTag,"for accessibility reasons, authors should provide alternate text for the image via the alt attribute.",train,Keyimplementationpoints
+PMStepper,"solving ordinary differential equation numerically is usually done iteratively, that is a given state of an ordinary differential equation is iterated forward x t x t dt x t 2dt .",train,Keyimplementationpoints
+BlClickEvent,the order of fired events,train,Keyimplementationpoints
+BlLayout,"instead, a layout request is issued by the element whose property changed using the message method blelement #requestlayout .",train,Keyimplementationpoints
+BlLayout,elements announce events for position and extent changed,train,Keyimplementationpoints
+TSpartaPaint,"generally, a paint is not meant to be an external object, however for additional flexibility i am implemented as a trait.",train,Keyimplementationpoints
+TDependencyQueries,this symbol will be used to find a moosequeryabstactdirectionstrategy to configure a moosequerycalculator.,train,Keyimplementationpoints
+WATagBrush,attributes instance of wahtmlattributes,train,Keyimplementationpoints
+GtRlBaselineTagReleaseStrategy,even if the repository has child repositories there will be no metadata exported.,train,Keyimplementationpoints
+GtRlCommitAndTagReleaseAction,see method gtrlsemantictagreleasestrategy #commitandtagrelease for more implementation details.,train,Keyimplementationpoints
+BlLayout,the measured bounds are used during layouting to hold the new extent of an element.,train,Keyimplementationpoints
+BlLayout,commiting changes,train,Keyimplementationpoints
+GtExampleDependenciesResolver,"to determine if a message send represents a dependency to a method containing an example, i use heuristic defined by subclasses of gtexampledependencyresolver .",train,Keyimplementationpoints
+GtGradAbstractTreeLayout,it improved the older algorithm s ability to handle non uniform sized nodes.,train,Keyimplementationpoints
+BlLayout,changes the real extent to measured extent and the real position to the computed layout position,train,Keyimplementationpoints
+GtExampleFactory,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword .,train,Keyimplementationpoints
+WALabelledFormDialog,cancel,train,Example
+RTRotatedLabel,v shape es,train,Example
+BlTextElementMeasurementStrategyExamples,text measurement strategies,train,Example
+BrExamplesShowroom,example brexamplesshowroom #materialreversedtoggle,train,Example
+BrExamplesShowroom,toggles,train,Example
+RTGrapherSelectRangeViewContext,ds points rtshape withallsubclasses.,train,Example
+MalLatticePatterns,fca malformalcontext new.,train,Example
+PMGradient,"example f x,y x^2 y",train,Example
+RTBezier3Line,lineshape attachpoint rtshorterdistanceattachpoint instance .,train,Example
+WALabelledFormDialog,user supplied data is placed in the data model.,train,Example
+WALabelledFormDialog,list # roger pete,train,Example
+PRAbstractCommand,prexportbuilder new,train,Example
+BrTextEditorExamples,10 factorial,train,Example
+BlPolygon,blpolygon vertices,train,Example
+RTHighlightableWithCursor,methodsnames #rtmethods,train,Example
+MooseEntity,this is achieved by means of pragmas,train,Example
+WALabelledFormDialog,self answer contact,train,Example
+PRDocumentListAnnotation,"also for the path, the complete path from the project directory.",train,Example
+PMKolmogorovSmirnov1Sample,"you can do the last one in two ways, either by specifying a block via #cdf or by specifying a distribution with concrete parameters via #populationdistribution .",train,Example
+RTVerticalMultipleData,b d,train,Example
+FamixJavaEntity,", cn .",train,Example
+MalFormalContext,malformalcontext mammals2 computeconcepts,train,Example
+GtDiagrammerPicker,a .,train,Example
+PPSea,.,train,Example
+RTHighlightableWithCursor,highlightobjects #subclasses.,train,Example
+RTWeightedCircleLayout,v addall elements.,train,Example
+BrTextEditorExamples,"next, we build the editor",train,Example
+RTExperimentalExample,b v,train,Example
+WASelection,labelblock item item 1 iftrue first iffalse item asuppercase .,train,Example
+BlPolygon,150@40.,train,Example
+PPSea,"use it, if you don t want to define all the grammar rules and you want to skip something.",train,Example
+GtDiagrammerPicker,c vertical fitcontent .,train,Example
+FMModel,metamodel afmmetamodel the meta model describing my entities.,train,Example
+RTHighlightableWithCursor,^b view,train,Example
+PRAbstractCommand,when you type on the command line,train,Example
+RTVerticalMultipleData,classes collection withallsubclasses reversesortedas #numberofmethods first 10.,train,Example
+MooseEntity,"for example, if you have yourentity that subclasses mooseentity, you can extend it with",train,Example
+BlDevScripterCheckFiredEventsStep,example,train,Example
+SpartaCanvas,blur canvas gaussianblurfilter,train,Example
+RTLineDecorationExample,edges add rtdecoratedline new filleddiamondhead emptycircletail color color red width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,train,Example
+GtGraphCircleEnclosure,"and add circles one by one, starting with a larger one.",train,Example
+BlTextBackgroundAttribute,brtextbackgroundattribute paint color yellow,train,Example
+RTRectangleAttachPoint,e2 translateby 30 @ 60.,train,Example
+SpartaCanvas,close,train,Example
+BlArrowheadSimpleArrow,users can also customise nose angle that tells how wide should the arrow lines be spread.,train,Example
+SpartaCanvas,fill previously created path fith linear gradient,train,Example
+MalTerms,terms addstring string using camelcasescanner new.,train,Example
+PPSea,b,train,Example
+GtExampleFactory,to initialize the subjects of an example i call #gtexamplesubjects on the provider object.,train,Example
+GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithtwocircles previewshow #gtpreviewfor previewexpanded previewheight 300,train,Example
+RTHighlightableWithCursor,b edges movebehind connectfrom #superclass.,train,Example
+FamixGenerator,g,train,Example
+RTSunburstBuilderExamples,b strategy rtsunburstextentstrategy new extent 800@800 .,train,Example
+RTRectangleAttachPoint,s rtarrowedline new color color black.,train,Example
+WAComboResponse,rendercontenton acanvas,train,Example
+MooseSystemComplexityLocator,self openon moosemodel root allmodels last allmodelclasses,train,Example
+RTHighlightableWithCursor,b rtumlclassbuilder new,train,Example
+TDependencyQueries,will return a mooseincomingqueryresult containing the famixassociation having afamixclass as target,train,Example
+RTBox,v,train,Example
+GtDiagrammerPicker,margin blinsets all 3,train,Example
+GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #emptyenclosure previewshow #gtpreviewfor previewheight 300,train,Example
+SpartaCanvas,language smalltalk,train,Example
+WALabelledFormDialog,initialize,train,Example
+RTHighlightableWithCursor,b lineshape color color black.,train,Example
+RTRectangleAttachPoint,l s edgefrom e1 to e2.,train,Example
+MalLatticePatterns,context fca with model allmodelclasses using #yourself using cl cl methods collect m m name .,train,Example
+FamixTParameterType,"a, b and c are parametertype of aclass.",train,Example
+TDependencyQueries,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass or its children as target,train,Example
+TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod or its children as source,train,Example
+PPSea,the input represented by dots is called water and water can appear before and after the island.,train,Example
+BrExamplesShowroom,example brexamplesshowroom #materialicontoggle,train,Example
+SpartaCanvas,canvas transform,train,Example
+SpartaCanvas,translateby 100@25,train,Example
+BlChildrenSubset,the example below shows a scenario of combining multiple ways to iterate over children.,train,Example
+BlHandlerRegistry,i am an event handler registry used by dispatchers in order to manage event handlers.,train,Example
+GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithonecircle previewshow #gtpreviewfor previewexpanded previewheight 300,train,Example
+PRAbstractCommand,export,train,Example
+MalLatticePatterns,transcript clear.,train,Example
+RTGrapherSelectRangeViewContext,ds rtdata new.,train,Example
+TSpartaCompositeFilter,source filter3,train,Example
+TSpartaCompositeFilter,source filter4,train,Example
+TSpartaCompositeFilter,source filter1,train,Example
+BlTextElementMeasurementStrategyExamples,method bltextelement #editormeasurement,train,Example
+RTAbstractExample,iftrue examples add met time,train,Example
+WALabelledFormDialog,callback v contact name v,train,Example
+BlRectangleShapeWithArrowExplanation,"the goal of this tutorial is to create an element with an arrow like pointer in the middle of the top edge, as shown below",train,Example
+BlRectangleShapeWithArrowExplanation,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape #moveby to the topedge,train,Example
+SpartaCanvas,lineargradient canvas paint lineargradient,train,Example
+BlTextElementMeasurementStrategyExamples,"however, sometimes we want to know the exact and precise text bounds.",train,Example
+BrExamplesShowroom,labelled toggle,train,Example
+SpartaCanvas,begin 50@100,train,Example
+BrExamplesShowroom,thus being said by swapping the label and icon look we can move the icon to the right from the label,train,Example
+BrTextEditorExamples,"then, we attach text to the enditor.",train,Example
+MooseEntity,the state instance variable provides a mechanism for extending the state of entities.,train,Example
+SpartaCanvas,apply filter on the whole canvas,train,Example
+RTFilterInView,b view @ rtfilterinview.,train,Example
+RTBezier3Line,v add e1 add e2 add e3 add edge.,train,Example
+SpartaCanvas,canvas stroke,train,Example
+BlMouseProcessor,"for example, i generate events like click, dbl click, drag&drop, .",train,Example
+BrTextEditorExamples,"next, we create an editor element.",train,Example
+BrExamplesShowroom,we can compose label and icon looks to create a toggle button with both label and the icon.,train,Example
+RTBezier3Line,here is an example,train,Example
+RTCalendarExample,value ar fifth asnumber ar second asnumber ar second asnumber.,train,Example
+BlChildrenSubset,"for example, class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included.",train,Example
+RTLineDecorationExample,add b2,train,Example
+RTLineDecorationExample,add b1,train,Example
+TSpartaCompositeFilter,merge filter primitive is just a composite filter with over composion mode.,train,Example
+WALabelledFormDialog,given a data model walabelledformdialog displays a label and input field for each instance variable of interest.,train,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep previewexpanded true nocode,train,Example
+TSpartaCompositeFilter,over,train,Example
+MooseEntity,"for example, yourentity could have",train,Example
+RTHighlightableWithCursor,b addobjects collection withallsubclasses .,train,Example
+RTCalendarExample,b tab colors dictionary,train,Example
+RTBox,v open,train,Example
+WALabelledFormDialog,the symbol is used generate the accessor methods for the data in the model.,train,Example
+RTRotatedLabel,"shape rtrotatedlabel new text c class , c name angleindegree c c numberofmethods 360 .",train,Example
+BlDevScripterClickStep,here you can see how to configure a fire and check a click event on a child element,train,Example
+RTRotatedLabel,v addall es.,train,Example
+GtGraphTreemapSquarify,addition of the next area 2 however does not improve the result as the worst aspect ratio increases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep label #worstvaluerounded,train,Example
+RTExperimentalExample,b rtobjectbrowser new.,train,Example
+GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewiththreecircles previewshow #gtpreviewfor previewexpanded previewheight 300,train,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true previewshow #gtpreviewfor,train,Example
+GtGraphCircleEnclosure,a circle enclosure is represented by a cyan circle.,train,Example
+RTCalendarExample,dictionary dictionary new.,train,Example
+WADatalistTag,input list browsers,train,Example
+GtGraphTreemapSquarify,the worst aspect ratio decreases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded,train,Example
+GtDiagrammerPicker,picker display hello .,train,Example
+MooseEntity,mseclass #yourentity super #mooseentity,train,Example
+PPSea,"p x, a island, y accepts following inputs",train,Example
+BlRectangleShapeWithArrowExplanation,creating a rectangle shape,train,Example
+BlElementRemovedEvent,parent blelement new.,train,Example
+FMOne,slots #parenttype fmone type #famixtwithmethods opposite #methods,train,Example
+RTGrapherSelectRangeViewContext,g rtgrapher new.,train,Example
+RTFilterInView,b rtmondrian new.,train,Example
+BlTextElementMeasurementStrategyExamples,"there is no perfect strategy, therefore understanding the differences between them is an important step in learning how to work with text in bloc.",train,Example
+BlPolygon,10@50.,train,Example
+RTVerticalMultipleData,d barchartwithbartitle #first rotation 30.,train,Example
+RTBezier3Line,e2 translateby 80 @ 50.,train,Example
+RTRectangleAttachPoint,e2 @ rtdraggable.,train,Example
+GtDiagrammerPicker,am .,train,Example
+RTCalendarExample,dictionary at ar first asdate put value .,train,Example
+RTSunburstBuilderExamples,b rtsunburstbuilder new.,train,Example
+FamixJavaEntity,", cn famixjava entities.",train,Example
+RTCalendarExample,"tab rttabtable new input http bl^ocks.org mbostock raw 4063318 dji^csv asurl retrievecontents usingdelimiter ,.",train,Example
+WALabelledFormDialog,model,train,Example
+BlTextElementMeasurementStrategyExamples,conslusion,train,Example
+BlRectangleShapeWithArrowExplanation,we can do so by sending a method bllineshape #splitat to the now middle section of the topedge which was created by the previous line injection step,train,Example
+XdDocumentsExamples,adocument gt2documentexamples new documentwithexistingclass.,train,Example
+MalLatticePatterns,smalltalk collection class hierarchy,train,Example
+GtGraphTreemapSquarify,in step 4 we add the rectangle with area 4,train,Example
+FMMSEPrinter,printer,train,Example
+BlTextElementMeasurementStrategyExamples,the height is computed as a sum of ascent and descent.,train,Example
+GtDiagrammerPicker,picker when brtoggleactivatedevent do anevent self inform anevent model .,train,Example
+MalLatticePatterns,for moose models,train,Example
+GtDiagrammerPicker,c horizontal exact 400.,train,Example
+BlTextElementMeasurementStrategyExamples,"please note, that since the width is precise and depends on the content, whitespace is not taken into account when computing the width of the text element.",train,Example
+SpartaCanvas,lineto 0@200,train,Example
+RTAbstractExample,displayingprogress running examples .,train,Example
+BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #textelementwithlabelmeasurement nocode previewshow #gtlivefor previewheight 100,train,Example
+BlTextElementMeasurementStrategyExamples,"it may be useful for displaying a short piece of a text, usually a word centered within a larger element.",train,Example
+PMKolmogorovSmirnov1Sample,nd dhbnormaldistribution new.,train,Example
+PMLineSearch,pmlinesearch function funblock valueatzero g0 derivativeatzero dg0 valueatone g1 evaluate.,train,Example
+BlElementRemovedEvent,parent removechild child,train,Example
+PRPhase,do each,train,Example
+BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #textelementwitheditormeasurement nocode previewshow #gtlivefor previewheight 100,train,Example
+RTCalendarExample,# 253 174 97 # 254 224 139 # 255 255 191 # 217 239 139,train,Example
+RTHighlightableWithCursor,methodselector #selector,train,Example
+PMKolmogorovSmirnov1Sample,ks rejectequalityhypothesiswithalpha 005.,train,Example
+GtLibraryInstaller,i am the installer of shared libraries along side image or vm.,train,Example
+SpartaCanvas,path triangle,train,Example
+RTFilterInView,b edges connectfrom #superclass.,train,Example
+BrTextEditorExamples,example brtexteditorexamples #neweditor,train,Example
+SpartaCanvas,paint color blue,train,Example
+RTCalendarExample,b monthshape shape b monthshapepath 150 .,train,Example
+RTGrapherSelectRangeViewContext,ds dotshape color color blue trans.,train,Example
+MalLatticePatterns,mallatticepatterns on treillis reportmodules.,train,Example
+PRInputFileAnnotation,inputfile myfile^pillar,train,Example
+RTCalendarExample,comp add rtbox new color color transparent .,train,Example
+WAComboResponse,flush before starting search to give immediate feedback,train,Example
+SpartaCanvas,canvas spartacanvas extent 400@250.,train,Example
+SpartaCanvas,apply.,train,Example
+RTHighlightableWithCursor,b layout radial.,train,Example
+BlFocusExamples,1 inspect run example,train,Example
+SpartaCanvas,paint lineargradient,train,Example
+TDependencyQueries,afamixclass querylocal #in with famixinheritance.,train,Example
+TDependencyQueries,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target,train,Example
+BrGlamorousIcons,brglamorousicons importiconsfromdirectory .,train,Example
+RTAbstractExample,do example,train,Example
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 03 fill path^png label fillpath,train,Example
+WAComboResponse,render the search page,train,Example
+RTAbstractExample,example gtexamples do met time builder,train,Example
+RTSunburstBuilderExamples,b view @ rtdraggableview.,train,Example
+PRPhase,you can also add some transformations to the output like,train,Example
+RTVerticalMultipleData,d rtverticalmultipledata new.,train,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesseventhstep previewexpanded true nocode,train,Example
+RTAbstractExample,rtabstractexample subclasses collect #new,train,Example
+FamixGenerator,famixcompatibilitygenerator resetmetamodel.,train,Example
+PRAbstractCommand,pharo ui pillar^image pillar export to latex chapters chapter1 chapter1^pillar,train,Example
+RTLineDecorationExample,rtlinedecorationexample new installtitle cool,train,Example
+RTVerticalMultipleData,b add d.,train,Example
+RTHighlightableWithCursor,nodes b nodes collection withallsubclasses .,train,Example
+RTVerticalMultipleData,d barchartwithbartitle #name rotation 30.,train,Example
+RTBezier3Line,lineshape controlelement e3.,train,Example
+BrTextEditorExamples,show gtprintin,train,Example
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 04 stroke path^png label strokepath,train,Example
+BlRectangleShapeWithArrowExplanation,"the problem with such solution is its exponential increase in compolexity each time we would like to parametrize and customize the resulting geometry, for example the size of the arrow or its horizontal position.",train,Example
+BrTextEditorExamples,example brtexteditorexamples #newtext,train,Example
+BlRectangleShapeWithArrowExplanation,"even more compex would be to implement the support for positioning the arrow on different edges eg left, bottom or an ability to have multiple arrows on separate edges.",train,Example
+GtDiagrammerPicker,picker,train,Example
+GtExampleProcessor,"for example, evaluating an example is to be treated differently from a debugging scenario, or from a scenario to recorver static dependencies.",train,Example
+RTFilterInView,filter rtfilterinview new.,train,Example
+RTRotatedLabel,rtgridlayout on es.,train,Example
+RTLineDecorationExample,translateto 400 @ 0,train,Example
+RTBezier3Line,e3 @ rtdraggable.,train,Example
+RTCalendarExample,# 166 217 106 # 102 189 99 # 26 152 80 # 0 104 55,train,Example
+BrTextEditorExamples,example brtexteditorexamples #newelement show gtlivein,train,Example
+RTLineDecorationExample,b2 rtbox new,train,Example
+RTRotatedLabel,es shape elementson collection withallsubclasses.,train,Example
+GtGraphTreemapSquarify,"suppose we have a rectangle with width example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #width and height example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #height , and furthermore suppose that this rectangle must be subdivided in seven rectangles with areas example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #nodevalues .",train,Example
+WAComboResponse,self rendersearchlabelon acanvas.,train,Example
+GtGraphCircleEnclosure,let s add the third circle to our enclosure to see the result,train,Example
+SpartaCanvas,stroke triangle with blue color,train,Example
+GtPlotterAxisProjection,then projection of that point on continuous x axis would be 20 and projection on y axis would be 30.,train,Example
+RTCalendarExample,collect ar color r ar first g ar second b ar third range 255 .,train,Example
+RTCalendarExample,index value 11 01 1.,train,Example
+RTVerticalMultipleData,d addmetric #numberoflinesofcode.,train,Example
+MooseEntity,msecomment the yourentity smalltalk class has a correspondent yourentity meta entity in the fame world,train,Example
+TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod as source,train,Example
+RTCalendarExample,code,train,Example
+RTVerticalMultipleData,d points # # hello 1 2 1 # world 2 4 2 # bonjour 3 5 4 # bonjour 3 5 4 # bonjour 3 5 4 .,train,Example
+GtDiagrammerPicker,world .,train,Example
+BlRectangleShapeWithArrowExplanation,we just need to split an injected line in half in order to create the top corner of the rectangle.,train,Example
+BlChildrenSubset,example blchildrensubsetexamples #childrenwithmultiplecombinedsubsets,train,Example
+RTAbstractExample,builder example perform met selector.,train,Example
+WALabelledFormDialog,asymbol #phonenumber iftrue ^ phone number .,train,Example
+BlTextElementMeasurementStrategyExamples,method bltextelement #tightmeasurement does exactly that and clips off any white space surrounding the text.,train,Example
+GtGraphTreemapSquarify,the first step of our algorithm is to split the initial rectangle.,train,Example
+RTLineDecorationExample,b1 rtbox new,train,Example
+RTHighlightableWithCursor,b boxshape bordercolor color black.,train,Example
+WALabelledFormDialog,ok,train,Example
+BlRectangleShapeWithArrowExplanation,after doing so we receive the expected vector shape we we can later use together with class blshapegeometry,train,Example
+BrExamplesShowroom,buttons,train,Example
+FMMSEPrinter,printer stream contents,train,Example
+RTGrapherSelectRangeViewContext,g add ds.,train,Example
+WALabelledFormDialog,the rows method returns a collections of symbols.,train,Example
+SpartaCanvas,for example if one wants to fill a path with a paint she needs to send #fill message to canvas to get a fill builder painter .,train,Example
+FamixTParameterType,where aclass is a parameterizableclass.,train,Example
+GtDiagrammerExamples,diagrammer,train,Example
+RTBezier3Line,e1 s elementon begin .,train,Example
+FamixTParameterType,"public class aclass a,b,c",train,Example
+PRAbstractCommand,asdictionary,train,Example
+BlRectangleShapeWithArrowExplanation,to do so we should send method blpointshape #moveby to the connection point of the splitted line in the middle of the topedge .,train,Example
+GtGraphCircleEnclosure,method gtgraphcircleenclosure class #enclosure and and is responsible for the computation.,train,Example
+MooseEntity,extension mechanism,train,Example
+GtRlBaselineTagReleaseStrategy,see method gtrlbaselinetagreleasestrategy #assertcompatiblewithrepository for assertions that check when i can be used.,train,Example
+RTLineDecorationExample,edges add rtarrowedline new head rtfilleddiamond ashead color color black width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,train,Example
+GtGraphTreemapSquarify,"we choose for a horizontal subdivision, because the original rectangle is wider than high.",train,Example
+MalLatticePatterns,data fca context lattice,train,Example
+RTBezier3Line,v rtview new.,train,Example
+GtDiagrammerPicker,picker shape astring brtoggle new,train,Example
+WALabelledFormDialog,html select,train,Example
+BlElementRemovedEvent,parent addchild child.,train,Example
+BlRectangleShapeWithArrowExplanation,rectangle geometry with arrow pointer,train,Example
+FMModel,i am a model used in the scope of fame.,train,Example
+MooseEntity,this is an important mechanism to enable extensibility and modularity.,train,Example
+RTBezier3Line,e2 s elementon end .,train,Example
+BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtoppolylinesplitinhalf previewshow #gtlivefor previewexpanded true previewheight 250,train,Example
+GtGraphTreemapSquarify,these steps are repeated until all rectangles have been processed.,train,Example
+PMGradient,g value # 1 1 .,train,Example
+FamixJavaEntity,dictionary dictionary newfrom,train,Example
+RTLineDecorationExample,@ rtdraggable.,train,Example
+MooseEntity,mseproperty #yourextendingattribute type #yourtype,train,Example
+PRScreenshotAnnotation,i am used as follows in a document,train,Example
+BlTextElementMeasurementStrategyExamples,precise measurement,train,Example
+RTLineDecorationExample,element,train,Example
+GtDiagrammerPicker,picker constraintsdo c,train,Example
+RTCalendarExample,b build.,train,Example
+TDependencyQueries,afamixclass query #in with famixinheritance.,train,Example
+GtDiagrammerPicker,i .,train,Example
+BlInfiniteDataSourceItemRangeMoved,"do event self inform item was moved from , event from asstring, to , event to asstring",train,Example
+TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod or its children as source,train,Example
+GtDiagrammerPicker,look brmaterialtogglelabelledlook,train,Example
+RTFilterInView,example using the spawn block,train,Example
+BrExamplesShowroom,note that the order of looks defines the visual order of the label and icon,train,Example
+PMGradient,# 12 9,train,Example
+SpartaCanvas,stops 0 color red.,train,Example
+RTHighlightableWithCursor,attributeselector #yourself.,train,Example
+SpartaCanvas,end 150@200,train,Example
+RTLabeled,"e @ rtlabeled new text value my value is , value asstring .",train,Example
+GtGraphTreemapSquarify,"in the next step, we add area 3.",train,Example
+RTVerticalMultipleData,d addmetric #third.,train,Example
+RTSunburstBuilderExamples,rtsunburstbuilderexamples new installtitle basic15,train,Example
+RTBezier3Line,edge lineshape edgefrom e1 to e2.,train,Example
+BrExamplesShowroom,example brexamplesshowroom #glamoroustoolbar,train,Example
+PRDocumentListAnnotation,doclist path wrongdirectory limit 3 sort date templates # templates docarticle^mustache templates template^mustache should raise an error,train,Example
+RTFilterInView,b layout tree.,train,Example
+BlRectangleShapeWithArrowExplanation,it can be done by sending method bllineshape #injectlineat length to the topedge .,train,Example
+FamixJavaEntity,model.,train,Example
+GtDiagrammerPicker,label astring .,train,Example
+GtGraphCircleEnclosure,two circle enclosure is also a special case and can be derived directly by method gtgraphcircleenclosure class #enclosure and,train,Example
+MalLatticePatterns,context fca with data using #first using #last.,train,Example
+RTCalendarExample,tab values do ar value,train,Example
+MalLatticePatterns,data # # #cat # #fourlegs #hair # #dog # #smart #fourlegs #hair # #dolphin # #smart #marine # #gibbon # #hair #smart #thumbed # #man # #smart #thumbed # #whale # #smart #marine .,train,Example
+RTLineDecorationExample,edges add rtdecoratedline new color color blue width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,train,Example
+RTAbstractExample,errors orderedcollection new.,train,Example
+RTCalendarExample,rtcalendarexample new installtitle visualizationcsv,train,Example
+RTLineDecorationExample,translateto 0 @ 0,train,Example
+PRHeadingLevelOffsetTransformer,"for example, a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html.",train,Example
+RTBezier3Line,e3 translateby 40 @ 25.,train,Example
+GtGraphCircleEnclosure,an enclosure of a single circle is a special case and can be computed directly by method gtgraphcircleenclosure class #enclosure .,train,Example
+PPSea,xac,train,Example
+GtGraphTreemapSquarify,the aspect ratio of this first rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep label #worstvaluerounded .,train,Example
+PRPhase,this method will return an output.,train,Example
+PMLineSearch,"where funblock is the implementation of g x , g0 g 0 , dg0 g 0 and g1 g 0 .",train,Example
+GtGraphTreemapSquarify,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep label #worstvaluerounded .,train,Example
+RTBox,v add rtbox new width 10 height 20 element.,train,Example
+RTFilterInView,b nodes collection withallsubclasses .,train,Example
+RTCalendarExample,b datelayout gapsize 0.,train,Example
+RTAbstractExample,examples errors,train,Example
+BrExamplesShowroom,iconified toggle,train,Example
+BrTextEditorExamples,example brtexteditorexamples #editor text,train,Example
+RTLinkView,"for instance if in your visualization rtview, you have elements that have visualizalitations you can use it to explore it in a web browser",train,Example
+WALabelledFormDialog,labelforselector asymbol,train,Example
+BrGlamorousIcons,it imports all png files and creates class methods with the same name.,train,Example
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 05 blur^png label blur,train,Example
+FamixJavaEntity,file argouml 034^mse asfilereference readstream.,train,Example
+MooseEntity,"first, on the class side, you should have a method .",train,Example
+RTBezier3Line,lineshape rtbezier3line new.,train,Example
+BrExamplesShowroom,example brexamplesshowroom #materiallabeltoggle,train,Example
+SpartaCanvas,draw.,train,Example
+TDependencyQueries,afamixmethod querylocal #out with famixaccess.,train,Example
+PRPhase,configuration self configuration,train,Example
+PRAbstractCommand,you can obtain the same doing,train,Example
+BlInfiniteDataSourceItemRangeMoved,infiniteelement datasource,train,Example
+RTCalendarExample,b dateshape if d dictionary includeskey d color,train,Example
+BlHandlerRegistry,registry,train,Example
+MalLatticePatterns,model moosemodel root allmodels second.,train,Example
+RTHighlightableWithCursor,b view elements @ rthighlightablewithcursor.,train,Example
+MooseEntity,this is achieved through mooseentitystate.,train,Example
+FamixGenerator,g famixgenerator new.,train,Example
+TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod as source,train,Example
+GtDiagrammerPicker,picker .,train,Example
+RTHighlightableWithCursor,b attributeshape color color black.,train,Example
+SpartaCanvas,lineto 200@200,train,Example
+GtGraphTreemapSquarify,algorithm explanation,train,Example
+SpartaCanvas,type blue,train,Example
+RTLabeled,v add e.,train,Example
+BrExamplesShowroom,example brexamplesshowroom #materialtoggle,train,Example
+RTBezier3Line,e3 s elementon middle .,train,Example
+GtGraphTreemapSquarify,"the initial subdivision we choose here is vertical, because the rectangle is higher than wider.",train,Example
+MooseEntity,package yourpackage,train,Example
+GtExampleFactory,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword .,train,Example
+BrGlamorousIcons,gt icons asfilereference,train,Example
+RTCalendarExample,comp add rtlabel new text d d year height 20 .,train,Example
+RTGrapherSelectRangeViewContext,ds y cls cls numberofmethods 50 .,train,Example
+XdDocumentsExamples,breaklines,train,Example
+MooseEntity,meta descriptions,train,Example
+WALabelledFormDialog,labelledformdialogexample subclass of walabelledformdialog instance methods,train,Example
+RTFilterInView,b shape box size #numberofmethods.,train,Example
+PMLineSearch,usage,train,Example
+FamixJavaEntity,famixjavaentity withallsubclasses collect c,train,Example
+BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #remove,train,Example
+RTAbstractExample,time 1 asduration,train,Example
+RTCalendarExample,^ b view,train,Example
+BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #elementwithtoparrowgeometry nocode previewshow gtlivefor previewheight 250,train,Example
+MalLatticePatterns,treillis mallattice on malformalcontext classhierarchycollection .,train,Example
+BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtoparrow previewshow #gtlivefor previewexpanded true previewheight 250,train,Example
+GtGraphCircleEnclosure,"starting with four circles, an enclosure should be computed recursively by building and updating a basis enclosure consisting of one to three circles method gtgraphcircleenclosure class #enclosureall .",train,Example
+GtRlBaselineTagReleaseStrategy,i am a valid release strategy only when all monticello baselines that load this project use the same tag to load it.,train,Example
+WALabelledFormDialog,override the buttons method to change the text or number of submit buttons on the form.,train,Example
+MooseEntity,"using this mechanism, a package can extend an entity to add more state.",train,Example
+BlChicken,how to run,train,Example
+RTAbstractExample,iftrue builder build .,train,Example
+GtExampleFactory,then i execute those methods with the example as a receiver and the pragma arguments.,train,Example
+GtGraphTreemapSquarify,"next we add a second rectangle, above the first.",train,Example
+SpartaCanvas,push,train,Example
+BlElementRemovedEvent,child parent,train,Example
+RTLineDecorationExample,size 100,train,Example
+FMModel,examples,train,Example
+WADatalistTag,datalist id browsers,train,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep previewexpanded true nocode,train,Example
+RTRectangleAttachPoint,e2 rtellipse new size 50 elementon 2.,train,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep previewexpanded true nocode,train,Example
+BlElementRemovedEvent,child blelement new.,train,Example
+FamixGenerator,g generatewithoutcleaning.,train,Example
+BrExamplesShowroom,example brexamplesshowroom #materialtoolbar,train,Example
+BrExamplesShowroom,"the following glamorous button reacts to various ui interaction events and changes its style according the state pressed, hovered",train,Example
+WALabelledFormDialog,contact contact new.,train,Example
+RTBezier3Line,e1 @ rtdraggable.,train,Example
+WAComboResponse,self rendersearchresulton acanvas.,train,Example
+BlRectangleShapeWithArrowExplanation,we are almost ready to create a rectangular arrow.,train,Example
+BrExamplesShowroom,tabs,train,Example
+MooseEntity,yourentity yourextendingattribute,train,Example
+RTHighlightableWithCursor,b classnameshape color color black.,train,Example
+BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtranslatedtopedge previewshow #gtlivefor previewexpanded true previewheight 250,train,Example
+RTExperimentalExample,b object v.,train,Example
+BlTextElementMeasurementStrategyExamples,label measurement,train,Example
+BrExamplesShowroom,in the example below we show all existing button styles,train,Example
+MalLatticePatterns,mallattice new viewlattice treillis .,train,Example
+BlTextElementMeasurementStrategyExamples,a similar measurement strategy which is designed to be used in a text editor computes the width of the element using the #advance property of a text paragraph.,train,Example
+SpartaCanvas,apply translation to place trangle in the center,train,Example
+TDependencyQueries,afamixclass queryall #in.,train,Example
+TDependencyQueries,afamixmethod queryall #out.,train,Example
+RTExperimentalExample,v addelement rtbox element.,train,Example
+RTAbstractExample,time dateandtime now time.,train,Example
+GtGraphCircleEnclosure,"note, that the added circle has a margin set which is taken into account by enclosure",train,Example
+BlRectangleShapeWithArrowExplanation,next step on our way to the arrow is to inject a line segment equal to the length of the arrow in the middle of the topedge .,train,Example
+WALabelledFormDialog,self addmessage please enter the followning information .,train,Example
+SpartaCanvas,moveto 100@0,train,Example
+FMOne,package famix traits method,train,Example
+MooseEntity,entities should also be meta described in terms of fame.,train,Example
+BlRectangleShapeWithArrowExplanation,in order to give the arrow pointing up enough space we should move the top edge of the rectangle down by the length of the arrow.,train,Example
+BrExamplesShowroom,toolbar,train,Example
+GtGraphTreemapSquarify,so we reject the previous step and start to fill the right top partition,train,Example
+BlPolygon,80@140,train,Example
+RTCalendarExample,b view elements select e e model iskindof month pushfront.,train,Example
+BlChildrenSubset,"by having an explicit object for each operation, the composition of operations can be inspected.",train,Example
+RTAbstractExample,time dateandtime now.,train,Example
+TDependencyQueries,afamixmethod queryalllocal #out.,train,Example
+BlFocusExamples,how to,train,Example
+MooseEntity,msecomment this is an attribute extended in a different package,train,Example
+RTFilterInView,b normalizer normalizecolor #numberofmethods.,train,Example
+BlTextElementMeasurementStrategyExamples,the width is given by the exact bounds of the element s text.,train,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep previewexpanded true nocode,train,Example
+WAComboResponse,acanvas flush.,train,Example
+RTHighlightableWithCursor,b methodshape color color black.,train,Example
+BlRectangleShapeWithArrowExplanation,moving the top of the triangle,train,Example
+RTAbstractExample,builder iskindof rtbuilder,train,Example
+XdDocumentsExamples,how to create base64 string,train,Example
+BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #textelementwithtightmeasurement nocode previewshow #gtlivefor previewheight 75,train,Example
+TDependencyQueries,afamixclass queryalllocal #in.,train,Example
+RTVerticalMultipleData,here another example,train,Example
+MalLatticePatterns,mallatticepatterns on treillis reportpatterns.,train,Example
+RTCalendarExample,tab removefirstrow.,train,Example
+RTVerticalMultipleData,b rtgrapher new.,train,Example
+RTExperimentalExample,rtexperimentalexample new installtitle boxselectionforedges,train,Example
+MooseEntity,^ self privatestate attributeat #yourextendingattribute,train,Example
+RTLineDecorationExample,edges do each each update .,train,Example
+FamixJavaEntity,model silentlyaddall repo elements.,train,Example
+GtGraphTreemapSquarifyLandscapeRectangle,example gtgraphtreemaplayoutexamples #squarifywithfournodesfirstarea nocode,train,Example
+PRFootnote,noted astring,train,Example
+BlFocusExamples,2 click one any cell to give it a focus blue border should appear,train,Example
+TDependencyQueries,afamixmethod query #out with famixaccess.,train,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep previewexpanded true nocode,train,Example
+PMKolmogorovSmirnov1Sample,"normal distribution 0, 1",train,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true .,train,Example
+BlRectangleShapeWithArrowExplanation,first of all we should ask the rectangle shape to give us its top edge method blrectangleshape #topedge .,train,Example
+SpartaCanvas,canvas fill,train,Example
+FMMSEPrinter,printer fmmseprinter onstring.,train,Example
+PMGradient,g value # 3 2 .,train,Example
+BlRectangleShapeWithArrowExplanation,since we want to inject a line right in the middle of the edge we pass 05 as a line location,train,Example
+PPSea,x^^^^^a..,train,Example
+PMGradient,# 2 1,train,Example
+RTFilterInView,b view @ filter.,train,Example
+RTHighlightableWithCursor,b interaction showedge,train,Example
+WADatalistTag,option value firefox,train,Example
+RTGrapherSelectRangeViewContext,ds x cls cls numberoflinesofcode 150 .,train,Example
+WAComboResponse,self searchresultsdo aresult,train,Example
+RTCalendarExample,b dates year year 1990 to year year 2010 .,train,Example
+RTBox,"eg,",train,Example
+BrTextEditorExamples,"and finally, build everything together",train,Example
+GtGraphTreemapSquarify,the area will be subdivided as follows,train,Example
+SpartaCanvas,restore transformation matrix,train,Example
+RTFilterInView,b layout grid.,train,Example
+WALabelledFormDialog,self answer,train,Example
+GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithfourcircles previewshow #gtpreviewfor previewexpanded previewheight 300,train,Example
+BlFocusExamples,3 navigate with keyboard arrows arrow up down left right,train,Example
+RTLineDecorationExample,edges add rtdecoratedline new filleddiamondhead color color green width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,train,Example
+PRDocumentListAnnotation,doclist path blogs limit 3 sort date templates # templates docarticle^mustache templates template^mustache,train,Example
+BlChicken,blchicken open,train,Example
+BlPolygon,180@150.,train,Example
+RTAbstractExample,on error do errors add met,train,Example
+BrExamplesShowroom,example brexamplesshowroom #glamorousdisabledbutton,train,Example
+WADatalistTag,datalist together with the a new list attribute for input is used to make comboboxes,train,Example
+RTHighlightableWithCursor,b shape circle size 10.,train,Example
+RTVerticalMultipleData,d points classes.,train,Example
+GtPlotterAxisProjection,given a point 20@30 as a domain object and euclidian coordinate system.,train,Example
+RTRectangleAttachPoint,v add e1 add e2.,train,Example
+MalLatticePatterns,fca model treillis context,train,Example
+RTCalendarExample,b dateinteraction popup.,train,Example
+RTFilterInView,filter spawnblock el rtview new addall el copy yourself .,train,Example
+PPSea,a^^^^b,train,Example
+BlTextBackgroundAttribute,i am used together with brtext and brtextstyler to style text.,train,Responsibilities
+BlInfiniteItemAnimationsFinished,"i can be used, for example, to delay an action in a data set until currently running animations are complete.",train,Responsibilities
+ManifestMooseQuery,i store metadata for this package.,train,Responsibilities
+WAImageButtonTag,the value of the src attribute specifies the uri of the image that will decorate the button.,train,Responsibilities
+GtExampleDependenciesResolver,i know how to extract the dependencies of a given example.,train,Responsibilities
+GtGraphTreemapSquarifyLandscapeRectangle,i layout class gtgraphtreemapnode along my shorter side height .,train,Responsibilities
+WALabelledFormDialog,user supplied data is placed in the data model.,train,Responsibilities
+WAUpTimeTracker,access the duration how long ago the image booted as follows,train,Responsibilities
+SpartaCanvas,i define an abstract api of sparta canvas that all concrete implementations must have.,train,Responsibilities
+GtGraphCircleEnclosure,the enclosing circle is computed using the matou ek sharir welzl http www^inf.ethz^ch personal emo publfiles subexlinprog alg16 96^pdf algorithm.,train,Responsibilities
+WARedirectingRegistry,i revert to the old 33.0 behavior which is easier for tests.,train,Responsibilities
+ChrysalPillarishConfiguration,i m a pillar specific class to manage code not generated for the configuration class.,train,Responsibilities
+GtConnectorButtonAddedEvent,is sent after button is added to the scene graph,train,Responsibilities
+PRDocumentListAnnotation,we ahave the possibility of giving multiple templates.,train,Responsibilities
+RTCPQualitative,"qualitative schemes do not imply magnitude differences between legend classes, and hues are used to create the primary visual differences between classes.",train,Responsibilities
+PPInfo,it is usefull to get parsing evaluation and stream position.,train,Responsibilities
+SpartaCanvas,i m also responsible for creation of filter primitives filter types that are used with filter operation.,train,Responsibilities
+BlGeometryElement,i am a root class of geometry elements elements driven by geometry anchors.,train,Responsibilities
+BlExampleCustomEventTarget,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure,train,Responsibilities
+PRParagraph,i m close to a latex or html paragraph.,train,Responsibilities
+WAMemoryInput,a wamemoryinput is a dialog that allows the user to enter an amount of memory.,train,Responsibilities
+BlInfiniteDataSourceItemRangeMoved,"representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.",train,Responsibilities
+BrGlamorousIcons,you can import new icons using method name brglamorousicons class #importiconsfromdirectory using the script below.,train,Responsibilities
+GtGraphCircleEnclosure,i compute the smallest circle that encloses the specified array of circles.,train,Responsibilities
+GtRlCommitAndTagReleaseAction,i execute a commit of the current changes staged for commit and push a tag corresponding to the version number of the repository release.,train,Responsibilities
+PPNonEmptyParser,"i return failure, if the delegate parser did not consumed any input.",train,Responsibilities
+PMAdditionalTest,"here are tests that would be in math tests dhb numerical, if it could construct random matrices",train,Responsibilities
+FamixTTrait,famixtrait models a trait as it can be found in pharo or php.,train,Responsibilities
+GtGradAbstractTreeLayout,"however, this implementation offers the posibility of choosing the orientation vertical or horizontal.",train,Responsibilities
+TSpartaStrokeOptions,stroke options are used in stroking operations.,train,Responsibilities
+PRPillarParser,i use the prpillargrammar and i build a prdocument.,train,Responsibilities
+BlElementDynamicTransformation,i am dynamic element transformation in the sense that my transformation matrix may actually depend on some element properties such as #extent or #position.,train,Responsibilities
+RTRotatedLabel,a rtrotatedlabel describes rotated labels.,train,Responsibilities
+GtConnectorButtonCreatedEvent,is sent by buttonattribute after button is created.,train,Responsibilities
+PMAM3Stepper,a am3 method is implicit.,train,Responsibilities
+BrTextEditor,"i edit text and provide high level abstractions of essential text editor functionality such as selection, cursor, text insertions and deletions.",train,Responsibilities
+BlScalableFitWidthStrategy,i make sure that content element fits horizontally within scalable element.,train,Responsibilities
+TSpTextRun,i define an api of a text run an object that holds an array of glyphs that represent a piece of text.,train,Responsibilities
+GtGradAbstractTreeLayout,"calculation of positions factors in the mentioned offsets, as well as the positions of the node s parent and the layout s node and level distance properties.",train,Responsibilities
+TBlEventTarget,i implement a basic infrastructure of event management.,train,Responsibilities
+WAUpTimeTracker,wauptimetracker imageboottime.,train,Responsibilities
+BrTextEditorLineSplitter,i split a piece of text into line segments class brtexteditorlinesegment,train,Responsibilities
+SpartaLine,"i am meant to be polymorphic with rectangle and path and can be used as path in various operations, except clipping.",train,Responsibilities
+BlElementEffect,i define the default drawing strategy before & after .,train,Responsibilities
+BlConcatenationRopeIterator,i am a special iterator used to iterate over concatenation rope,train,Responsibilities
+BlChildrenCollection,i provide a data structure independent api for adding and removing children.,train,Responsibilities
+GtRlMajorVersionComputation,i increment the major number of a semantic version.,train,Responsibilities
+FAMIXNamespaceGroup,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace.,train,Responsibilities
+BlLayout,i am attached to a bloc element and define the visual structure of that bloc element.,train,Responsibilities
+BlHandlerRegistry,i am an event handler registry used by dispatchers in order to manage event handlers.,train,Responsibilities
+MalKruskal,"if the graph is not connected, then it finds a minimum spanning forest a minimum spanning tree for each connected component .",train,Responsibilities
+BlPerpendicularFractionAnchor,i am a virtual anchor that lays on a perpendicular to a line between two reference anchors.,train,Responsibilities
+WAProtectionFilter,the protection filter ensures that the wrapped request handler only accepts requests from the same ip.,train,Responsibilities
+PPParserReplaceRule,"ppparserreplacerule replaces a matched grammar with another grammar, which may include patterns from the matching grammar.",train,Responsibilities
+BrEditorTextFlowLine,i store reference to the next line in order to avoid unnecessary array of lines creation for a very common case of just one line,train,Responsibilities
+PPPluggableParser,this enables users to perform manual parsing or to embed other parser frameworks into petitparser.,train,Responsibilities
+PMBernoulliGeneratorTest,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator,train,Responsibilities
+PMLineSearch,"the method is initialized by g 0 , g 1 and g 0 .",train,Responsibilities
+GtDiagrammerArrowheadFilledTriangleStencil,i create a filled triangle arrowhead,train,Responsibilities
+WAErrorHandler,waerrorhandler catches errors and warnings and provides two methods for handling each type of exception,train,Responsibilities
+WAFormTag,the form element acts as a container for input elements and buttons.,train,Responsibilities
+GtGradAbstractTreeLayout,"at that point, the tree is traversed again, but this time from top root to the bottom.",train,Responsibilities
+GtRlBaselineTagReleaseStrategy,the version number already exists in the repository.,train,Responsibilities
+SpartaCanvas,they can be found in filters protocol.,train,Responsibilities
+SpUserFontSource,i represent a font face source and know how to retrieve font contents from it,train,Responsibilities
+BrGlamorousIcons,it imports all png files and creates class methods with the same name.,train,Responsibilities
+PMExponentialGenerator,"the exponential distribution has a single parameter beta, here denoted as mean.",train,Responsibilities
+BlChildrenSubset,i capture a subset of children from a class blelement instance.,train,Responsibilities
+TDependencyQueries,description,train,Responsibilities
+PRPhase,this configuration is a the configuration of the export.,train,Responsibilities
+FmxMBPrintVisitor,"i just visit each node in the builder, and print it on the transcript.",train,Responsibilities
+GtLibraryInstallerLogAnnouncement,i am sent by installer when it tries to log some messages.,train,Responsibilities
+GtGraphTreemapSquarify,i split an area into rectangles that are close to squares aspect ratio 1 as much as possible.,train,Responsibilities
+PRBookTesterVisitor,i gather all results as prbooktestresult s in alltestsresults.,train,Responsibilities
+GtGraphTreemapSquarify,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends.,train,Responsibilities
+WADevelopment,a wadevelopment is a collection of convenience methods for dealing with seaside development in squeak.,train,Responsibilities
+PRPhase,"a phase takes an input, transforms it and returns an output.",train,Responsibilities
+PRHTMLCanvas,the main method is #tag that allow you to write something like this,train,Responsibilities
+WALabelledFormDialog,given a data model walabelledformdialog displays a label and input field for each instance variable of interest.,train,Responsibilities
+TSpartaPaint,overview,train,Responsibilities
+JQLoad,load html from a remote file and inject it into the dom.,train,Responsibilities
+TSpartaStrokeOptions,i define an api of stroke options object.,train,Responsibilities
+TSpFontDescriptor,"i am a helper trait that defines basic font properties such as weight, style and stretch",train,Responsibilities
+MooseVisualLocator,the moosevisuallocator is a simple template that offers a list of classes on the left hand side and some presentation on the right hand side.,train,Responsibilities
+BrInteractiveModel,"i am a composite interaction model responsible for managing widget state such as pressed, hovered, focused.",train,Responsibilities
+FMFutureProperty,i represent a property of the object currently been imported while it is not yet imported.,train,Responsibilities
+BlMorphicHostSpace,i make it possible to embed bloc space within arbitrary morphs.,train,Responsibilities
+BlArrowheadTriangle,for hollow arrowhead let background be transparent.,train,Responsibilities
+GtGradAbstractTreeLayout,"when merging contours, minimum horizontal vertical offsets at which siblings can be placed with resepct to their upper left sibling depending of the layout s orientation are calculated",train,Responsibilities
+BrMaterialToggleBackgroundLook,i describe how background of a material toggle button changes due to toggle events,train,Responsibilities
+GtDiagrammerArrowheadFilledCircleStencil,i create a filled circle arrow head with the border and background equal to the color of the curve,train,Responsibilities
+GtGradAbstractTreeLayout,"additionally, this implementation supports alignment of nodes top, center, bottom in case of the vertical layout and left, center, right in case of the horizontal layout .",train,Responsibilities
+BlChildrenCollection,a linked list optimize for fast adding and removing.,train,Responsibilities
+GtProtoTasker,tasker is responsible for collectin class gttaskertask tasks and executing them when requested.,train,Responsibilities
+WAUpTimeTracker,at system startup the imageboottime is re set automatically.,train,Responsibilities
+RTAttachPoint,an attach point indicates where lines start and end.,train,Responsibilities
+WADynamicVariable,i exist for legacy purposes.,train,Responsibilities
+BrTextEditorLetterInputFilter,i only allow letters,train,Responsibilities
+BlLocalImageCacheTest,this class contains tests,train,Responsibilities
+FMFutureProperty,i will be useful until all my values are resolved.,train,Responsibilities
+RTLinkView,i allow to export several views,train,Responsibilities
+BlGeometryAnchorMoved,i am sent when anchor s position changed,train,Responsibilities
+MalKruskal,kruskal s algorithm is a greedy algorithm in graph theory that finds a minimum spanning tree for a connected weighted graph.,train,Responsibilities
+WAPharoEncoder,i am the common superclass for pharo encoders.,train,Responsibilities
+GtABAddress,i hold all data relevant for an address,train,Responsibilities
+GtDiagrammerEllipseStencil,i create an ellipse element,train,Responsibilities
+BrPagerPagePreviewResizeListener,i update the size of a page preview element in a scroll bar according to the size of a corresponding page,train,Responsibilities
+PRDocumentListAnnotation,then abstracts will alternately change templates if you specified mutliple directories.,train,Responsibilities
+PRObject,i am visitable.,train,Responsibilities
+WACopyHandlerPlugin,i make a copy of an application.,train,Responsibilities
+GtGradAbstractTreeLayout,"in this implementation, we call the polylines contours.",train,Responsibilities
+PPPluggableParser,a pluggable parser that passes the parser stream into a block.,train,Responsibilities
+SpartaCanvas,there is a separate builder for every single operation.,train,Responsibilities
+GtPhlowForwarderView,i create the object only if someone clicks on my tab view .,train,Responsibilities
+WAImageStatus,a waimagestatus displays information about the current smalltalk image.,train,Responsibilities
+PRDocumentListAnnotation,with templates the annotation is remplaced by a raw document in html.,train,Responsibilities
+BrSelectionRequest,i am sent by a look to request selection update from the view model,train,Responsibilities
+RTEditableLabel,"i am a class to create editable label shapes, but do not forget that roassal is for visualizations not to build morphs",train,Responsibilities
+PRWatcher,"each 5 seconds, the website is regenerated",train,Responsibilities
+BlChildrenSubset,i exist to explicitly capture and combine various ways of filtering and iterating over children.,train,Responsibilities
+PRHeadingLevelOffsetTransformer,convert from the level of a pillar heading to the level of heading in the exported document.,train,Responsibilities
+GtGradAbstractTreeLayout,"this is done through calculation of differences in sizes of nodes compared to the largest nodes on the same level, as well as the differences in sizes of their parents compared to the largest nodes on the parent level.",train,Responsibilities
+WAUpTimeTracker,wauptimetracker imageuptime.,train,Responsibilities
+RTHorizontalData,rtdata renders bars and dots in vertical way,train,Responsibilities
+BlAnchorRelativeToElement,relative anchor takes an arbitrary element as a reference an compute its position based on properties of that element.,train,Responsibilities
+RTLinePathBuilder,an interpolator a way to create lines in svg,train,Responsibilities
+GtRlBaselineTagReleaseStrategy,i indicate a passive release as no actions need to be executed.,train,Responsibilities
+RTEllipseTest,a rtellipsetest is a test class for testing the behavior of rtellipse,train,Responsibilities
+WAIframeTag,the iframe element allows authors to insert a frame within a block of text.,train,Responsibilities
+PRDocumentListAnnotation,we can also choose they way abstracts will be represented by specifying templates.,train,Responsibilities
+BlArrowheadTriangle,it is possible to specify different paints for border and background,train,Responsibilities
+BrTextEditorExamples,today we will learn how to compose an editor,train,Responsibilities
+TSpartaPaint,i define an api of a paint.,train,Responsibilities
+RTSunburstBuilder,"i am a class to create visualizations about rings, center is the root of the tree and arcs are the sub trees.",train,Responsibilities
+BlSpartaMozSkiaCanvasBuilder,i build sparta canvas using moz2d backend,train,Responsibilities
+PRHTMLCanvas,an html canvas that facilitates writing html to a stream.,train,Responsibilities
+BlChildrenCollection,"for example, an array for storing children optimises for accessing fast accesses at any position.",train,Responsibilities
+WAPlugin,plugins are an easy way to add or remove additional tools without changing the codebase.,train,Responsibilities
+RTDecoratedTest,a rtdecoratedtest is a test class for testing the behavior of rtdecorated,train,Responsibilities
+BlInfiniteDataSourceItemRangeMoved,this is a structural change event.,train,Responsibilities
+RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,train,Responsibilities
+GlutinResumedEvent,emitted when the application has been resumed.,train,Responsibilities
+WAPlugin,to add a new plugin make sure you choose the right superclass so that the tool can detect your code.,train,Responsibilities
+RTTimelineSetTest,a rttimelinesettest is a test class for testing the behavior of rttimelineset,train,Responsibilities
+WAInspector,"platforms should implement their own subclasses, specifying behaviour for all unimplemented methods.",train,Responsibilities
+RTAbout,i am a class that display general information about roassal,train,Responsibilities
+BlDecelerateInterpolator,i am an interpolator where the rate of change starts out quickly and and then decelerates.,train,Responsibilities
+SpartaCairoTextMetrics,i store the extents of a single glyph or a string of glyphs in user space coordinates.,train,Responsibilities
+BlElementBoundsExamples,i contain examples of element bounds api,train,Responsibilities
+PRDocumentListAnnotation,"for templates values, you can not specify directories, only ^mustache files.",train,Responsibilities
+BlArrowheadSimpleArrow,i support both background and border paint and can have hollow inner triangle.,train,Responsibilities
+BlElementEffect,i can influence the bounds of my owner used to clip my owner .,train,Responsibilities
+BlArrowheadTriangle,for solid arrowhead make background paint be the same as border paint.,train,Responsibilities
+MalLatticePatterns,the class implements the identification of patterns in fca lattices.,train,Responsibilities
+GtRlReleaseConfiguration,i model options for configuring how releases are performed.,train,Responsibilities
+RTBucketColor,the buckets are formed by creating partitions uniformly.,train,Responsibilities
+SpartaCanvas,in order to create and perform a drawing operation users should rely on corresponding builder.,train,Responsibilities
+RTLabeled,consider,train,Responsibilities
+GtRlMajorVersionComputation,i reset both the patch and minor parts of the version number to zero.,train,Responsibilities
+PRFootnote,it create a footnote with note specified in parameter.,train,Responsibilities
+BlExperimentalExamples,i contain experimental examples that only work in manually prepared laboratory environments.,train,Responsibilities
+WAPlugin,"the appearance of all plugins, such as icons, has to be configured using css.",train,Responsibilities
+BlArrowheadTriangle,my size depends on the width of a curve and hence can not be manually specified.,train,Responsibilities
+BrTextEditorSelectionUpdateCommand,i do the hard job of visually updating selection by requesting segment holders to partially update themselves,train,Responsibilities
+FMFutureProperty,each time a value is resolved i ll check if i can be resolved.,train,Responsibilities
+BlElementCenterLeftAnchor,my position is equal to the left center of a reference element,train,Responsibilities
+BlHostPulseLoop,i indicate to the universe that is time to synchronize the state of the elements.,train,Responsibilities
+BrTextEditorSelectionRecorder,i am used to record text selection intervals while user drags mouse over the text editor.,train,Responsibilities
+RTHistogramSet,the histogram gives you a distribution frequency over the points given.,train,Responsibilities
+BlKeyCombinationConverterCNF,i transform composite key combination formula into a cnf https en^wikipedia.org wiki conjunctive normal form,train,Responsibilities
+TSpartaPaint,"a paint is transformable and can be used with one of extend modes, for example repeat, reflect or clamp.",train,Responsibilities
+GtGradAbstractTreeLayout,"once the bottom up traversal is finished, calculation of offsets is finished as well.",train,Responsibilities
+RTScrollBarBuilder,"more than a draggable view, it allows to keep a mark about your position in the view and it scale for large views.",train,Responsibilities
+BlGeometryAnchorListener,i am an event listener that listens anchor moved event send by anchor,train,Responsibilities
+TOODependencyQueries,a toodependencyqueries defines a vocabulary to compute dependencies of object oriented entities.,train,Responsibilities
+FAMIXAnnotationTypeGroup,famixannotationtypegroup is a moosegroup containing only famix enities of type famixannotationtype.,train,Responsibilities
+GtPhlowForwarderView,i am useful in situations when the object that has the view definition is expensive to create.,train,Responsibilities
+RTRectangleAttachPoint,continuous attach point which presumes both shapes are not rotated rectangles,train,Responsibilities
+FamixTPackage,"famixpackage represents a package in the source language, meaning that it provides a means to group entities without any baring on lexical scoping.",train,Responsibilities
+PRInputFileAnnotation,with me we can add a transformation to remplace an annotation to a pillar file by his tree.,train,Responsibilities
+BlChildrenCollection,i assume an index based way of working with children.,train,Responsibilities
+KGBForMetricsTestResource,i am a test resource building a famixstmodel with some of kgb packages used for metrics tests.,train,Responsibilities
+BlGridLayoutArc,i am used by grid layout instead of dictionary of span value key value pair for performance reasons.,train,Responsibilities
+RTHighlightableWithCursor,highlight to indicates that some interaction be can done.,train,Responsibilities
+WAOptionGroupTag,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options.,train,Responsibilities
+BlMouseMiddleButton,often can be triggered by mouse wheel click,train,Responsibilities
+BlElementPositionChangeTest,i contain examples of position change logging functionality,train,Responsibilities
+GtSnippetRequest,i am sent by snippet widget looks when they request to receive a snippet model from the widget model,train,Responsibilities
+BlGridLayoutUsageExamples,i contain examples of a grid layout,train,Responsibilities
+WALabelledFormDialog,to use other html widgets for input for a datum implement the method renderxxxon where xxx is the symbol for the row.,train,Responsibilities
+SpartaCanvas,they can be found in api protocol.,train,Responsibilities
+BlSpaceEventExamples,i contain examples of space related events,train,Responsibilities
+BlArrowheadTriangle,i support background and border paints.,train,Responsibilities
+RTBezier3Line,describe a cubic bezier spline,train,Responsibilities
+BlChildrenCollection,i allow elements to optimize working with children for different scenarious.,train,Responsibilities
+GtDiagrammerArrowheadNoneStencil,i am used to remove arrow heads,train,Responsibilities
+WADatalistTag,datalist together with the a new list attribute for input is used to make comboboxes,train,Responsibilities
+FMFutureProperty,"in that case, i ll push my values in real property.",train,Responsibilities
+PMLineSearch,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1.,train,Responsibilities
+BlUniverseEventsCleared,emitted when all of the event loop s events have been processed and control flow is about to be taken away from the universe.,train,Responsibilities
+GtExampleDependenciesResolver,the dependencies of a given example consists in message sends to other method constructing an example.,train,Responsibilities
+WALabelledFormDialog,see rendernameon in example below.,train,Responsibilities
+GtProtoTasker,interesting taskers to explore are class gttaskerorderednonrepetitive and class gtpostponingtasker .,train,Classreferences
+BrTextEditor,i make use of class brtextadornmentattribute to augment text with visual elements.,train,Classreferences
+GtProtoTasker,tasker is responsible for collectin class gttaskertask tasks and executing them when requested.,train,Classreferences
+FamixTPackage,"famixpackage represents a package in the source language, meaning that it provides a means to group entities without any baring on lexical scoping.",train,Classreferences
+BlChildrenCollection,class blchildrenarray stores children using an class array,train,Classreferences
+WAPath,see wainspector for example use.,train,Classreferences
+PRShowClassTransformer,i create a prcodeblock with the class definition within it.,train,Classreferences
+BlKeyCombination,i define an event matching api that allows blshortcuthandler to find the most appropriate shortcut for currently pressed keys.,train,Classreferences
+BlMeasurementUnspecifiedMode,for more information see class comment of blmeasurementmode,train,Classreferences
+KGBForMetricsTestResource,i am a test resource building a famixstmodel with some of kgb packages used for metrics tests.,train,Classreferences
+WAErrorHandler,handlewarning,train,Classreferences
+PRBookTesterVisitor,i gather all results as prbooktestresult s in alltestsresults.,train,Classreferences
+RTLinkView,rtlinkview works with rthtml5exporter and,train,Classreferences
+FAMIXNamespaceGroup,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace.,train,Classreferences
+RTTreeMapExampleTODELETE,examples of rttreemap,train,Classreferences
+PRPillarParser,i use the prpillargrammar and i build a prdocument.,train,Classreferences
+WABulkReapingCache,i am intended to be used in gemstone s instead of wahashcache.,train,Classreferences
+BlChildrenCollection,class blchildrenlinkedlist stores children using a class linkedlist,train,Classreferences
+BlInfiniteDataSourceItemRangeMoved,blinfinitedatasource,train,Classreferences
+BlGridLayout,all children of an element with gridlayout must use gridconstraints that allows users to configure how children are located within grid independently.,train,Classreferences
+GtExampleFactory,i am a factory that can create class gtexample instances.,train,Classreferences
+BlRectangleShapeWithArrowExplanation,after doing so we receive the expected vector shape we we can later use together with class blshapegeometry,train,Classreferences
+PRPillarParserMain,i will also use the ston reader to read potentital metadata at the begining of the stream.,train,Classreferences
+BlKeyCombination,see blkeycombinationvisitor,train,Classreferences
+BlRectangleShapeWithArrowExplanation,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape #moveby to the topedge,train,Classreferences
+FMModel,model fmmodel withmetamodel fmmetamodel fromstring fmheinekenexample metamodelmse .,train,Classreferences
+RTLinkView,rtsvgexporter,train,Classreferences
+SpartaCanvas,i am polymorphic with spartasurface .,train,Classreferences
+TDependencyQueries,the actual core of the algorithms are in moosequerycalculator class.,train,Classreferences
+PPPluggableParser,this enables users to perform manual parsing or to embed other parser frameworks into petitparser.,train,Classreferences
+PMBernoulliGeneratorTest,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator,train,Classreferences
+BlChildrenCollection,class blchildrenorderedcollection stores children using a class orderedcollection,train,Classreferences
+RTTimelineSetTest,a rttimelinesettest is a test class for testing the behavior of rttimelineset,train,Classreferences
+GtExampleDependenciesResolver,"to determine if a message send represents a dependency to a method containing an example, i use heuristic defined by subclasses of gtexampledependencyresolver .",train,Classreferences
+RTAbstractTreeBuilder,rtcirculartreemapbuilder,train,Classreferences
+RTAbstractTreeBuilder,rtsunburstbuilder,train,Classreferences
+WAPath,use watrail to handle breadcrumbs for sequences of call and answers .,train,Classreferences
+BrTextEditorLineSplitter,i split a piece of text into line segments class brtexteditorlinesegment,train,Classreferences
+BlChildrenCollection,i am used by a class blelement to store its children.,train,Classreferences
+FMModel,metamodel afmmetamodel the meta model describing my entities.,train,Classreferences
+BlChildrenCollection,i am an abstract collection of bloc elements that can be mutated.,train,Intent
+SpartaCanvas,i represent a sparta canvas and provide an api to perform various drawing operations.,train,Intent
+PMMatrix,i represent a mathematical matrix.,train,Intent
+BlLayout,bloc layout,train,Intent
+BlChickenLeg,i am a single red chicken leg with two toes,train,Intent
+PRList,"i represent the abstraction over ordered, unordered html or latex list.",train,Intent
+BlMatrixTransformation,i am an affine transformation that is directly defined by transformation matrix,train,Intent
+FMModel,i am a model used in the scope of fame.,train,Intent
+WAListAttribute,walistattribute is an attribute that is restricted to a list of values.,train,Intent
+PRFootnote,"i am a footnote, you can create me with",train,Intent
+WAPharoEncoder,i am the common superclass for pharo encoders.,train,Intent
+MalDendrogramNode,"hapax is distributed under bsd license, see package comment.",train,Intent
+ChrysalPillarishConfiguration,i m a pillar specific class to manage code not generated for the configuration class.,train,Intent
+SpartaLine,i represent a line.,train,Intent
+WAExpiringCache,i am the abstract base class for caches that remove entries.,train,Intent
+TSpartaCompositeFilter,i am a composite filter and can have an arbitrary amount of input soures,train,Intent
+WACookie,i am basically a key value pair of strings.,train,Intent
+PPPluggableParser,a pluggable parser that passes the parser stream into a block.,train,Intent
+PRPreformatted,i am preformatted text or source code.,train,Intent
+BlTextUnderlineAttribute,i represent a text underline attribute.,train,Intent
+BlGeometryElement,i am a root class of geometry elements elements driven by geometry anchors.,train,Intent
+BlInfiniteDataSourceCommandType,i am a type of data source update command.,train,Intent
+BlExampleCustomEventTarget,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure,train,Intent
+RTCircleGeometry,"i am not a roassal shape, for that use rtellipse.",train,Intent
+RTEditableLabel,"i am a class to create editable label shapes, but do not forget that roassal is for visualizations not to build morphs",train,Intent
+WAMemoryInput,a wamemoryinput is a dialog that allows the user to enter an amount of memory.,train,Intent
+WAPharoUrlEncoder,i am a pharo specific url encoder.,train,Intent
+BlMouseProcessor,i am an event processor.,train,Intent
+BlDecelerateInterpolator,i am configurable using factor a degree to which the animation should be eased.,train,Intent
+GtLibraryInstaller,i am the installer of shared libraries along side image or vm.,train,Intent
+RTEllipseTest,a rtellipsetest is a test class for testing the behavior of rtellipse,train,Intent
+BrPagerPageResizerElement,i am the element with which a pager page can be resized horizontally.,train,Intent
+FamixTParameterType,this is a famixtype.,train,Intent
+PRParameter,i represent a key and value pair.,train,Intent
+WALabelledFormDialog,walabelledformdialog is an abstract class for generating html forms.,train,Intent
+RTTreeMapExampleTODELETE,examples of rttreemap,train,Intent
+RTSunburstBuilder,"i am a class to create visualizations about rings, center is the root of the tree and arcs are the sub trees.",train,Intent
+PRHTMLCanvas,an html canvas that facilitates writing html to a stream.,train,Intent
+BlElementDynamicTransformation,i am dynamic element transformation in the sense that my transformation matrix may actually depend on some element properties such as #extent or #position.,train,Intent
+BlMouseMiddleButton,i am a middle mouse button.,train,Intent
+SpartaCanvas,canvas spartacanvas extent 400@250.,train,Intent
+RTDecoratedTest,a rtdecoratedtest is a test class for testing the behavior of rtdecorated,train,Intent
+PPInfo,a ppinfo represent the informations around a parsing result and also contain this result.,train,Intent
+RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,train,Intent
+PRUnorderedList,i am an unordered list.,train,Intent
+TSpTextRun,i define an api of a text run an object that holds an array of glyphs that represent a piece of text.,train,Intent
+GtGraphForceBasedLayout,a roforcebasedlayout is inspired from the code of d3.,train,Intent
+PRMarkdownWriter,i am a writer for commonmark,train,Intent
+RTAxisRenderer,a rtaxisrenderer is a renderer for axis.,train,Intent
+RTTimelineSetTest,a rttimelinesettest is a test class for testing the behavior of rttimelineset,train,Intent
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 03 fill path^png label fillpath,train,Intent
+BrExamplesShowroom,i am a collection of showroom examples.,train,Intent
+BrGlamorousIcons,i am a glamorous icons container.,train,Intent
+BlLayout,"hence, in bloc layout is not executed immediately after a property like the width of an element changes.",train,Intent
+PRList,i am an abstract list.,train,Intent
+BlSpaceFramePhase,i represent a frame phase.,train,Intent
+BlSelection,i represent a text selection defined as interval from^^^to,train,Intent
+RTAttachPoint,i am the superclass of the class hierarchy describing attach points.,train,Intent
+BlDecelerateInterpolator,i am an interpolator where the rate of change starts out quickly and and then decelerates.,train,Intent
+PRPhase,i am an abstract class to describe a phase of an export.,train,Intent
+PPScriptingTest,these are some simple demo scripts of parser combinators for the compiler construction course.,train,Intent
+BlConcatenationRopeIterator,i am a special iterator used to iterate over concatenation rope,train,Intent
+RTTextWord,a rttextword represents one word of an original text.,train,Intent
+PPLiteralParser,abstract literal parser that parses some kind of literal type to be specified by subclasses .,train,Intent
+GtGraphTreemapSquarifyLandscapeRectangle,i represent a rectangle.,train,Intent
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 04 stroke path^png label strokepath,train,Intent
+GtGraphTreemapSquarifyLandscapeRectangle,my height is smaller than my width.,train,Intent
+FAMIXNamespaceGroup,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace.,train,Intent
+BlSpartaMozSkiaCanvasBuilder,i am a copy of class blspartamozcanvasbuilder.,train,Intent
+BlHandlerRegistry,i am an event handler registry used by dispatchers in order to manage event handlers.,train,Intent
+BlMatrix2D,i represent a matrix used for 2d affine transformations.,train,Intent
+BlPerpendicularFractionAnchor,i am a virtual anchor that lays on a perpendicular to a line between two reference anchors.,train,Intent
+GtExampleFactory,i am a factory that can create class gtexample instances.,train,Intent
+MooseAbstractImporter,i m the root for the new importer.,train,Intent
+GtPlotterAxisProjection,i represent a projection value of a domain object on the axis.,train,Intent
+BlGridLayoutArc,"i represent an association of span interval, associated value and validity flag.",train,Intent
+PMBernoulliGeneratorTest,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator,train,Intent
+BlMorphicHostSpace,i am a host space created by blmorphichost.,train,Intent
+GtGraphTreemapSliceHorizontalLayout,i implement an horizontal slice algorithm.,train,Intent
+BlGeometryAnchorListener,i am an event listener that listens anchor moved event send by anchor,train,Intent
+PRObject,i am a superclass of most objects within pier.,train,Intent
+RTSVGBoxedTextPopup,"a rtsvgboxedtextpopup is a text popup, contained in a square box.",train,Intent
+RTSmoothLayoutTranslator,a rosmoothlayouttranslator is xxxxxxxxx.,train,Intent
+SpartaCanvas,spartacanvas,train,Intent
+BlMeasurementUnspecifiedMode,i represent a concrete implementation of unspecified measurement mode.,train,Intent
+FAMIXAnnotationTypeGroup,famixannotationtypegroup is a moosegroup containing only famix enities of type famixannotationtype.,train,Intent
+SpUserFontSource,i represent a font face source and know how to retrieve font contents from it,train,Intent
+RTBox,a rtbox is a rectangular box.,train,Intent
+BrEditorTextFlowLine,i represent a single line of a flow layout.,train,Intent
+WAObjectTag,defines an embedded object.,train,Intent
+FamixTPackage,"famixpackage represents a package in the source language, meaning that it provides a means to group entities without any baring on lexical scoping.",train,Intent
+MooseEntity,mooseentity is an abstract entity.,train,Intent
+FMModel,description,train,Intent
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 05 blur^png label blur,train,Intent
+FamixTDereferencedInvocation,represents an invocation which function is contained in a pointer.,train,Intent
+KGBForMetricsTestResource,i am a test resource building a famixstmodel with some of kgb packages used for metrics tests.,train,Intent
+PMAM3Stepper,it is stepper for adams moulton method of order 3.,train,Intent
+BlKeyCombination,i represent an abstract key combination which is the most important part of blshortcut .,train,Intent
+BlVisibilityHidden,i am a concrete visibility type hidden .,train,Intent
+BlElementEffect,i am the abstract root class for effects.,train,Intent
+WABulkReapingCache,i am a cache that reaps all elements at once instead of incrementally.,train,Intent
+WADevelopment,a wadevelopment is a collection of convenience methods for dealing with seaside development in squeak.,train,Intent
+PRBookTesterVisitor,i am a visitor specialized in visiting books and testing their code.,train,Intent
+PRParseWarning,i am a warning for the parse of a pillar file.,train,Intent
+GtSnippetRequest,i am sent by snippet widget looks when they request to receive a snippet model from the widget model,train,Intent
+BlInfiniteExampleClassesDataSource,i am a data source of the collection of all classes in the image,train,Intent
+BlHostPulseLoop,i am the bloc main loop.,train,Intent
+RTSVGAbstractLine,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths .,train,Intent
+TSpFontDescriptor,"i am a helper trait that defines basic font properties such as weight, style and stretch",train,Intent
+MooseCustomTask,moosecustomtask is a task perform some computation specified as a block.,train,Intent
+MooseVisualLocator,the moosevisuallocator is a simple template that offers a list of classes on the left hand side and some presentation on the right hand side.,train,Intent
+PMLineSearch,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1.,train,Intent
+BlArrowheadTriangle,i am a triangular arrow head.,train,Intent
+BrInteractiveModel,"i am a composite interaction model responsible for managing widget state such as pressed, hovered, focused.",train,Intent
+FMFutureProperty,i represent a property of the object currently been imported while it is not yet imported.,train,Intent
+MalRowMatrix,this class is part of hapax.,train,Intent
+RTSVGPopup,a rtsvgpopup is any kind of popup born from a certain element.,train,Intent
+RTAbstractExample,i am the super class of all the roassal examples.,train,Intent
+WAPlugin,i am an abstract root class for all plugins.,train,Intent
+GtDiagrammerPicker,i am a scriptable toogle group to display a uniform collection of selectable values.,train,Intent
+BlArrowheadSimpleArrow,i am a simple arrow like arrowhead.,train,Intent
+PMStateTime,a statetime class is a generalization of point.,train,Intent
+GtGraphCircleEnclosure,smallest enclosing circle of circles,train,Intent
+PPSea,"p x, a island, y accepts following inputs",train,Keymessages
+WALabelledFormDialog,cancel,train,Keymessages
+PRInputFileAnnotation,my tag is inputfile .,train,Keymessages
+WAFormDecoration,buttons collection of strings or symbols,train,Keymessages
+WAUpTimeTracker,at system startup the imageboottime is re set automatically.,train,Keymessages
+MooseEntity,"each entity belongs to one and only one model, if an entity has not yet been added to a model or if an entity has been removed from a model the moosemodel is undefined, that is it may be nil.",train,Keymessages
+RTSmoothLayoutTranslator,move object,train,Keymessages
+RTLabeled,color object,train,Keymessages
+RTScrollBarBuilder,the bar shape is defined by #barshape #abox or default value #anellipse,train,Keymessages
+GtRemoteInspector,message one,train,Keymessages
+TROSMShape,tiles,train,Keymessages
+WALabelledFormDialog,user supplied data is placed in the data model.,train,Keymessages
+TSpartaPaint,repeat repeat in both x and y axis,train,Keymessages
+WAExpiringCache,when this limit is reached the overflow action is run.,train,Keymessages
+RTSmoothLayoutTranslator,nbcycles object,train,Keymessages
+WAUpTimeTracker,access the duration how long ago the image booted as follows,train,Keymessages
+SpartaCanvas,stroke create a builder of stroke drawing operation,train,Keymessages
+GtRlReleaseConfiguration,method gtrlreleaseconfiguration #defaultversionnumber the version number to use in case there are no previous releases in a repository.,train,Keymessages
+TSpartaPaint,rotatebydegrees rotate me by amount of degrees clockwise,train,Keymessages
+PPSea,context,train,Keymessages
+WALabelledFormDialog,model,train,Keymessages
+BlChildrenSubset,api,train,Keymessages
+RTLabeled,text,train,Keymessages
+BlGridLayout,columncount anumber to specify amount of columns,train,Keymessages
+WALabelledFormDialog,self answer contact,train,Keymessages
+PMODESolver,solve system x0 astate t0 starttime t1 endtime,train,Keymessages
+GtProtoTasker,method gtprototasker #addtask expanded true,train,Keymessages
+WALabelledFormDialog,override the buttons method to change the text or number of submit buttons on the form.,train,Keymessages
+GtExampleFactory,users should configure me with a #sourceclass .,train,Keymessages
+PRScreenshotAnnotation,my parameters are,train,Keymessages
+WAFormDecoration,"list of strings or symbols, each string symbol is the label first letter capitalized for a button and the name of the callback method on component when button is pressed,",train,Keymessages
+RTLabeled,canvas,train,Keymessages
+BrGlamorousIcons,here is a list of available icons,train,Keymessages
+GtRlReleaseConfiguration,method gtrlreleaseconfiguration #forcenewrelease force a new release in a repository even if there no new changes in that repository and all dependencies did not change.,train,Keymessages
+TROSMShape,set clipping rectangle to trosmshape bounds.,train,Keymessages
+WAPath,"so when you render a page call wapath currentsegment to get the current object, and generate the page accordingly.",train,Keymessages
+PMKolmogorovSmirnov1Sample,#rejectequalityhypothesiswithalpha does what its name says of course.,train,Keymessages
+SpartaCanvas,asform to rasterize myself and return resulting image as form,train,Keymessages
+WAExpiringCache,#removerelativeoldest remove the entry that hasn t been accessed for the longest time,train,Keymessages
+TSpartaPaint,i define an api of an abstract paint.,train,Keymessages
+MooseEntity,important api,train,Keymessages
+SpartaCanvas,similar to create an empty canvas of size anextent and of the same type and format,train,Keymessages
+WAExpiringCache,maximumabsoluteage integer,train,Keymessages
+PMExponentialGenerator,"the default randomgenerator is pmrandom, but can be modified.",train,Keymessages
+RTTextWord,interval,train,Keymessages
+GtRlReleaseConfiguration,method gtrlreleaseconfiguration #defaultversioncomputation the strategy for computing the next version number in case a version already exists.,train,Keymessages
+MalHgNode,level number,train,Keymessages
+TROSMShape,zoomlevel ln 156543034 rzoom ln 2,train,Keymessages
+WAExpiringCache,maximumabsoluteage,train,Keymessages
+WAUpTimeTracker,wauptimetracker imageuptime.,train,Keymessages
+BlGridLayout,rowcount anumber to specify amount of rows,train,Keymessages
+BlGridLayout,"alignmargins bounds of each element are extended outwards, according to their margins, before the edges of the resulting rectangle are aligned.",train,Keymessages
+TROSMShape,zoom point,train,Keymessages
+TSpartaPaint,repeatx repeat only x axis,train,Keymessages
+WAErrorHandler,handlewarning,train,Keymessages
+BlLayout,i define an api of a layout.,train,Keymessages
+SpartaCanvas,font create a font build helper,train,Keymessages
+TSpartaStrokeOptions,stroke options are used in stroking operations.,train,Keymessages
+PPSea,island object,train,Keymessages
+TROSMShape,compute the osm zoom level with the camera zoom value .,train,Keymessages
+RTLabeled,"e @ rtlabeled new text value my value is , value asstring .",train,Keymessages
+TDependencyQueries,the api offer the possibility to query an entity with three parameters,train,Keymessages
+TSpartaPaint,rotatebyradians rotate me by amount of radians clockwise,train,Keymessages
+GtRemoteInspector,for bonus points how to create instances.,train,Keymessages
+TROSMShape,r zoom to osm zoom level base is 1km pixel,train,Keymessages
+SpartaCanvas,filter create a builder of filter drawing operation,train,Keymessages
+BrGlamorousIcons,class brglamorousicons show gticonsfor expanded,train,Keymessages
+GtRemoteInspector,message two,train,Keymessages
+PMMatrix,i understand the usual matrix operations.,train,Keymessages
+WAExpiringCache,maximumrelativeage,train,Keymessages
+WAExpiringCache,only matters when the maximum size is bigger than 0.,train,Keymessages
+TROSMShape,rectangle rectangle,train,Keymessages
+WAExpiringCache,maximumsize integer,train,Keymessages
+RTTextWord,interval interval,train,Keymessages
+TROSMShape,"from the camera, get the zoom level and offset.",train,Keymessages
+MalHgNode,higraph,train,Keymessages
+WAUpTimeTracker,wauptimetracker imageboottime.,train,Keymessages
+MalHgNode,attributes,train,Keymessages
+PPSea,bwp object,train,Keymessages
+MooseEntity,it does not have to be unique,train,Keymessages
+PMODESolver,the main interface once the solver is set up it has a stepper and a solver is,train,Keymessages
+RTScrollBarBuilder,aving an orientation #vertical or #horizontal.,train,Keymessages
+RTLabeled,highlightable object,train,Keymessages
+MalHgNode,attributes dictionary,train,Keymessages
+RTTextWord,a rttextword represents one word of an original text.,train,Keymessages
+BlTextBackgroundAttribute,paint set background paint,train,Keymessages
+WAExpiringCache,after so many seconds after its creation a session is considered expired no matter when it was last accessed.,train,Keymessages
+MooseEntity,mooseid is an integer that uniquely identifies this entity within the entire moose environment.,train,Keymessages
+PPSea,the input represented by dots is called water and water can appear before and after the island.,train,Keymessages
+RTPopupTest,view,train,Keymessages
+SpartaCanvas,"paint create a paint builder linear, radial gradients",train,Keymessages
+SpartaCanvas,text create a text rendering builder,train,Keymessages
+TSpartaPaint,"scaleby scale me by a factor, a point or a number.",train,Keymessages
+RTLabeled,offsetonedge,train,Keymessages
+WAExpiringCache,has to be positive.,train,Keymessages
+PRScreenshotAnnotation,width prfigure width as would be used in a more classic figure inclusion with caption .,train,Keymessages
+SpartaLine,spartaline from 10@10 to 20@20,train,Keymessages
+GtRlReleaseConfiguration,method gtrlreleaseconfiguration #defaultreleasebranchname the branch name on which to perform the release.,train,Keymessages
+PPDebugParser,root result of root parser,train,Keymessages
+BlArrowheadSimpleArrow,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle.,train,Keymessages
+MalHgNode,level,train,Keymessages
+BrTextEditorSelectionUpdateCommand,i do the hard job of visually updating selection by requesting segment holders to partially update themselves,train,Keymessages
+PPSea,island,train,Keymessages
+RTPopupTest,popup object,train,Keymessages
+WAExpiringCache,maximumsize,train,Keymessages
+SpartaCanvas,extent get my size width@height,train,Keymessages
+MooseEntity,it is generated automatically during the creation of the mooseentity.,train,Keymessages
+PPSea,xxxxx,train,Keymessages
+MooseCustomTask,with ablock description adescription length anumber,train,Keymessages
+PRScreenshotAnnotation,caption the caption that will appear under my figure in the final book,train,Keymessages
+WAExpiringCache,possible values,train,Keymessages
+BlKeyCombinationConverterCNF,i transform composite key combination formula into a cnf https en^wikipedia.org wiki conjunctive normal form,train,Keymessages
+MalHgNode,"the larger the number, the deeper down in the hierarchy the node is located.",train,Keymessages
+PPSea,afterwaterparser,train,Keymessages
+WAServerAdaptor,codec,train,Keymessages
+WAServerAdaptor,#codec,train,Keymessages
+RTTextWord,interval of the word in the original text,train,Keymessages
+WALabelledFormDialog,"contact class used above has instance variables name, phonenumber with standard getter and setter methods",train,Keymessages
+BlGridLayout,alignbounds alignment is made between the edges of each component s raw bounds,train,Keymessages
+RTSmoothLayoutTranslator,a rosmoothlayouttranslator is xxxxxxxxx.,train,Keymessages
+TROSMShape,rectangle,train,Keymessages
+PRScreenshotAnnotation,file label aa,train,Keymessages
+RTScrollBarBuilder,"the bar can have a specificity like #scalable, so it give an idea of the size of the view.",train,Keymessages
+TROSMShape,position,train,Keymessages
+PPSea,afterwaterparser object,train,Keymessages
+MalHgNode,empty collection if the node is a leaf in the hierarchy.,train,Keymessages
+TDependencyQueries,#query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children.,train,Keymessages
+RTLabeled,position object,train,Keymessages
+WALabelledFormDialog,labelforselector asymbol,train,Keymessages
+MalHgNode,outgoing orderedcollection,train,Keymessages
+GtProtoTasker,mandatory methods are,train,Keymessages
+TROSMShape,scale,train,Keymessages
+BlGridLayout,cellspacing anumber to specify spacing between cells,train,Keymessages
+PPSea,awp object,train,Keymessages
+WALabelledFormDialog,self answer,train,Keymessages
+GtRlReleaseConfiguration,my main api methods for setting other default options are,train,Keymessages
+TDependencyQueries,#querylocal asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver.,train,Keymessages
+PRScreenshotAnnotation,class the targetted class,train,Keymessages
+WALabelledFormDialog,asymbol #phonenumber iftrue ^ phone number .,train,Keymessages
+TROSMShape,the scale of the shape,train,Keymessages
+RTTextWord,text string text,train,Keymessages
+WALabelledFormDialog,ok,train,Keymessages
+PRHTMLCanvas,the main method is #tag that allow you to write something like this,train,Keymessages
+WALabelledFormDialog,given a data model walabelledformdialog displays a label and input field for each instance variable of interest.,train,Keymessages
+RTSmoothLayoutTranslator,move,train,Keymessages
+BlChildrenSubset,i do not enforce a lazy api.,train,Keymessages
+BlGridLayout,public api and key messages,train,Keymessages
+WAFormDecoration,buttons,train,Keymessages
+TROSMShape,scale point,train,Keymessages
+TSpartaStrokeOptions,i define an api of stroke options object.,train,Keymessages
+WALabelledFormDialog,the symbol is used generate the accessor methods for the data in the model.,train,Keymessages
+WALabelledFormDialog,the rows method returns a collections of symbols.,train,Keymessages
+TSpartaPaint,"transformation to get current transformation matrix, can not be mil",train,Keymessages
+RTLabeled,text object,train,Keymessages
+GtRlReleaseConfiguration,these are subclasses of class gtrlsemanticversioncomputation,train,Keymessages
+RTLabeled,canvas object,train,Keymessages
+MooseEntity,moosename returns a symbol that should qualify the current entity.,train,Keymessages
+GtProtoTasker,method gtprototasker #flush expanded true,train,Keymessages
+TSpartaPaint,repeaty repeat only y axis,train,Keymessages
+GtExampleProcessor,#canprocess verifies if the processor can execute on the given example.,train,Keymessages
+TROSMShape,bounds of the shape,train,Keymessages
+SpartaCanvas,"shape create a common shapes factory ellipse, rounded rectangle, etc",train,Keymessages
+MalHgNode,higraph malhierarchicalgraph,train,Keymessages
+MalHgNode,dictionary to attach arbitrary information to a node,train,Keymessages
+BlTextBackgroundAttribute,i am used together with brtext and brtextstyler to style text.,train,Collaborators
+BlConcatenationRopeIterator,i am a special iterator used to iterate over concatenation rope,train,Collaborators
+RTAbstractStackedDataSet,a data set has to be added to a rtgrapher.,train,Collaborators
+WAComboResponse,"after a response has been flushed once, header modifications are no longer possible and will raise a waillegalstateexception.",train,Collaborators
+RTResizeCanceled,dcrtresizable,train,Collaborators
+WAUpTimeTracker,at system startup the imageboottime is re set automatically.,train,Collaborators
+PPLiteralParser,abstract literal parser that parses some kind of literal type to be specified by subclasses .,train,Collaborators
+BlTextElementMeasurementStrategyExamples,"there is no perfect strategy, therefore understanding the differences between them is an important step in learning how to work with text in bloc.",train,Collaborators
+WAInvisibleSessionTrackingStrategy,for document handlers query fields are used.,train,Collaborators
+PMODESolver,an ode solver uses a stepper to solve a system.,train,Collaborators
+GtGraphTreemapSquarifyLandscapeRectangle,i am used by class gtgraphtreemapsquarifystep .,train,Collaborators
+FAMIXNamespaceGroup,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace.,train,Collaborators
+WAUpTimeTracker,access the duration how long ago the image booted as follows,train,Collaborators
+BlLayout,i am attached to a bloc element and define the visual structure of that bloc element.,train,Collaborators
+GtGradAbstractTreeLayout,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine.,train,Collaborators
+WABulkReapingCache,i am intended to be used in gemstone s instead of wahashcache.,train,Collaborators
+PMStepper,the most general stepper type is described by the stepper concept.,train,Collaborators
+MalDendrogramNode,"hapax is distributed under bsd license, see package comment.",train,Collaborators
+BlElementCenterLeftAnchor,my position is equal to the left center of a reference element,train,Collaborators
+BrTextEditorSelectionRecorder,i am used to record text selection intervals while user drags mouse over the text editor.,train,Collaborators
+TDependencyQueries,the actual core of the algorithms are in moosequerycalculator class.,train,Collaborators
+PPPluggableParser,this enables users to perform manual parsing or to embed other parser frameworks into petitparser.,train,Collaborators
+PMBernoulliGeneratorTest,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator,train,Collaborators
+TSpartaPaint,i am instantiated by canvas and does not supposed to be created by refering paint class directly.,train,Collaborators
+BlGeometryAnchorListener,i am an event listener that listens anchor moved event send by anchor,train,Collaborators
+WAErrorHandler,waerrorhandler catches errors and warnings and provides two methods for handling each type of exception,train,Collaborators
+WAFormTag,the form element acts as a container for input elements and buttons.,train,Collaborators
+WABulkReapingCache,a background process should send #reap to me.,train,Collaborators
+BlChildrenCollection,i am used by a class blelement to store its children.,train,Collaborators
+PRUnorderedList,i am typically used for unnumbered lists,train,Collaborators
+WAUpTimeTracker,wauptimetracker imageuptime.,train,Collaborators
+BrTextEditor,i make use of class brtextadornmentattribute to augment text with visual elements.,train,Collaborators
+PRShowClassTransformer,i create a prcodeblock with the class definition within it.,train,Collaborators
+KGBForMetricsTestResource,i am a test resource building a famixstmodel with some of kgb packages used for metrics tests.,train,Collaborators
+BrPagerPageResizerElement,i am the element with which a pager page can be resized horizontally.,train,Collaborators
+FamixTTrait,famixtrait models a trait as it can be found in pharo or php.,train,Collaborators
+RTLinkView,rtlinkview works with rthtml5exporter and,train,Collaborators
+BlInfiniteDataSourceItemRangeMoved,sent by,train,Collaborators
+GtGraphTreemapSquarify,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends.,train,Collaborators
+PRPillarParser,i use the prpillargrammar and i build a prdocument.,train,Collaborators
+PRBookTesterVisitor,i am a visitor specialized in visiting books and testing their code.,train,Collaborators
+BlInfiniteDataSourceItemRangeMoved,blinfinitedatasource,train,Collaborators
+PRPillarParserMain,i will also use the ston reader to read potentital metadata at the begining of the stream.,train,Collaborators
+BlInfiniteExampleClassesDataSource,i am a data source of the collection of all classes in the image,train,Collaborators
+GtConnectorButtonCreatedEvent,is sent by buttonattribute after button is created.,train,Collaborators
+GtGradAbstractTreeLayout,"generally, the differences between the implementations of the hozitonal and vertical variants are really small, revolving around one using or setting the x and the other y coordinates.",train,Collaborators
+GtLibraryInstallerLogAnnouncement,the ui may want to display them in a transcript,train,Collaborators
+RTDecoratedTest,a rtdecoratedtest is a test class for testing the behavior of rtdecorated,train,Collaborators
+RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,train,Collaborators
+RTLinkView,rtsvgexporter,train,Collaborators
+SpartaCanvas,i am polymorphic with spartasurface .,train,Collaborators
+WAComboResponse,clients can flush the response as often as they want at appropriate points in their response generation everything buffered up to that point will be sent.,train,Collaborators
+RTAxisRenderer,a rtaxisrenderer is a renderer for axis.,train,Collaborators
+BrInteractiveModel,"i am a composite interaction model responsible for managing widget state such as pressed, hovered, focused.",train,Collaborators
+MalRowMatrix,this class is part of hapax.,train,Collaborators
+RTTimelineSetTest,a rttimelinesettest is a test class for testing the behavior of rttimelineset,train,Collaborators
+BlElementRemovedEvent,is sent by an element after it is removed from the parent.,train,Collaborators
+RTAbstractTreeBuilder,rtcirculartreemapbuilder,train,Collaborators
+RTAbstractTreeBuilder,rtsunburstbuilder,train,Collaborators
+WAUpTimeTracker,wauptimetracker imageboottime.,train,Collaborators
+WAComboResponse,"server adaptors need to be aware that a committed response must be closed, when complete.",train,Collaborators
+BlLayout,"tipically this includes the position of child elements within the parent, or the size of the parent element.",train,Collaborators
+RTHighlightableWithCursor,it changes the cursor aspect,train,Collaborators
+TROSMShape,principle,test,Keyimplementationpoints
+PMLineSearch,it is guaranteed that g x will be called on the resulting x.,test,Keyimplementationpoints
+BlDecelerateInterpolator,"f x 1 1 x ^n, where n 2 factor",test,Keyimplementationpoints
+WALabelledFormDialog,the default form has one button ok .,test,Keyimplementationpoints
+BlClickEvent,the click event is fired when a pointing device button a mouse s primary button is pressed and released on a single element.,test,Keyimplementationpoints
+BlLayout,concrete implementations should focus on measure with and layout in,test,Keyimplementationpoints
+PMLineSearch,"in this case, this method finds such an x that this function is minimized in the sense",test,Keyimplementationpoints
+WAFormTag,where they are positioned.,test,Keyimplementationpoints
+WACookie,i model only a part of the full cookie specification.,test,Keyimplementationpoints
+RTBorderAttachPoint,"unline continuousattachpoint & co. you don t need to care about what the end shape is, as long as it is one of the basic shapes.",test,Keyimplementationpoints
+GtPlotterAxisProjection,a projection of a domain object on discrete axis is an index of that object in a data set,test,Keyimplementationpoints
+FamixTPackage,they can also mirror the same information in terms of famixpackage instances.,test,Keyimplementationpoints
+WATagBrush,"common events onxxx , this is a hack and would better be solved with traits",test,Keyimplementationpoints
+PMExponentialGenerator,x beta ln 1 u,test,Keyimplementationpoints
+WACookie,http cgi^netscape.com newsref std cookie spec^html,test,Keyimplementationpoints
+WASelection,"returns the item selected by user, not the index nor the text shown the user .",test,Keyimplementationpoints
+BlLayout,also it does not matter if layout is requeste one or 1000 time only one layout phase is performed improving performance.,test,Keyimplementationpoints
+WAIframeTag,the information to be inserted inline is designated by the src attribute of this element.,test,Keyimplementationpoints
+BlGridLayout,"indices lie in closed interval 1, n 1 .",test,Keyimplementationpoints
+FamixTPackage,java extractors map java packages to famixnamespaces.,test,Keyimplementationpoints
+BlLayout,"one of them, class blspaceframelayoutphase , consists in layouting the elements contained in the space.",test,Keyimplementationpoints
+Gt4XMLHighlightedToken,this class stores a highlight textcolor and 1 based start end highlight positions.,test,Keyimplementationpoints
+TROSMShape,goal,test,Keyimplementationpoints
+GtGradAbstractTreeLayout,"while reignold tilfold s algorithm produces a compact tree layout, moen s strives to make a tighter one.",test,Keyimplementationpoints
+WAFormTag,the input fields callbacks will be evaluated in the order they,test,Keyimplementationpoints
+GtGradAbstractTreeLayout,"during the first phase of the algorithm s execution bottom up traversal , these shapes are merged shapes of parents are merged with shapes of children.",test,Keyimplementationpoints
+PMQuantileTest,"quantiletest tests mainly #quantile method by calculating quartiles with every method on sortedcollections of size 4, 5, 6 and 11.",test,Keyimplementationpoints
+WACookie,httponly,test,Keyimplementationpoints
+BlGridLayout,a grid consists of cells that are separated by invisible lines.,test,Keyimplementationpoints
+BlMatrix2D,a11 a12 sx shy,test,Keyimplementationpoints
+WAImageButtonTag,"the submitted data includes name^x x value and name^y y value where name is the value of the name attribute, and x value and y value are the x and y coordinate values, respectively.",test,Keyimplementationpoints
+TROSMShape,10 in roassal space 1km in osm.,test,Keyimplementationpoints
+BlClickEvent,mouse down,test,Keyimplementationpoints
+BlLayout,measurement top to bottom though all the composition of elements.,test,Keyimplementationpoints
+BlLayout,"hence, often the layout needs to be applied twice, or more, during the layouting phase.",test,Keyimplementationpoints
+BlLayout,"that can be done using the messafe method blelement #forcelayout this should not be used outside of tests, as it bypasses the normal layouting system from bloc.",test,Keyimplementationpoints
+SpartaCairoTextMetrics,"if you call cairo scale cr, 20, 20 , text will be drawn twice as big, but the reported text extents will not be doubled.",test,Keyimplementationpoints
+TROSMShape,1000 rzoom 156543034 meters pixel 2 ^ zoomlevel,test,Keyimplementationpoints
+PMExponentialGenerator,the next method uses the formula,test,Keyimplementationpoints
+TROSMShape,"depending on the rtview size and the canvas parameters, get the right tiles from osm and display them.",test,Keyimplementationpoints
+WAImageButtonTag,"the x value is measured in pixels from the left of the image, and the y value in pixels from the top of the image.",test,Keyimplementationpoints
+BlGridLayout,children are allowed to have fitcontent and exact resizing modes.,test,Keyimplementationpoints
+PMLineSearch,g x g 0 alpha g 0,test,Keyimplementationpoints
+WAFormTag,evaluation order,test,Keyimplementationpoints
+TROSMShape,"take corners of bounding box, get lat long, get tiles x and y based on previous zoom level.",test,Keyimplementationpoints
+BlMatrixDecomposition,scale,test,Keyimplementationpoints
+BlLayout,layout phase in a frame,test,Keyimplementationpoints
+TROSMShape,make remainder zoom a transform inside the trosmshape.,test,Keyimplementationpoints
+PMLineSearch,for some small alpha defaults to 1e 4 .,test,Keyimplementationpoints
+GtGradAbstractTreeLayout,"the reingold tilfold algorithm, and thus moen s also, starts with a bottom up traversal of the tree.",test,Keyimplementationpoints
+FMModel,i will initialize myself with a new fmmetamodel but this one can be replaced by an existing one.,test,Keyimplementationpoints
+GtRlCommitAndTagReleaseAction,i only work with strategies of type class gtrlsemantictagreleasestrategy .,test,Keyimplementationpoints
+WACookie,http tools^ietf.org html rfc2109,test,Keyimplementationpoints
+BlLayout,performing the layout on an element consists in executing three main steps,test,Keyimplementationpoints
+BlLayout,measuring bounds,test,Keyimplementationpoints
+BlMatrixDecomposition,perspective,test,Keyimplementationpoints
+BlLayout,"each layout has a dedicated constraint objects, instance of class bllayoutcommonconstraints , that contain these common constraints.",test,Keyimplementationpoints
+TROSMShape,display each tile.,test,Keyimplementationpoints
+TROSMShape,remainderzoom 156543034 rzoom 2 ^ zoomlevel,test,Keyimplementationpoints
+WAFormTag,"buttons will always be evaluated last, no matter",test,Keyimplementationpoints
+BlLayout,layout api,test,Keyimplementationpoints
+WARequestContext,the request context is valid only during the request that caused it.,test,Keyimplementationpoints
+TSpTextRun,"note that textrun is optimised for the case of simple ascii string all chars are 8 bit , simple multilanguage string all chars are 16 bit and complex scripts characters have various length of 8 32 bits .",test,Keyimplementationpoints
+BlLayout,the space starts the layouting process on the root element of that space.,test,Keyimplementationpoints
+GtGradAbstractTreeLayout,"reignold tilfold s algorithm was originally designed only for binary trees, but later extended to work for non binary ones as well.",test,Keyimplementationpoints
+BlLayout,"instead layout is requested and perfomed, if needed, during every frame.",test,Keyimplementationpoints
+BlLayout,todo,test,Keyimplementationpoints
+BlLayout,without event handlers the layout process is going to happen only once.,test,Keyimplementationpoints
+GtGradAbstractTreeLayout,"when doing that, it makes sure that the parents are centered above their children.",test,Keyimplementationpoints
+WALabelledFormDialog,override the defaultbutton method to indicate which button is the default.,test,Keyimplementationpoints
+WAFormTag,appear in the xhtml.,test,Keyimplementationpoints
+WALabelledFormDialog,"for each button in the form the subclass needs a method with the same name as the button, which is called when the user clicks that button.",test,Keyimplementationpoints
+BlLayout,"this has the advantage that if no element request layout, this phase can be skipped.",test,Keyimplementationpoints
+BlLayout,each element has real bounds blelement #bounds and measured bounds blelement #measuredbounds .,test,Keyimplementationpoints
+TROSMShape,remember working limit for lat lon is 8505113,test,Keyimplementationpoints
+TROSMShape,remove tile if not used in display.,test,Keyimplementationpoints
+BlLayout,"every frame, the space goes through several phases method blspaceframe #initializephases .",test,Keyimplementationpoints
+BlMatrixDecomposition,translation,test,Keyimplementationpoints
+BlLayout,the measuring phase changes only the extent in the measured bounds.,test,Keyimplementationpoints
+BlMatrixDecomposition,for example in case of 2d matrix they are,test,Keyimplementationpoints
+WACookie,https bugzilla^mozilla.org show bug^cgi?id 178993,test,Keyimplementationpoints
+BlHostPulseLoop,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete .,test,Keyimplementationpoints
+BlLayout,normally layouts follow a top to bottom approach they measure the current element and then asks its children to do the measuring.,test,Keyimplementationpoints
+RTCalendarExample,b rtcalendarbuilder new.,test,Example
+PRAbstractCommand,argdictionary,test,Example
+RTExperimentalExample,v rtview new.,test,Example
+PRPhase,transformerinputfileon acollection,test,Example
+WALabelledFormDialog,the default form has one button ok .,test,Example
+RTGrapherSelectRangeViewContext,rtgrapherselectrangeviewcontext ongrapher g callback elements g view attributeat #presentation selection elements .,test,Example
+RTHighlightableWithCursor,b rtmondrian new.,test,Example
+WALabelledFormDialog,^ # name phonenumber,test,Example
+RTLineDecorationExample,edges orderedcollection new.,test,Example
+SpartaCanvas,create a linear gradient,test,Example
+GtGraphCircleEnclosure,adding a second circle expands the enclosure circle to fit both circles c1 and c2 .,test,Example
+RTBezier3Line,e2 @ rtdraggable.,test,Example
+SpartaCanvas,create an empty canvas of size 400@250,test,Example
+FamixJavaEntity,famix.,test,Example
+RTCalendarExample,value dictionary at d 005.,test,Example
+RTLineDecorationExample,@ rtdraggable.,test,Example
+RTAbstractExample,examples orderedcollection new.,test,Example
+SpartaCanvas,create a triangle vector path,test,Example
+RTSunburstBuilderExamples,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray .,test,Example
+SpartaCanvas,1 color blue .,test,Example
+MooseEntity,yourentity class annotation,test,Example
+RTExperimentalExample,^ b,test,Example
+FamixJavaEntity,cn c name withoutprefix #famixjava.,test,Example
+BlRectangleShapeWithArrowExplanation,we will start with creation of the rectangle shape class blrectangleshape,test,Example
+WADatalistTag,option value opera,test,Example
+WASelection,waselection creates a selectable list.,test,Example
+GtGraphCircleEnclosure,three circle enclosure is a special case too.,test,Example
+PRAbstractCommand,createconfiguration conffilename basedirectory basedirectory argdictionary arguments,test,Example
+RTCalendarExample,colors # # 165 0 38 # 215 48 38 # 244 109 67,test,Example
+PRPhase,prfileinclusion new,test,Example
+PMKolmogorovSmirnov1Sample,ks kolmogorovsmirnov comparedata 1 to 100 collect i nd random withdistribution nd.,test,Example
+BrTextEditorExamples,first create the text,test,Example
+GtLibraryInstaller,extension .,test,Example
+BrExamplesShowroom,the content of each tab is defined with the help of a stencil.,test,Example
+RTLineDecorationExample,size 100,test,Example
+GtLibraryInstaller,installer,test,Example
+TDependencyQueries,examples,test,Example
+WASelection,selection,test,Example
+FamixJavaEntity,model moosemodel new.,test,Example
+PMLineSearch,storedmethod setfunction funblock.,test,Example
+RTHighlightableWithCursor,b interaction showlabel,test,Example
+GtLibraryInstaller,the following example shows how i am configured for sparta moz2d library.,test,Example
+GtGraphTreemapSquarify,the final result is the following,test,Example
+PRAbstractCommand,my main entry point is,test,Example
+RTHighlightableWithCursor,instancevariables #instvarnames,test,Example
+XdDocumentsExamples,adocument anxdfile,test,Example
+PPSea,x^^^^a..,test,Example
+RTCPQualitative,colorpalette qualitative show,test,Example
+XdDocumentsExamples,znbase64encoder new,test,Example
+BlRectangleShapeWithArrowExplanation,"a traditional way to implement such geometry is to create a subclass of class blgeometry , override method blgeometry #buildpathonspartacanvas and implement quite cumbersome algorithm that computes the location of each point and then connects those points using moveto and lineto commands provided by pathbuilder .",test,Example
+PRPhase,start each,test,Example
+BrExamplesShowroom,to create a toggle button with a label user should the corresponding class brmaterialtogglewithiconlook,test,Example
+BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #add,test,Example
+PRAbstractCommand,basedirectory filesystem workingdirectory,test,Example
+RTCalendarExample,b monthlayout month.,test,Example
+RTCalendarExample,index 1 iftrue index 1 .,test,Example
+BlRectangleShapeWithArrowExplanation,splitting the injected line,test,Example
+BlRectangleShapeWithArrowExplanation,injecting a line inside of the top edge,test,Example
+RTAbstractExample,try to use this script to know the excecution of roassal examples,test,Example
+PPSea,yet fails on,test,Example
+WAComboResponse,"for example, a search results page might use something like",test,Example
+WASelection,self inform result printstring,test,Example
+SpartaCanvas,path triangle,test,Example
+GtGraphTreemapSquarifyLandscapeRectangle,example,test,Example
+GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep previewexpanded true nocode,test,Example
+PRPhase,pillartransformer 1 the parameter is the priority of the transformation,test,Example
+RTCalendarExample,b dateshape rectangle size 15 color color white bordercolor color lightgray.,test,Example
+RTBezier3Line,s rtellipse new color color red alpha 04 size 30.,test,Example
+WALabelledFormDialog,the model method just returns the object whose fields we wish to populate with date.,test,Example
+BlTextElementMeasurementStrategyExamples,editor measurement,test,Example
+PMGradient,g pmgradient of x x first squared x second .,test,Example
+BrExamplesShowroom,example brexamplesshowroom #glamorousbutton,test,Example
+RTSunburstBuilderExamples,b explore morph using #subclasses.,test,Example
+MalLatticePatterns,mallatticepatterns on mallattice on context reportpatterns,test,Example
+PRPhase,acollection,test,Example
+RTFilterInView,b,test,Example
+RTFilterInView,with edges,test,Example
+RTGrapherSelectRangeViewContext,g view rtview new.,test,Example
+RTVerticalMultipleData,d addmetric #fourth.,test,Example
+PPSea,c,test,Example
+PMLineSearch,for once off use,test,Example
+RTCalendarExample,colors at index.,test,Example
+BlInfiniteDataSourceItemRangeMoved,addeventhandleron blinfinitedatasourceitemrangemoved,test,Example
+WAIframeTag,"inserting an inline frame within a section of text is much like inserting an object via the object element they both allow you to insert an html document in the middle of another, they may both be aligned with surrounding text, etc",test,Example
+RTGrapherSelectRangeViewContext,g,test,Example
+SpartaCanvas,triangle canvas path,test,Example
+BrTextEditorExamples,example brtexteditorexamples #element editortext show gtlivein,test,Example
+BlTextElementMeasurementStrategyExamples,the height of the text element in this case is a sum of ascent and descent which is given by the font.,test,Example
+RTExperimentalExample,gtexample,test,Example
+BrExamplesShowroom,button can also be disabled to prevent click events,test,Example
+FamixJavaEntity,dictionary at famix^javasourcelanguage put famixjava entities^sourcelanguage .,test,Example
+GtGraphTreemapSquarify,this is an adapted extract from the paper squarified treemaps mentioned above.,test,Example
+RTCalendarExample,d value index,test,Example
+RTCalendarExample,index 11 iftrue index 11 .,test,Example
+WALabelledFormDialog,rendernameon html,test,Example
+BlRectangleShapeWithArrowExplanation,translating the top edge,test,Example
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 02 triangle path^png label trianglepath,test,Example
+MooseEntity,this extension will only be visible when the package is loaded.,test,Example
+PPSea,x^^b..,test,Example
+GtGraphTreemapSquarify,first we add a single rectangle.,test,Example
+RTBezier3Line,v,test,Example
+PRAbstractCommand,inputfile filesystem workingdirectory chapters chapter1 chapter1^pillar .,test,Example
+FMMSEPrinter,fmmetametamodel default exportwithprinter printer.,test,Example
+SpartaCanvas,language smalltalk,test,Example
+RTVerticalMultipleData,d rtverticalmultipledata new.,test,Example
+BlMouseProcessor,"from mouse down, mouse up, and mouse move events.",test,Example
+BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectangleshape previewshow #gtlivefor previewexpanded true previewheight 250,test,Example
+MalLatticePatterns,treillis mallattice on context .,test,Example
+PPSea,"i am still an experiment, but if you know how to improve me, please contact jan kurs at kurs@iam^unibe.ch",test,Example
+RTLabeled,e rtellipse new size 30 elementon 42.,test,Example
+FamixJavaEntity,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary.,test,Example
+RTFilterInView,b normalizer normalizecolor #numberofmethods.,test,Example
+GtGraphTreemapSquarify,we next fill the left half.,test,Example
+RTCalendarExample,b yearshape composite comp,test,Example
+WAComboResponse,acanvas flush.,test,Example
+GtGraphTreemapSquarify,"however, if we add the next area 4 above these original rectangles, the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep label #worstvaluerounded .",test,Example
+PMLineSearch,storedmethod dhblinesearch new.,test,Example
+RTLineDecorationExample,v rtview new,test,Example
+RTVerticalMultipleData,d addmetric #numberofmethods.,test,Example
+PPSea,xab,test,Example
+RTCPQualitative,check it out by executing,test,Example
+MooseEntity,^ self privatestate attributeat #yourextendingattribute,test,Example
+WALabelledFormDialog,show how to specily special input instead of using simple text field.,test,Example
+FamixJavaEntity,model entitystorage forruntime.,test,Example
+BrExamplesShowroom,accordion,test,Example
+TSpartaCompositeFilter,source filter2,test,Example
+RTRectangleAttachPoint,s attachpoint rtrectangleattachpoint new.,test,Example
+WALabelledFormDialog,^ contact,test,Example
+PMMatrix,i can be build from rows as follows,test,Example
+WAOptionGroupTag,see wainputtest #renderoptiongroupon for examples.,test,Example
+PRScreenshotAnnotation,screenshot package kernel class integer method caption the plus method width 50 label aa,test,Example
+WADatalistTag,option value safari,test,Example
+TDependencyQueries,will return a mooseincomingqueryresult containing the famixassociation having afamixclass or its children as target,test,Example
+MooseEntity,for example,test,Example
+BrExamplesShowroom,list,test,Example
+MooseEntity,see mooseentitystate for more information,test,Example
+BrExamplesShowroom,the toolbar is a logical set of action buttons either labelled or iconified .,test,Example
+BrTextEditorExamples,done,test,Example
+RTHighlightableWithCursor,nodes @ rthighlightablewithcursor.,test,Example
+WALabelledFormDialog,asymbol #name iftrue ^ your name .,test,Example
+BlRectangleShapeWithArrowExplanation,this is where a class blvectorshape comes in handy.,test,Example
+GtGraphTreemapSquarify,"therefore, we decide that we have reached an optimum for the left half in step two, and start processing the right half.",test,Example
+BlTextElementMeasurementStrategyExamples,it means that the height of the text is independent from the content.,test,Example
+SpartaCanvas,width 6,test,Example
+PMLineSearch,for repeated use,test,Example
+RTCalendarExample,b yearlayout horizontalline.,test,Example
+BlPolygon,50@20.,test,Example
+PRAbstractCommand,defaultexporters latex,test,Example
+RTFilterInView,b nodes collection withallsubclasses .,test,Example
+FMOne,trait named #famixtmethod,test,Example
+RTLineDecorationExample,addall edges.,test,Example
+MooseEntity,the pragma mseproperty type must be placed in the getter method to denote a fame property.,test,Example
+SpartaCanvas,canvas filter,test,Example
+PMLineSearch,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1.,test,Example
+BlElementRemovedEvent,child when blelementremovedevent do self inform removed from parent .,test,Example
+RTSunburstBuilderExamples,code,test,Example
+XdDocumentsExamples,encode anxdfile streamingstrategy bytes,test,Example
+SpartaCanvas,create a gaussian blur filter,test,Example
+PRPhase,to create a new phase you have to define its prority as a class method then to define the action of the phase with a method actionon aninput.,test,Example
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 01 empty^png label emptycanvas,test,Example
+RTLineDecorationExample,v b1 b2 edges,test,Example
+RTRectangleAttachPoint,v add l.,test,Example
+RTWeightedCircleLayout,elements rtellipse new size 5 color color red size vv vv 4 elementson 1 to 15 .,test,Example
+BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #measurementdifference nocode previewshow #gtlivefor previewheight 220,test,Example
+FMModel,i will initialize myself with a new fmmetamodel but this one can be replaced by an existing one.,test,Example
+BlRectangleShapeWithArrowExplanation,once we have everything we need for the arrow triangle we can move it s top up by the length of the arrow.,test,Example
+PMMatrix,pmmatrix rows # 1 2 3 4 5 6 .,test,Example
+SpartaCanvas,finish.,test,Example
+PRInputFileAnnotation,inputfile value directory myfile^pillar,test,Example
+RTHighlightableWithCursor,connecttoall #subclasses.,test,Example
+XdDocumentsExamples,anxdfile adocument savetoxdoc.,test,Example
+WADatalistTag,option value internet explorer,test,Example
+RTVerticalMultipleData,d addmetric #second.,test,Example
+PMLineSearch,storedmethod evaluate.,test,Example
+WALabelledFormDialog,contact is an inst var,test,Example
+WAComboResponse,flush after each search result,test,Example
+FMModel,i have a meta model containing descriptions of my content.,test,Example
+RTRectangleAttachPoint,e1 rtbox new size 50 elementon 1.,test,Example
+WADatalistTag,datalist,test,Example
+RTRotatedLabel,v open,test,Example
+RTWeightedCircleLayout,rtweightedcirclelayout on elements.,test,Example
+TSpartaCompositeFilter,merge canvas compositefilter,test,Example
+PMKolmogorovSmirnov1Sample,FALSE,test,Example
+PPSea,xb,test,Example
+WALabelledFormDialog,rows,test,Example
+BlDevScripterCheckFiredEventsStep,here you can see how to configure a fire and check a click event on a child element,test,Example
+WALabelledFormDialog,selected roger,test,Example
+BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtopinjectedline previewshow #gtlivefor previewexpanded true previewheight 250,test,Example
+MalLatticePatterns,fca model treillis context,test,Example
+SpartaCanvas,area canvas bounds,test,Example
+SpartaCanvas,stddeviation 4.,test,Example
+PRAbstractCommand,createconfiguration pillar^conf,test,Example
+ManifestFamixPharoSmalltalkEntities,i store metadata for this package.,test,Responsibilities
+RTDualAttachPoint,i am a new class to combine attach points,test,Responsibilities
+WAPainterVisitor,an implementation of the visitor pattern for painter subclasses.,test,Responsibilities
+MalNodeWithPreviousAndNext,a basic node able to host the model and to represent edges with no additional class.,test,Responsibilities
+PMAM3Stepper,an s step adams moulton method can reach order s 1.,test,Responsibilities
+GtRemoteInspector,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api.,test,Responsibilities
+RTAxisRenderer,it simply render in a view an axis configuration,test,Responsibilities
+BlCompulsoryCombinationTest,this class contains tests,test,Responsibilities
+RTHistogramSet,frequency on y and a collection of values per bars on x.,test,Responsibilities
+GtDiagrammerEditorList,i fetch data from the diagrammer editor data source,test,Responsibilities
+PRScreenshotAnnotation,i am used in a prdocument to include a prpicture and add a png file to the figures chapter subfolder.,test,Responsibilities
+WAOptionGroupTag,the optgroup element allows authors to group choices logically.,test,Responsibilities
+WAUrlAttribute,it converts between text entered on the configuration page and waurl instances.,test,Responsibilities
+Gt4XMLHighlightedToken,this class stores a highlight textcolor and 1 based start end highlight positions.,test,Responsibilities
+BlScalableFitHeightStrategy,i make sure that content element fits vertically within scalable element.,test,Responsibilities
+WASelection,waselection creates a selectable list.,test,Responsibilities
+WADelayedAnswerDecoration,wadelayedanswerdecoration adds a delay in displaying a component.,test,Responsibilities
+PRScreenshotAnnotation,i am an annotation used to show a screenshot of a given class and method.,test,Responsibilities
+RTSVGBoxedTextPopup,"this boxing, in svg, supports many features, not included in this class.",test,Responsibilities
+RTCPQualitative,qualitative schemes are best suited to representing nominal or categorical data.,test,Responsibilities
+RTBucketColor,a scale of elements is discretized into buckets where elements of each bucket is associated to an element.,test,Responsibilities
+RTFilterInView,this interaction adds a set of menu in the view to filter in and out some elements,test,Responsibilities
+GtGraphTreemapSquarify,i use method gtgraphtreemapnode #weight node values to split an area into.,test,Responsibilities
+BlGeometry,the geometry is used to define the geometry to be drawn and the interaction area.,test,Responsibilities
+BlDevScripterClickStep,"i fire a class blmousedownevent , class blmouseupevent , and class blclickevent .",test,Responsibilities
+BlExampleElementWithBrokenOnLayout,i am an element with a broken onlayout method that throws error subscriptoutofbounds,test,Responsibilities
+MalHgNode,"it knows the graph it belongs to, its children and its parent, on which level in the graph it resides and its outgoing ind incoming edges.",test,Responsibilities
+FMModel,i contains real instances of a class representing a concept in the current metamodel.,test,Responsibilities
+BrLook,in addition to the brviewmodel i listen to ui events and update decoration non meaningful elements of the widgets,test,Responsibilities
+GtPhlowForwarderView,i forward a view definition to another object.,test,Responsibilities
+PRBookTesterVisitor,"therefore, i only redefine visitcodeblock and specify it with the different parameters the codelock may have.",test,Responsibilities
+WAHtmlHaltAndErrorHandler,"this exception handler also catches halts, in order to prevent debugger windows from popping up and blocking server processes in deployed images.",test,Responsibilities
+PRDocumentListAnnotation,you have to specify complete path starting from the project directory.,test,Responsibilities
+RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,test,Responsibilities
+GtExampleInstanceSubject,i indicate that the subject of an example is an object.,test,Responsibilities
+PPSea,a ppisland allows for imprecise parsing.,test,Responsibilities
+PRDocumentListAnnotation,i can choose the number of files to take and the way to sort them.,test,Responsibilities
+MorphicRoassalAdapter,i am bridging roassalmodel and rtview,test,Responsibilities
+MalBreadthFirstSearchPath,"it starts at the tree root or some arbitrary node of a graph, sometimes referred to as a search key and explores the neighbor nodes first, before moving to the next level neighbours.",test,Responsibilities
+BlMouseProcessor,i convert basic events to more complex events.,test,Responsibilities
+PRPillarParserOld,i use the prpillargrammar and i build a prdocument.,test,Responsibilities
+GtRlBaselineTagReleaseStrategy,i am a release strategy that uses the current loaded tag for a repository as the version number.,test,Responsibilities
+BlArrowheadExamples,i contain examples of different types of blarrowheadelement,test,Responsibilities
+RTTabTable,rttabtable is made to work with csv file contents.,test,Responsibilities
+GtDiagrammerStarStencil,i create a star element,test,Responsibilities
+PPXPathFilter,a xpath node applies me to filter xml elements.,test,Responsibilities
+BlGridLayoutUsageExamples,i show how different resizing strategies work and how to build advanced layouts with the help of a grid,test,Responsibilities
+PPDebugParser,a ppdebugparser is a parser that traces all the progress and returns special object that can be browsed to see how the parsing advanced over a time.,test,Responsibilities
+RTWeightedCircleLayout,rtweightedcirclelayout is a circle layout that gives more space to big elements and fewer space to small elements.,test,Responsibilities
+BlArrowheadSimpleArrow,the with of the outer arrows can be specified by changing border width of a simple arrow arrowhead.,test,Responsibilities
+PPRelativePositionStream,a pprelativepositionstream is a specialized stream to get the relative position according to another stream.,test,Responsibilities
+GtRlNode,i am an abstraction for a type of dependency in the loading configuration of a system.,test,Responsibilities
+PackageBlueprintTestResource,i am a test resource building a famixstmodel with the package blueprint test resource entities.,test,Responsibilities
+BlChildrenOrderedCollectionExamples,i define examples for the class class blchildrenorderedcollection .,test,Responsibilities
+GtDiagrammerEditorList,i display a list of editors of an object in a vertical list.,test,Responsibilities
+BrTextEditorSelectionRecorder,additionally i play a role of a selection strategy to support single or multiple selection.,test,Responsibilities
+MalBreadthFirstSearchPath,breadth first search bfs is an algorithm for traversing or searching tree or graph data structures.,test,Responsibilities
+PMGradient,computes the gradient of a function of a collection of numbers.,test,Responsibilities
+RTSVGPopup,this is disabled by default.,test,Responsibilities
+PMAccuracy,accuracy is a framework for testing the numerical accuracy of the results of methods.,test,Responsibilities
+FMRelationSlot,i am an abstract slot used to declare fame properties for a class.,test,Responsibilities
+WAImageButtonTag,creates a graphical submit button.,test,Responsibilities
+BlTime,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action.,test,Responsibilities
+TDependencyQueries,"this trait provides a common, paradigm agnostic vocabulary to query dependencies of software entities.",test,Responsibilities
+BlClickEvent,the click event is fired when a pointing device button a mouse s primary button is pressed and released on a single element.,test,Responsibilities
+PRObject,"i hold a dictionary of properties, so that users can easily annotate me with new values.",test,Responsibilities
+BrTextEditorCursorElementRemovedEvent,i am sent by the text editor element when an element playing a role of the cursor is removed from the editor,test,Responsibilities
+RTLabeled,a rtlabeled adds a label above an element.,test,Responsibilities
+WACookie,i model only a part of the full cookie specification.,test,Responsibilities
+BrLook,i define how widgets look.,test,Responsibilities
+PRPhase,a phase holds a configuration.,test,Responsibilities
+MalKruskal,"this means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized.",test,Responsibilities
+BlHeadlessHost,i am a fallback host that is chosen if there are no other available and supported hosts.,test,Responsibilities
+BlMorphicWindowHost,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows,test,Responsibilities
+TROSMShape,this shape represent an openstreetmap background object which tracks the camera zoom level and translation to build a view of the corresponding part of the openstreetmap.,test,Responsibilities
+PRShowClassTransformer,i know how to visit a showclass annotation and the way to transform it.,test,Responsibilities
+PMStateTime,it holds both a state and a time.,test,Responsibilities
+BlDevScripterCheckFiredEventsStep,i check whether particular class blevent events were fired on a class blelement target.,test,Responsibilities
+PRInputFileAnnotation,i include a reference to a pillar file.,test,Responsibilities
+WAInvisibleSessionTrackingStrategy,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions.,test,Responsibilities
+WAUpTimeTracker,access the timestamp when the image booted as follows,test,Responsibilities
+BlSpaceFramePhase,each phase knows about its start time and send a corresponding event once the phase is completed.,test,Responsibilities
+BlDragDelegate,drag delegate provides drag items when a visual element lifts.,test,Responsibilities
+MalTerms,terms subclasses bag with support for handling stopwords etc,test,Responsibilities
+MalHgNode,one can also store arbitrary informaition as attributes to a node.,test,Responsibilities
+WARequestContext,"it does not matter if this is a request to a static file, an ajax request, a long comet request or a normal seaside requestion.",test,Responsibilities
+WAPath,"wapath maintains a stack of associations, one for each location or page in the path.",test,Responsibilities
+BlGridLayout,i layout elements in a rectangular grid.,test,Responsibilities
+WAComboResponse,"by default, wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle.",test,Responsibilities
+GtPhlowForwarderView,"i am also useful in situtions, when the object is created only for the purpose of the view.",test,Responsibilities
+GtGradAbstractTreeLayout,"during this second traversal, positions of the tree s nodes are set.",test,Responsibilities
+BlInfiniteSmoothScrollerAction,i hold information about a smooth scroll request by a smoothscroller.,test,Responsibilities
+RTSVGPopup,the click refers to the posibility of activating the popup only when the element is clicked.,test,Responsibilities
+BrExampleColoredElementStencil,i am an example of a custom stencil that creates a rounded rectangular element with cusomizable background color and corner radius,test,Responsibilities
+RTGrapherSelectRangeViewContext,define a range for gt,test,Responsibilities
+BlDragDelegate,drag gesture fails if there are no drag items,test,Responsibilities
+GtExampleProcessor,i maintain a context that can be accessed from within the examples being processed during the execution of the processor.,test,Responsibilities
+MalLatticePatterns,we can detect like horizontal decomposition with the algos in the class.,test,Responsibilities
+PMSciKitLearnSVDFlipAlgorithmTest,this is the test class that exercises scikit learn eigenvector flip algorithm,test,Responsibilities
+BlTextUnderlineAttribute,i am used together with class bltext and class tbltextstyleable to style text.,test,Responsibilities
+TSpartaPaint,tspartapaint,test,Responsibilities
+WALabelledFormDialog,a standard text input field is used for each row of data.,test,Responsibilities
+WAPath,wapath represents a path navigation breadcrumbs for a web page and displays standard breadcrumbs xxx yyy zzz .,test,Responsibilities
+WAFormCharEncodingFromHandlerTest,i test that the encoding from the handler is taken if a handler is present but a codec is missing.,test,Responsibilities
+LANInterface,lan interface comments for testing purposes.,test,Responsibilities
+PRPillarParserMain,i m responsible for starting the parsing process of a pillar document.,test,Responsibilities
+PRAbstractCommand,i m usually invoked from a command line but not only.,test,Responsibilities
+BlChildrenCollection,"a rope uses a balanced binary tree to support fast adding, removing and accessing, with the disadvantage of taking more memory.",test,Responsibilities
+RTCircleGeometry,instead i am using in some circle related gemetric computations.,test,Responsibilities
+WACancelButtonTag,creates a cancel submit button.,test,Responsibilities
+PRDocumentListAnnotation,i allow users to get abstracts of files located in a directory and specify a link to access these files.,test,Responsibilities
+WAProtectionFilter,"do add this filter to a wasession for example to avoid session hijacking, do not add it to static request handlers such as waapplication or wadispatcher as this might restrict access to the handler if your ip changes.",test,Responsibilities
+WAEncoder,i encode everything that is written to myself using #nextput and #nextputall onto the wrapped stream.,test,Responsibilities
+SpartaCanvas,overview,test,Responsibilities
+PRDocumentListAnnotation,"when no template file is specified, abstracts are generated as documentgroup containing different files elements.",test,Responsibilities
+PRWatcher,a class to watch served sites.,test,Responsibilities
+WAMemoryToolPlugin,i display the memory usage tool.,test,Responsibilities
+WAFormDecoration,a waformdecoration places its component inside an html form tag.,test,Responsibilities
+PMKolmogorovSmirnov1Sample,does a two sided kolmogorov smirnow test and checks whether sample data are from a population with a given distribution.,test,Responsibilities
+FameOppositeClassNotExistRule,check if the opposite class declared in a pragma #mseproperty type opposite is defined.,test,Responsibilities
+PRParagraph,"i do not contain complex structures such as lists, codeblocks.",test,Responsibilities
+RTResizeCanceled,i am fired when resize operation is canceled globally for the whole view.,test,Responsibilities
+WAComboResponse,"if streaming is desired, the response can be flushed by sending it the #flush message.",test,Responsibilities
+PPSea,one can create it on a parser p by calling p island eg,test,Responsibilities
+PMStepper,basic steppers execute one timestep of a specific order with a given stepsize.,test,Responsibilities
+WARequestContext,warequestcontext encapsulates all the knowledge that should be available while processing a single request.,test,Responsibilities
+RTLabeled,the label may be particularized using #text in the default string representation is not sufficient.,test,Responsibilities
+SpartaCanvas,my main responsibility is to create and provide backend specific builders and various objects.,test,Responsibilities
+RTSunburstBuilder,"you can customize the angle of the arc, and play with the with radius and width of each arc.",test,Responsibilities
+GtConnectorButtonCreatedEvent,i allow connector to be notified and attach its own additional handlers to newly created button,test,Responsibilities
+BrTabAddedEvent,i am sent when a new tab is added to class brtabgroupmodel,test,Responsibilities
+PRLaTeXEnvironment,to emit,test,Responsibilities
+GtDiagrammerDummyTool,i am a dummy tool that does nothing,test,Responsibilities
+WAUpTimeTracker,wauptimetracker is used to track the timestamp when the image last booted.,test,Responsibilities
+BlUniverseEvent,i am an event that is sent to the universe by the host to control the universe s lifecycle,test,Classreferences
+BlRectangleShapeWithArrowExplanation,"a traditional way to implement such geometry is to create a subclass of class blgeometry , override method blgeometry #buildpathonspartacanvas and implement quite cumbersome algorithm that computes the location of each point and then connects those points using moveto and lineto commands provided by pathbuilder .",test,Classreferences
+BlKeyCombination,see blkeycombinationexamples for related examples.,test,Classreferences
+BlTime,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action.,test,Classreferences
+GtGraphTreemapLayoutConstraints,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout.,test,Classreferences
+FMModel,a fmmetamodel containing instances of fm3elements describing famixstclass.,test,Classreferences
+BlMorphicWindowOpenedEvent,i am fired by morphic host window when it is opened in the world,test,Classreferences
+ManifestFamixPharoSmalltalkEntities,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser,test,Classreferences
+FmxMBPrintVisitor,see fmxmbvisitor to see how to use me.,test,Classreferences
+FMModel,i will initialize myself with a new fmmetamodel but this one can be replaced by an existing one.,test,Classreferences
+RTBorderAttachPoint,"unline continuousattachpoint & co. you don t need to care about what the end shape is, as long as it is one of the basic shapes.",test,Classreferences
+MorphicRoassalAdapter,i am bridging roassalmodel and rtview,test,Classreferences
+RTSVGVisitor2Test,i am a simple test class for rtsvgvisitor2,test,Classreferences
+FamixTPackage,they can also mirror the same information in terms of famixpackage instances.,test,Classreferences
+PRPillarParserOld,i use the prpillargrammar and i build a prdocument.,test,Classreferences
+BlArrowheadExamples,i contain examples of different types of blarrowheadelement,test,Classreferences
+BlMorphicWindowHost,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows,test,Classreferences
+RTAbstractTreeBuilder,rttreemapbuilder,test,Classreferences
+PRPillarParserMain,"if possible, i will use a compiled version of prpillarparser.",test,Classreferences
+FamixTPackage,java extractors map java packages to famixnamespaces.,test,Classreferences
+Gt4XMLHighlightedToken,this class stores a highlight textcolor and 1 based start end highlight positions.,test,Classreferences
+BlInfiniteDataSourceItemRangeMoved,addeventhandleron blinfinitedatasourceitemrangemoved,test,Classreferences
+WAOptionGroupTag,see wainputtest #renderoptiongroupon for examples.,test,Classreferences
+BlRectangleShapeWithArrowExplanation,we will start with creation of the rectangle shape class blrectangleshape,test,Classreferences
+RTAbstractTreeBuilder,rtbundlebuilder,test,Classreferences
+BlDevScripterClickStep,"i fire a class blmousedownevent , class blmouseupevent , and class blclickevent .",test,Classreferences
+BlRectangleShapeWithArrowExplanation,this is where a class blvectorshape comes in handy.,test,Classreferences
+PackageBlueprintTestResource,i am a test resource building a famixstmodel with the package blueprint test resource entities.,test,Classreferences
+FMModel,a fmmodel has a fmmetamodel as meta model which has a fmmetametamodel has metamodel.,test,Classreferences
+BrLook,in addition to the brviewmodel i listen to ui events and update decoration non meaningful elements of the widgets,test,Classreferences
+BrTabAddedEvent,i am sent when a new tab is added to class brtabgroupmodel,test,Classreferences
+GtGraphTreemapSliceHorizontalLayout,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents.,test,Classreferences
+WAErrorHandler,handleerror,test,Classreferences
+BlInfiniteSmoothScrollerAction,i hold information about a smooth scroll request by a smoothscroller.,test,Classreferences
+WACanvasWidget,a common superclass for all widgets that want to use wahtmlcanvas as their renderer.,test,Classreferences
+PRBookTesterVisitor,visitcodeblock uses executeandreport creating a prbooktestresult with the result of the evaluation of the codeblock.,test,Classreferences
+PRAbstractCommand,i m an object managing configuration.,test,Intent
+PMExponentialGenerator,"a pmexponentialgenerator uses a uniform random variable in 0,1 to sample from an exponential distribution.",test,Intent
+WACookie,compared to warequestcookie i represent the information that is sent to the user agent.,test,Intent
+PMAccuracy,accuracy is a framework for testing the numerical accuracy of the results of methods.,test,Intent
+FMRelationSlot,i am an abstract slot used to declare fame properties for a class.,test,Intent
+PPXPathFilter,i m a node filter.,test,Intent
+RTDualAttachPoint,i am a new class to combine attach points,test,Intent
+GtExampleProcessor,i am an abstract class for manipulating examples.,test,Intent
+WAPainterVisitor,an implementation of the visitor pattern for painter subclasses.,test,Intent
+BlMorphicWindowOpenedEvent,i am fired by morphic host window when it is opened in the world,test,Intent
+BrTextEditorCursorElementRemovedEvent,i am sent by the text editor element when an element playing a role of the cursor is removed from the editor,test,Intent
+WAPharoXmlEncoder,i am a pharo specific xml encoder.,test,Intent
+FMMSEPrinter,i am responsible of printing the mse format markup during a model export.,test,Intent
+FamixTParameterType,parametertype represents the symbolic type used in parameterizable classes.,test,Intent
+RTSVGVisitor2Test,i am a simple test class for rtsvgvisitor2,test,Intent
+WAServerAdaptor,a waserver is the abstract base class for all servers.,test,Intent
+RTBorderAttachPoint,i am an attach point that will end the line on the border of the end shapes.,test,Intent
+RTVerticalMultipleData,rtverticalmultipledata represents a group of data points that are vertically located.,test,Intent
+PRShowClassTransformer,i am a transformer for the showclass annotation.,test,Intent
+BlHeadlessHost,i am a fallback host that is chosen if there are no other available and supported hosts.,test,Intent
+BlMorphicWindowHost,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows,test,Intent
+RTAbstractStackedDataSet,a data set is a set of points intended to be charted.,test,Intent
+GtGraphEdgesIterator,i am an abstract iterator over edges connected to a graph element,test,Intent
+TROSMShape,this shape represent an openstreetmap background object which tracks the camera zoom level and translation to build a view of the corresponding part of the openstreetmap.,test,Intent
+PRLaTeXEnvironment,a latex environment,test,Intent
+BrTextEditor,the moldable editor,test,Intent
+RTPopupTest,a roabstractpopuptest is xxxxxxxxx.,test,Intent
+PMImplicitAnnouncer,an implicitannouncer is used by odesolver to announce step results implicitsolverannouncement .,test,Intent
+RTScale,a class to have nice scales checks subclasses,test,Intent
+BlTextBackgroundAttribute,i represent a text background attribute.,test,Intent
+WAInvisibleSessionTrackingStrategy,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions.,test,Intent
+PRScreenshotAnnotation,i am an annotation used to show a screenshot of a given class and method.,test,Intent
+GtExampleInstanceSubject,i am the default subject of an example.,test,Intent
+MalTerms,terms subclasses bag with support for handling stopwords etc,test,Intent
+FMModel,#metadescriptionon allows one to get the meta description of an element.,test,Intent
+PRDocumentListAnnotation,i am class representing a documentlistannotation.,test,Intent
+FmxMBPrintVisitor,i m a visitor for instances of #famixmetamodelgenerator and subclasses.,test,Intent
+BlExampleElementWithBrokenOnLayout,i am an element with a broken onlayout method that throws error subscriptoutofbounds,test,Intent
+BlLayout,i am the superclass for layouts in bloc and i define the api that a concrete layout needs to implement.,test,Intent
+FMOne,i am a relation slot representing a property containing only one element.,test,Intent
+SpUserFontSourceBuffer,i am a buffer source.,test,Intent
+WATagBrush,this is the superclass for all xml element classes.,test,Intent
+BlMorphicSpaceHostMorph,i act as a space host for a bloc space,test,Intent
+WACanvasWidget,a common superclass for all widgets that want to use wahtmlcanvas as their renderer.,test,Intent
+WAUrlAttribute,waurlattribute represents a url attribute.,test,Intent
+RTScrollBarBuilder,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view.,test,Intent
+BlUniverseEvent,i am an event that is sent to the universe by the host to control the universe s lifecycle,test,Intent
+BrExampleColoredElementStencil,i am an example of a custom stencil that creates a rounded rectangular element with cusomizable background color and corner radius,test,Intent
+GLMRoassal2MorphicTest,a glmroassalmorphictest is xxxxxxxxx.,test,Intent
+WAComboResponse,wacomboresponse is a combination of a buffered and a streaming response.,test,Intent
+PMSciKitLearnSVDFlipAlgorithmTest,this is the test class that exercises scikit learn eigenvector flip algorithm,test,Intent
+RTExploraBuilderTest,a roexplorabuildertest is xxxxxxxxx.,test,Intent
+BlArrowheadSimpleArrow,both my size and arrow length depend on the curve width.,test,Intent
+GtProtoTasker,i am an abstract tasker defining mandatory methods for all taskers.,test,Intent
+WAInspector,this is an abstract implementation of a web based object inspector.,test,Intent
+FMFutureProperty,description,test,Intent
+GtGraphTreemapLayoutConstraints,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout.,test,Intent
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 01 empty^png label emptycanvas,test,Intent
+WAPath,wapath represents a path navigation breadcrumbs for a web page and displays standard breadcrumbs xxx yyy zzz .,test,Intent
+RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,test,Intent
+LANInterface,lan interface comments for testing purposes.,test,Intent
+RTCircleGeometry,i represent a circle described by its center and a radius .,test,Intent
+GtLibraryInstallerMorph,top most container of the whole installer,test,Intent
+GtRlBaselineTagReleaseStrategy,i am a release strategy that uses the current loaded tag for a repository as the version number.,test,Intent
+RTSVGAbstractLine,the decoration refers to the maker of the line.,test,Intent
+WACookie,"i represent a cookie, a piece of information that is stored on the client and read and writable by the server.",test,Intent
+PRSyntaxError,an error about syntax,test,Intent
+GtGradAbstractTreeLayout,this an implementation of a moen s tree layout algorithm.,test,Intent
+PRHTMLScriptLanguage,hypertext markup language,test,Intent
+BlChildrenSubset,i am an abstract class.,test,Intent
+PRBashScriptLanguage,bash scripting language,test,Intent
+WAMemoryInput,this is a seaside internal class.,test,Intent
+PRWatcher,a class to watch served sites.,test,Intent
+FMModel,i have a meta model containing descriptions of my content.,test,Intent
+PPDebugParser,a ppdebugparser is a parser that traces all the progress and returns special object that can be browsed to see how the parsing advanced over a time.,test,Intent
+PRPillarParserOld,i am a parser for a pillar syntax.,test,Intent
+RTWeightedCircleLayout,rtweightedcirclelayout is a circle layout that gives more space to big elements and fewer space to small elements.,test,Intent
+PPRelativePositionStream,a pprelativepositionstream is a specialized stream to get the relative position according to another stream.,test,Intent
+BlMatrixDecomposition,i represent a matrix decomposition in components.,test,Intent
+RTPlatformPopup,i am a basic class to have the platform popup instead of the roassal popup rtpopup,test,Intent
+PMStepper,basic steppers execute one timestep of a specific order with a given stepsize.,test,Intent
+GtRlNode,i am an abstraction for a type of dependency in the loading configuration of a system.,test,Intent
+MalHgNode,a malhgnode is a node inside a hierarchical graph.,test,Intent
+SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 02 triangle path^png label trianglepath,test,Intent
+MalDendrogramNode,this class is part of hapax.,test,Intent
+PackageBlueprintTestResource,i am a test resource building a famixstmodel with the package blueprint test resource entities.,test,Intent
+RTAbstractTreeBuilder,i am a base class for some builders of roassal like,test,Intent
+GtDiagrammerDummyTool,i am a dummy tool that does nothing,test,Intent
+PRParagraph,"i m a paragraph of text containing text, line breaks or annotations.",test,Intent
+MalBreadthFirstSearchPath,breadth first search bfs is an algorithm for traversing or searching tree or graph data structures.,test,Intent
+MalHgNode,parent,test,Keymessages
+TSpartaPaint,transformation set new paint transformation.,test,Keymessages
+PRInputFileAnnotation,"a path to a file with the key value required, you can write it without the key",test,Keymessages
+WALabelledFormDialog,the default form has one button ok .,test,Keymessages
+BlLayout,concrete implementations should focus on measure with and layout in,test,Keymessages
+PMKolmogorovSmirnov1Sample,#pvalue returns the probability of getting a d ksstatistic .,test,Keymessages
+WALabelledFormDialog,^ # name phonenumber,test,Keymessages
+MalHgNode,the malhierarchicalgraph this node belongs to.,test,Keymessages
+MooseEntity,moosemodel of an entity is must be an instance of moosemodel.,test,Keymessages
+TDependencyQueries,"the scope of the query the receiver, the receiver and its children",test,Keymessages
+MalHgNode,children,test,Keymessages
+BlChildrenSubset,instances of me are created by calling the factory method method blchildrensubset class #on on a subclass with an instance of class blchildren as parameter.,test,Keymessages
+WAPath,the method wapath currentsegment returns object associated with the current page .,test,Keymessages
+RTScrollBarBuilder,"it can be static, movable, using #isstatic or #ismovable",test,Keymessages
+RTScrollBarBuilder,size or fixedposition can be defined as blocks.,test,Keymessages
+WAExpiringCache,what to do when the maximum number of sessions is reached.,test,Keymessages
+TDependencyQueries,#queryall asymbol looks for the associations in the direction described by the symbol in the receiver and its children.,test,Keymessages
+PMKolmogorovSmirnov1Sample,see eg http www^itl.nist^gov div898 handbook eda section3 eda35g^htm why this would be wrong.,test,Keymessages
+WAServerAdaptor,#usessmalltalkencoding,test,Keymessages
+MalHgNode,"it knows the graph it belongs to, its children and its parent, on which level in the graph it resides and its outgoing ind incoming edges.",test,Keymessages
+TSpartaPaint,clamp do not repeat me,test,Keymessages
+TDependencyQueries,"the kind of association famixacces, famixreference, all.",test,Keymessages
+SpartaCanvas,mask create a builder of masking draw operation,test,Keymessages
+SpartaLine,from get my start point,test,Keymessages
+GtExampleProcessor,"can return a value, depending on the processor.",test,Keymessages
+WAExpiringCache,#signalerror signal wamaximumnumberofsessionsexceedederror,test,Keymessages
+WAPath,to add to the path use the method wapath pushsegment anobject name lulu .,test,Keymessages
+PRScreenshotAnnotation,file width 50,test,Keymessages
+WAExpiringCache,#removeabsoluteoldest remove the entry that has been created the longest time ago,test,Keymessages
+TROSMShape,"depending on the rtview size and the canvas parameters, get the right tiles from osm and display them.",test,Keymessages
+SpartaLine,to get my end point,test,Keymessages
+WAExpiringCache,maximumrelativeage integer,test,Keymessages
+WALabelledFormDialog,"subclasses need to implment the methods labelforselector , model, and rows.",test,Keymessages
+MalHgNode,children orderedcollection,test,Keymessages
+PPSea,beforewaterparser object,test,Keymessages
+PRInputFileAnnotation,i can have in parameter,test,Keymessages
+WAExpiringCache,number of sessions supported.,test,Keymessages
+PPSea,a ppisland allows for imprecise parsing.,test,Keymessages
+RTScrollBarBuilder,"the default configuration is #isbasic and #isstatic,",test,Keymessages
+WAServerAdaptor,codec wacodec,test,Keymessages
+WALabelledFormDialog,the model method just returns the object whose fields we wish to populate with date.,test,Keymessages
+TSpartaPaint,translateby translate me by a point or a number,test,Keymessages
+TROSMShape,remainderzoom 156543034 rzoom 2 ^ zoomlevel,test,Keymessages
+SpartaCanvas,bitmap create a bitmap factory,test,Keymessages
+MooseEntity,it may be nil if the entity is not part of a model.,test,Keymessages
+RTLabeled,offsetonedge object,test,Keymessages
+PRScreenshotAnnotation,package the targetted package,test,Keymessages
+PMKolmogorovSmirnov1Sample,"#ksstatistic returns kolmogorovs d, calculated as the maximum of d and d , iow it does not !",test,Keymessages
+TSpartaPaint,"if not set, supposed to be identity.",test,Keymessages
+WAExpiringCache,0 for no maximum size.,test,Keymessages
+MooseCustomTask,the main api is then,test,Keymessages
+MooseEntity,it should not change nor be nil.,test,Keymessages
+TROSMShape,position point,test,Keymessages
+SpartaCanvas,path create a path builder,test,Keymessages
+WAExpiringCache,after so many seconds of inactivity a session is considered expired.,test,Keymessages
+MalHgNode,parent malhgnode,test,Keymessages
+MalHgNode,incoming orderedcollection,test,Keymessages
+TROSMShape,this shape represent an openstreetmap background object which tracks the camera zoom level and translation to build a view of the corresponding part of the openstreetmap.,test,Keymessages
+TSpartaPaint,reflect mirror the image,test,Keymessages
+RTScrollBarBuilder,width to set a static size of width.,test,Keymessages
+TDependencyQueries,it includes some generic way to query an entity via its associations.,test,Keymessages
+MalHgNode,incoming,test,Keymessages
+RTPopupTest,a roabstractpopuptest is xxxxxxxxx.,test,Keymessages
+TDependencyQueries,the direction of the navigation incoming outgoing in out,test,Keymessages
+WALabelledFormDialog,^ contact,test,Keymessages
+WAUpTimeTracker,access the timestamp when the image booted as follows,test,Keymessages
+RTSmoothLayoutTranslator,nbcycles,test,Keymessages
+PPDebugParser,xxxxx,test,Keymessages
+PRBookTesterVisitor,checkandreportfilenamed starts the visit in a given file.,test,Keymessages
+MalHgNode,one can also store arbitrary informaition as attributes to a node.,test,Keymessages
+WALabelledFormDialog,asymbol #name iftrue ^ your name .,test,Keymessages
+FMModel,#metadescriptionon allows one to get the meta description of an element.,test,Keymessages
+PPSea,context object,test,Keymessages
+TROSMShape,1000 rzoom 156543034 meters pixel 2 ^ zoomlevel,test,Keymessages
+WAErrorHandler,handleerror,test,Keymessages
+WAFormDecoration,"for each string symbol in the buttons inst var the decorated component must implement a method of the same name, which is called when the button is selected.",test,Keymessages
+PPSea,bwp,test,Keymessages
+PRScreenshotAnnotation,label prfigure label as would be used in a more classic figure inclusion with caption .,test,Keymessages
+RTLabeled,position,test,Keymessages
+WAExpiringCache,0 for no limit.,test,Keymessages
+PRScreenshotAnnotation,method the targetted method,test,Keymessages
+BrExampleColoredElementStencil,i am an example of a custom stencil that creates a rounded rectangular element with cusomizable background color and corner radius,test,Keymessages
+MalHgNode,outgoing,test,Keymessages
+RTLabeled,color,test,Keymessages
+TROSMShape,tiles dictionary of point form,test,Keymessages
+TROSMShape,"take corners of bounding box, get lat long, get tiles x and y based on previous zoom level.",test,Keymessages
+WAPath,"the name arguement is the association key, the segment argument is the association value.",test,Keymessages
+WAExpiringCache,overflowaction,test,Keymessages
+TROSMShape,make remainder zoom a transform inside the trosmshape.,test,Keymessages
+PPSea,beforewaterparser,test,Keymessages
+MooseEntity,"any moose entity should answer its mooseid, its moosename and its moosemodel.",test,Keymessages
+PMStepper,the class method onsystem will assign the system to the stepper.,test,Keymessages
+PPDebugParser,root,test,Keymessages
+GtExampleProcessor,#value execute the processor.,test,Keymessages
+RTLabeled,highlightable,test,Keymessages
+WAEncoder,i encode everything that is written to myself using #nextput and #nextputall onto the wrapped stream.,test,Keymessages
+WAPath,your code is not notified when the user clicks on a link in the wapath object.,test,Keymessages
+BlTextBackgroundAttribute,public api and key messages,test,Keymessages
+SpartaCanvas,transform create a builder to transform canvas,test,Keymessages
+MooseEntity,moosedescription returns the corresponding fm3metadescription instance,test,Keymessages
+RTPopupTest,view object,test,Keymessages
+TROSMShape,zoom,test,Keymessages
+WALabelledFormDialog,rows,test,Keymessages
+SpartaCanvas,clip create a builder to clip canvas by path or rectangle,test,Keymessages
+SpartaCanvas,filters create a common filters factory,test,Keymessages
+PPSea,one can create it on a parser p by calling p island eg,test,Keymessages
+RTLabeled,the label may be particularized using #text in the default string representation is not sufficient.,test,Keymessages
+RTPopupTest,popup,test,Keymessages
+WAFormDecoration,the buttons inst var must be set.,test,Keymessages
+PMKolmogorovSmirnov1Sample,use d max f y i i n .,test,Keymessages
+WAExpiringCache,overflowaction symbol,test,Keymessages
+PPSea,awp,test,Keymessages
+SpartaCanvas,fill create a builder of fill drawing operation,test,Keymessages
+PRBookTesterVisitor,visitcodeblock uses executeandreport creating a prbooktestresult with the result of the evaluation of the codeblock.,test,Keymessages
+BlElementSelectionAcquiredEvent,is sent when element gets inside of mouse selection rectangle or when the overlapping rectangle formed by element s bounds and selection rectangle changes.,test,Collaborators
+WACookie,compared to warequestcookie i represent the information that is sent to the user agent.,test,Collaborators
+BlElementPositionChangedEvent,is sent when element s position within its parent changes.,test,Collaborators
+FMModel,this class is described by an entity of my meta model.,test,Collaborators
+BlTime,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action.,test,Collaborators
+WAPainterVisitor,an implementation of the visitor pattern for painter subclasses.,test,Collaborators
+BlMorphicWindowOpenedEvent,i am fired by morphic host window when it is opened in the world,test,Collaborators
+ManifestFamixPharoSmalltalkEntities,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser,test,Collaborators
+RTAxisRenderer,it simply render in a view an axis configuration,test,Collaborators
+WAComboResponse,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections .,test,Collaborators
+RTVerticalMultipleData,rtverticalmultipledata represents a group of data points that are vertically located.,test,Collaborators
+RTResizeCanceled,collaborators,test,Collaborators
+BlMorphicWindowHost,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows,test,Collaborators
+PRParameter,my key is instance of prparameterkey and its associated vaue is an instance of prparametervalue.,test,Collaborators
+RTAbstractTreeBuilder,rttreemapbuilder,test,Collaborators
+BlMouseMoveEvent,the mouse move event is fired when a pointing device usually a mouse is moved while over an element.,test,Collaborators
+GtGraphEdgesIterator,i am an abstract iterator over edges connected to a graph element,test,Collaborators
+GtDiagrammerEditorList,i fetch data from the diagrammer editor data source,test,Collaborators
+PRScreenshotAnnotation,i am used in a prdocument to include a prpicture and add a png file to the figures chapter subfolder.,test,Collaborators
+WAPath,"the association value is an object of your choosing, which your code uses to restore that page .",test,Collaborators
+PMImplicitAnnouncer,an implicitannouncer is used by odesolver to announce step results implicitsolverannouncement .,test,Collaborators
+WAUpTimeTracker,access the timestamp when the image booted as follows,test,Collaborators
+GtExampleInstanceSubject,i am the default subject of an example.,test,Collaborators
+RTAbstractTreeBuilder,rtbundlebuilder,test,Collaborators
+BlTextElementMeasurementStrategyExamples,"class bltextelement provides different text measurement strategies, each suitable for a specific use case.",test,Collaborators
+PPDebugParser,used by adding enabledebug before parsing.,test,Collaborators
+GtGraphTreemapSquarify,i use method gtgraphtreemapnode #weight node values to split an area into.,test,Collaborators
+TSpartaPaint,sparta canvas provides a paint builder that should be used to build concerete paints.,test,Collaborators
+WAPath,"wapath maintains a stack of associations, one for each location or page in the path.",test,Collaborators
+BlGeometry,the geometry is used to define the geometry to be drawn and the interaction area.,test,Collaborators
+BrLook,in addition to the brviewmodel i listen to ui events and update decoration non meaningful elements of the widgets,test,Collaborators
+GtGraphTreemapSliceHorizontalLayout,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents.,test,Collaborators
+BlInfiniteSmoothScrollerAction,i hold information about a smooth scroll request by a smoothscroller.,test,Collaborators
+BlMorphicSpaceHostMorph,i act as a space host for a bloc space,test,Collaborators
+BlUniverseEvent,i am an event that is sent to the universe by the host to control the universe s lifecycle,test,Collaborators
+WAHtmlHaltAndErrorHandler,"this exception handler also catches halts, in order to prevent debugger windows from popping up and blocking server processes in deployed images.",test,Collaborators
+GtGraphTreemapLayoutConstraints,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout.,test,Collaborators
+BlTextUnderlineAttribute,i am used together with class bltext and class tbltextstyleable to style text.,test,Collaborators
+RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,test,Collaborators
+WAComboResponse,an uncommitted response should be handled as usual by the server adapter.,test,Collaborators
+GtRlCommitAndTagReleaseAction,i only work with strategies of type class gtrlsemantictagreleasestrategy .,test,Collaborators
+MorphicRoassalAdapter,i am bridging roassalmodel and rtview,test,Collaborators
+GtRlReleaseConfiguration,i am used by a class gtrlreleasebuilder to create a new release.,test,Collaborators
+BlMouseProcessor,i convert basic events to more complex events.,test,Collaborators
+PRPillarParserOld,i use the prpillargrammar and i build a prdocument.,test,Collaborators
+PRPillarParserMain,"if possible, i will use a compiled version of prpillarparser.",test,Collaborators
+BlInfiniteDataSourceItemRangeMoved,addeventhandleron blinfinitedatasourceitemrangemoved,test,Collaborators
+FMModel,i have a meta model containing descriptions of my content.,test,Collaborators
+GtRlReleaseConfiguration,"users can configure default options that apply to all repositories from a release, or configure options for individual repositories.",test,Collaborators
+WAFormDecoration,a waformdecoration places its component inside an html form tag.,test,Collaborators
+MalTerms,"copyright c , 2004 2007 adrian kuhn.",test,Collaborators
+MalDendrogramNode,this class is part of hapax.,test,Collaborators
+PackageBlueprintTestResource,i am a test resource building a famixstmodel with the package blueprint test resource entities.,test,Collaborators
+GtConnectorButtonCreatedEvent,i allow connector to be notified and attach its own additional handlers to newly created button,test,Collaborators
+GtDiagrammerEditorList,i display a list of editors of an object in a vertical list.,test,Collaborators
+FMModel,a fmmodel has a fmmetamodel as meta model which has a fmmetametamodel has metamodel.,test,Collaborators
+BrTabAddedEvent,i am sent when a new tab is added to class brtabgroupmodel,test,Collaborators
+WAPath,the association key is the text that is displayed in the breadcrimb.,test,Collaborators
+RTAbstractTreeBuilder,i am a base class for some builders of roassal like,test,Collaborators
+BrTextEditorSelectionRecorder,additionally i play a role of a selection strategy to support single or multiple selection.,test,Collaborators

@@ -1,0 +1,61 @@
+,comment_sentence,partition,category
+1870,is sent when element gets inside of mouse selection rectangle or when the overlapping rectangle formed by element s bounds and selection rectangle changes.,1,Collaborators
+1871,compared to warequestcookie i represent the information that is sent to the user agent.,1,Collaborators
+1872,is sent when element s position within its parent changes.,1,Collaborators
+1873,this class is described by an entity of my meta model.,1,Collaborators
+1874,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action.,1,Collaborators
+1875,an implementation of the visitor pattern for painter subclasses.,1,Collaborators
+1876,i am fired by morphic host window when it is opened in the world,1,Collaborators
+1877,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser,1,Collaborators
+1878,it simply render in a view an axis configuration,1,Collaborators
+1879,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections .,1,Collaborators
+1880,rtverticalmultipledata represents a group of data points that are vertically located.,1,Collaborators
+1881,collaborators,1,Collaborators
+1882,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows,1,Collaborators
+1883,my key is instance of prparameterkey and its associated vaue is an instance of prparametervalue.,1,Collaborators
+1884,rttreemapbuilder,1,Collaborators
+1885,the mouse move event is fired when a pointing device usually a mouse is moved while over an element.,1,Collaborators
+1886,i am an abstract iterator over edges connected to a graph element,1,Collaborators
+1887,i fetch data from the diagrammer editor data source,1,Collaborators
+1888,i am used in a prdocument to include a prpicture and add a png file to the figures chapter subfolder.,1,Collaborators
+1889,"the association value is an object of your choosing, which your code uses to restore that page .",1,Collaborators
+1890,an implicitannouncer is used by odesolver to announce step results implicitsolverannouncement .,1,Collaborators
+1891,access the timestamp when the image booted as follows,1,Collaborators
+1892,i am the default subject of an example.,1,Collaborators
+1893,rtbundlebuilder,1,Collaborators
+1894,"class bltextelement provides different text measurement strategies, each suitable for a specific use case.",1,Collaborators
+1895,used by adding enabledebug before parsing.,1,Collaborators
+1896,i use method gtgraphtreemapnode #weight node values to split an area into.,1,Collaborators
+1897,sparta canvas provides a paint builder that should be used to build concerete paints.,1,Collaborators
+1898,"wapath maintains a stack of associations, one for each location or page in the path.",1,Collaborators
+1899,the geometry is used to define the geometry to be drawn and the interaction area.,1,Collaborators
+1900,in addition to the brviewmodel i listen to ui events and update decoration non meaningful elements of the widgets,1,Collaborators
+1901,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents.,1,Collaborators
+1902,i hold information about a smooth scroll request by a smoothscroller.,1,Collaborators
+1903,i act as a space host for a bloc space,1,Collaborators
+1904,i am an event that is sent to the universe by the host to control the universe s lifecycle,1,Collaborators
+1905,"this exception handler also catches halts, in order to prevent debugger windows from popping up and blocking server processes in deployed images.",1,Collaborators
+1906,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout.,1,Collaborators
+1907,i am used together with class bltext and class tbltextstyleable to style text.,1,Collaborators
+1908,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,1,Collaborators
+1909,an uncommitted response should be handled as usual by the server adapter.,1,Collaborators
+1910,i only work with strategies of type class gtrlsemantictagreleasestrategy .,1,Collaborators
+1911,i am bridging roassalmodel and rtview,1,Collaborators
+1912,i am used by a class gtrlreleasebuilder to create a new release.,1,Collaborators
+1913,i convert basic events to more complex events.,1,Collaborators
+1914,i use the prpillargrammar and i build a prdocument.,1,Collaborators
+1915,"if possible, i will use a compiled version of prpillarparser.",1,Collaborators
+1916,addeventhandleron blinfinitedatasourceitemrangemoved,1,Collaborators
+1917,i have a meta model containing descriptions of my content.,1,Collaborators
+1918,"users can configure default options that apply to all repositories from a release, or configure options for individual repositories.",1,Collaborators
+1919,a waformdecoration places its component inside an html form tag.,1,Collaborators
+1920,"copyright c , 2004 2007 adrian kuhn.",1,Collaborators
+1921,this class is part of hapax.,1,Collaborators
+1922,i am a test resource building a famixstmodel with the package blueprint test resource entities.,1,Collaborators
+1923,i allow connector to be notified and attach its own additional handlers to newly created button,1,Collaborators
+1924,i display a list of editors of an object in a vertical list.,1,Collaborators
+1925,a fmmodel has a fmmetamodel as meta model which has a fmmetametamodel has metamodel.,1,Collaborators
+1926,i am sent when a new tab is added to class brtabgroupmodel,1,Collaborators
+1927,the association key is the text that is displayed in the breadcrimb.,1,Collaborators
+1928,i am a base class for some builders of roassal like,1,Collaborators
+1929,additionally i play a role of a selection strategy to support single or multiple selection.,1,Collaborators

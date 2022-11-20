@@ -1,0 +1,165 @@
+,comment_sentence,partition,category
+994,"p x, a island, y accepts following inputs",0,Keymessages
+995,cancel,0,Keymessages
+996,my tag is inputfile .,0,Keymessages
+997,buttons collection of strings or symbols,0,Keymessages
+998,at system startup the imageboottime is re set automatically.,0,Keymessages
+999,"each entity belongs to one and only one model, if an entity has not yet been added to a model or if an entity has been removed from a model the moosemodel is undefined, that is it may be nil.",0,Keymessages
+1000,move object,0,Keymessages
+1001,color object,0,Keymessages
+1002,the bar shape is defined by #barshape #abox or default value #anellipse,0,Keymessages
+1003,message one,0,Keymessages
+1004,tiles,0,Keymessages
+1005,user supplied data is placed in the data model.,0,Keymessages
+1006,repeat repeat in both x and y axis,0,Keymessages
+1007,when this limit is reached the overflow action is run.,0,Keymessages
+1008,nbcycles object,0,Keymessages
+1009,access the duration how long ago the image booted as follows,0,Keymessages
+1010,stroke create a builder of stroke drawing operation,0,Keymessages
+1011,method gtrlreleaseconfiguration #defaultversionnumber the version number to use in case there are no previous releases in a repository.,0,Keymessages
+1012,rotatebydegrees rotate me by amount of degrees clockwise,0,Keymessages
+1013,context,0,Keymessages
+1014,model,0,Keymessages
+1015,api,0,Keymessages
+1016,text,0,Keymessages
+1017,columncount anumber to specify amount of columns,0,Keymessages
+1018,self answer contact,0,Keymessages
+1019,solve system x0 astate t0 starttime t1 endtime,0,Keymessages
+1020,method gtprototasker #addtask expanded true,0,Keymessages
+1021,override the buttons method to change the text or number of submit buttons on the form.,0,Keymessages
+1022,users should configure me with a #sourceclass .,0,Keymessages
+1023,my parameters are,0,Keymessages
+1024,"list of strings or symbols, each string symbol is the label first letter capitalized for a button and the name of the callback method on component when button is pressed,",0,Keymessages
+1025,canvas,0,Keymessages
+1026,here is a list of available icons,0,Keymessages
+1027,method gtrlreleaseconfiguration #forcenewrelease force a new release in a repository even if there no new changes in that repository and all dependencies did not change.,0,Keymessages
+1028,set clipping rectangle to trosmshape bounds.,0,Keymessages
+1029,"so when you render a page call wapath currentsegment to get the current object, and generate the page accordingly.",0,Keymessages
+1030,#rejectequalityhypothesiswithalpha does what its name says of course.,0,Keymessages
+1031,asform to rasterize myself and return resulting image as form,0,Keymessages
+1032,#removerelativeoldest remove the entry that hasn t been accessed for the longest time,0,Keymessages
+1033,i define an api of an abstract paint.,0,Keymessages
+1034,important api,0,Keymessages
+1035,similar to create an empty canvas of size anextent and of the same type and format,0,Keymessages
+1036,maximumabsoluteage integer,0,Keymessages
+1037,"the default randomgenerator is pmrandom, but can be modified.",0,Keymessages
+1038,interval,0,Keymessages
+1039,method gtrlreleaseconfiguration #defaultversioncomputation the strategy for computing the next version number in case a version already exists.,0,Keymessages
+1040,level number,0,Keymessages
+1041,zoomlevel ln 156543034 rzoom ln 2,0,Keymessages
+1042,maximumabsoluteage,0,Keymessages
+1043,wauptimetracker imageuptime.,0,Keymessages
+1044,rowcount anumber to specify amount of rows,0,Keymessages
+1045,"alignmargins bounds of each element are extended outwards, according to their margins, before the edges of the resulting rectangle are aligned.",0,Keymessages
+1046,zoom point,0,Keymessages
+1047,repeatx repeat only x axis,0,Keymessages
+1048,handlewarning,0,Keymessages
+1049,i define an api of a layout.,0,Keymessages
+1050,font create a font build helper,0,Keymessages
+1051,stroke options are used in stroking operations.,0,Keymessages
+1052,island object,0,Keymessages
+1053,compute the osm zoom level with the camera zoom value .,0,Keymessages
+1054,"e @ rtlabeled new text value my value is , value asstring .",0,Keymessages
+1055,the api offer the possibility to query an entity with three parameters,0,Keymessages
+1056,rotatebyradians rotate me by amount of radians clockwise,0,Keymessages
+1057,for bonus points how to create instances.,0,Keymessages
+1058,r zoom to osm zoom level base is 1km pixel,0,Keymessages
+1059,filter create a builder of filter drawing operation,0,Keymessages
+1060,class brglamorousicons show gticonsfor expanded,0,Keymessages
+1061,message two,0,Keymessages
+1062,i understand the usual matrix operations.,0,Keymessages
+1063,maximumrelativeage,0,Keymessages
+1064,only matters when the maximum size is bigger than 0.,0,Keymessages
+1065,rectangle rectangle,0,Keymessages
+1066,maximumsize integer,0,Keymessages
+1067,interval interval,0,Keymessages
+1068,"from the camera, get the zoom level and offset.",0,Keymessages
+1069,higraph,0,Keymessages
+1070,wauptimetracker imageboottime.,0,Keymessages
+1071,attributes,0,Keymessages
+1072,bwp object,0,Keymessages
+1073,it does not have to be unique,0,Keymessages
+1074,the main interface once the solver is set up it has a stepper and a solver is,0,Keymessages
+1075,aving an orientation #vertical or #horizontal.,0,Keymessages
+1076,highlightable object,0,Keymessages
+1077,attributes dictionary,0,Keymessages
+1078,a rttextword represents one word of an original text.,0,Keymessages
+1079,paint set background paint,0,Keymessages
+1080,after so many seconds after its creation a session is considered expired no matter when it was last accessed.,0,Keymessages
+1081,mooseid is an integer that uniquely identifies this entity within the entire moose environment.,0,Keymessages
+1082,the input represented by dots is called water and water can appear before and after the island.,0,Keymessages
+1083,view,0,Keymessages
+1084,"paint create a paint builder linear, radial gradients",0,Keymessages
+1085,text create a text rendering builder,0,Keymessages
+1086,"scaleby scale me by a factor, a point or a number.",0,Keymessages
+1087,offsetonedge,0,Keymessages
+1088,has to be positive.,0,Keymessages
+1089,width prfigure width as would be used in a more classic figure inclusion with caption .,0,Keymessages
+1090,spartaline from 10@10 to 20@20,0,Keymessages
+1091,method gtrlreleaseconfiguration #defaultreleasebranchname the branch name on which to perform the release.,0,Keymessages
+1092,root result of root parser,0,Keymessages
+1093,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle.,0,Keymessages
+1094,level,0,Keymessages
+1095,i do the hard job of visually updating selection by requesting segment holders to partially update themselves,0,Keymessages
+1096,island,0,Keymessages
+1097,popup object,0,Keymessages
+1098,maximumsize,0,Keymessages
+1099,extent get my size width@height,0,Keymessages
+1100,it is generated automatically during the creation of the mooseentity.,0,Keymessages
+1101,xxxxx,0,Keymessages
+1102,with ablock description adescription length anumber,0,Keymessages
+1103,caption the caption that will appear under my figure in the final book,0,Keymessages
+1104,possible values,0,Keymessages
+1105,i transform composite key combination formula into a cnf https en^wikipedia.org wiki conjunctive normal form,0,Keymessages
+1106,"the larger the number, the deeper down in the hierarchy the node is located.",0,Keymessages
+1107,afterwaterparser,0,Keymessages
+1108,codec,0,Keymessages
+1109,#codec,0,Keymessages
+1110,interval of the word in the original text,0,Keymessages
+1111,"contact class used above has instance variables name, phonenumber with standard getter and setter methods",0,Keymessages
+1112,alignbounds alignment is made between the edges of each component s raw bounds,0,Keymessages
+1113,a rosmoothlayouttranslator is xxxxxxxxx.,0,Keymessages
+1114,rectangle,0,Keymessages
+1115,file label aa,0,Keymessages
+1116,"the bar can have a specificity like #scalable, so it give an idea of the size of the view.",0,Keymessages
+1117,position,0,Keymessages
+1118,afterwaterparser object,0,Keymessages
+1119,empty collection if the node is a leaf in the hierarchy.,0,Keymessages
+1120,#query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children.,0,Keymessages
+1121,position object,0,Keymessages
+1122,labelforselector asymbol,0,Keymessages
+1123,outgoing orderedcollection,0,Keymessages
+1124,mandatory methods are,0,Keymessages
+1125,scale,0,Keymessages
+1126,cellspacing anumber to specify spacing between cells,0,Keymessages
+1127,awp object,0,Keymessages
+1128,self answer,0,Keymessages
+1129,my main api methods for setting other default options are,0,Keymessages
+1130,#querylocal asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver.,0,Keymessages
+1131,class the targetted class,0,Keymessages
+1132,asymbol #phonenumber iftrue ^ phone number .,0,Keymessages
+1133,the scale of the shape,0,Keymessages
+1134,text string text,0,Keymessages
+1135,ok,0,Keymessages
+1136,the main method is #tag that allow you to write something like this,0,Keymessages
+1137,given a data model walabelledformdialog displays a label and input field for each instance variable of interest.,0,Keymessages
+1138,move,0,Keymessages
+1139,i do not enforce a lazy api.,0,Keymessages
+1140,public api and key messages,0,Keymessages
+1141,buttons,0,Keymessages
+1142,scale point,0,Keymessages
+1143,i define an api of stroke options object.,0,Keymessages
+1144,the symbol is used generate the accessor methods for the data in the model.,0,Keymessages
+1145,the rows method returns a collections of symbols.,0,Keymessages
+1146,"transformation to get current transformation matrix, can not be mil",0,Keymessages
+1147,text object,0,Keymessages
+1148,these are subclasses of class gtrlsemanticversioncomputation,0,Keymessages
+1149,canvas object,0,Keymessages
+1150,moosename returns a symbol that should qualify the current entity.,0,Keymessages
+1151,method gtprototasker #flush expanded true,0,Keymessages
+1152,repeaty repeat only y axis,0,Keymessages
+1153,#canprocess verifies if the processor can execute on the given example.,0,Keymessages
+1154,bounds of the shape,0,Keymessages
+1155,"shape create a common shapes factory ellipse, rounded rectangle, etc",0,Keymessages
+1156,higraph malhierarchicalgraph,0,Keymessages
+1157,dictionary to attach arbitrary information to a node,0,Keymessages

@@ -1,0 +1,483 @@
+,comment_sentence,partition,category
+147,cancel,0,Example
+148,v shape es,0,Example
+149,text measurement strategies,0,Example
+150,example brexamplesshowroom #materialreversedtoggle,0,Example
+151,toggles,0,Example
+152,ds points rtshape withallsubclasses.,0,Example
+153,fca malformalcontext new.,0,Example
+154,"example f x,y x^2 y",0,Example
+155,lineshape attachpoint rtshorterdistanceattachpoint instance .,0,Example
+156,user supplied data is placed in the data model.,0,Example
+157,list # roger pete,0,Example
+158,prexportbuilder new,0,Example
+159,10 factorial,0,Example
+160,blpolygon vertices,0,Example
+161,methodsnames #rtmethods,0,Example
+162,this is achieved by means of pragmas,0,Example
+163,self answer contact,0,Example
+164,"also for the path, the complete path from the project directory.",0,Example
+165,"you can do the last one in two ways, either by specifying a block via #cdf or by specifying a distribution with concrete parameters via #populationdistribution .",0,Example
+166,b d,0,Example
+167,", cn .",0,Example
+168,malformalcontext mammals2 computeconcepts,0,Example
+169,a .,0,Example
+170,.,0,Example
+171,highlightobjects #subclasses.,0,Example
+172,v addall elements.,0,Example
+173,"next, we build the editor",0,Example
+174,b v,0,Example
+175,labelblock item item 1 iftrue first iffalse item asuppercase .,0,Example
+176,150@40.,0,Example
+177,"use it, if you don t want to define all the grammar rules and you want to skip something.",0,Example
+178,c vertical fitcontent .,0,Example
+179,metamodel afmmetamodel the meta model describing my entities.,0,Example
+180,^b view,0,Example
+181,when you type on the command line,0,Example
+182,classes collection withallsubclasses reversesortedas #numberofmethods first 10.,0,Example
+183,"for example, if you have yourentity that subclasses mooseentity, you can extend it with",0,Example
+184,example,0,Example
+185,blur canvas gaussianblurfilter,0,Example
+186,edges add rtdecoratedline new filleddiamondhead emptycircletail color color red width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,Example
+187,"and add circles one by one, starting with a larger one.",0,Example
+188,brtextbackgroundattribute paint color yellow,0,Example
+189,e2 translateby 30 @ 60.,0,Example
+190,close,0,Example
+191,users can also customise nose angle that tells how wide should the arrow lines be spread.,0,Example
+192,fill previously created path fith linear gradient,0,Example
+193,terms addstring string using camelcasescanner new.,0,Example
+194,b,0,Example
+195,to initialize the subjects of an example i call #gtexamplesubjects on the provider object.,0,Example
+196,example gtgraphcircleenclosureexamples #enclosurewithtwocircles previewshow #gtpreviewfor previewexpanded previewheight 300,0,Example
+197,b edges movebehind connectfrom #superclass.,0,Example
+198,g,0,Example
+199,b strategy rtsunburstextentstrategy new extent 800@800 .,0,Example
+200,s rtarrowedline new color color black.,0,Example
+201,rendercontenton acanvas,0,Example
+202,self openon moosemodel root allmodels last allmodelclasses,0,Example
+203,b rtumlclassbuilder new,0,Example
+204,will return a mooseincomingqueryresult containing the famixassociation having afamixclass as target,0,Example
+205,v,0,Example
+206,margin blinsets all 3,0,Example
+207,example gtgraphcircleenclosureexamples #emptyenclosure previewshow #gtpreviewfor previewheight 300,0,Example
+208,language smalltalk,0,Example
+209,initialize,0,Example
+210,b lineshape color color black.,0,Example
+211,l s edgefrom e1 to e2.,0,Example
+212,context fca with model allmodelclasses using #yourself using cl cl methods collect m m name .,0,Example
+213,"a, b and c are parametertype of aclass.",0,Example
+214,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass or its children as target,0,Example
+215,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod or its children as source,0,Example
+216,the input represented by dots is called water and water can appear before and after the island.,0,Example
+217,example brexamplesshowroom #materialicontoggle,0,Example
+218,canvas transform,0,Example
+219,translateby 100@25,0,Example
+220,the example below shows a scenario of combining multiple ways to iterate over children.,0,Example
+221,i am an event handler registry used by dispatchers in order to manage event handlers.,0,Example
+222,example gtgraphcircleenclosureexamples #enclosurewithonecircle previewshow #gtpreviewfor previewexpanded previewheight 300,0,Example
+223,export,0,Example
+224,transcript clear.,0,Example
+225,ds rtdata new.,0,Example
+226,source filter3,0,Example
+227,source filter4,0,Example
+228,source filter1,0,Example
+229,method bltextelement #editormeasurement,0,Example
+230,iftrue examples add met time,0,Example
+231,callback v contact name v,0,Example
+232,"the goal of this tutorial is to create an element with an arrow like pointer in the middle of the top edge, as shown below",0,Example
+233,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape #moveby to the topedge,0,Example
+234,lineargradient canvas paint lineargradient,0,Example
+235,"however, sometimes we want to know the exact and precise text bounds.",0,Example
+236,labelled toggle,0,Example
+237,begin 50@100,0,Example
+238,thus being said by swapping the label and icon look we can move the icon to the right from the label,0,Example
+239,"then, we attach text to the enditor.",0,Example
+240,the state instance variable provides a mechanism for extending the state of entities.,0,Example
+241,apply filter on the whole canvas,0,Example
+242,b view @ rtfilterinview.,0,Example
+243,v add e1 add e2 add e3 add edge.,0,Example
+244,canvas stroke,0,Example
+245,"for example, i generate events like click, dbl click, drag&drop, .",0,Example
+246,"next, we create an editor element.",0,Example
+247,we can compose label and icon looks to create a toggle button with both label and the icon.,0,Example
+248,here is an example,0,Example
+249,value ar fifth asnumber ar second asnumber ar second asnumber.,0,Example
+250,"for example, class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included.",0,Example
+251,add b2,0,Example
+252,add b1,0,Example
+253,merge filter primitive is just a composite filter with over composion mode.,0,Example
+254,given a data model walabelledformdialog displays a label and input field for each instance variable of interest.,0,Example
+255,example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep previewexpanded true nocode,0,Example
+256,over,0,Example
+257,"for example, yourentity could have",0,Example
+258,b addobjects collection withallsubclasses .,0,Example
+259,b tab colors dictionary,0,Example
+260,v open,0,Example
+261,the symbol is used generate the accessor methods for the data in the model.,0,Example
+262,"shape rtrotatedlabel new text c class , c name angleindegree c c numberofmethods 360 .",0,Example
+263,here you can see how to configure a fire and check a click event on a child element,0,Example
+264,v addall es.,0,Example
+265,addition of the next area 2 however does not improve the result as the worst aspect ratio increases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep label #worstvaluerounded,0,Example
+266,b rtobjectbrowser new.,0,Example
+267,example gtgraphcircleenclosureexamples #enclosurewiththreecircles previewshow #gtpreviewfor previewexpanded previewheight 300,0,Example
+268,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true previewshow #gtpreviewfor,0,Example
+269,a circle enclosure is represented by a cyan circle.,0,Example
+270,dictionary dictionary new.,0,Example
+271,input list browsers,0,Example
+272,the worst aspect ratio decreases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded,0,Example
+273,picker display hello .,0,Example
+274,mseclass #yourentity super #mooseentity,0,Example
+275,"p x, a island, y accepts following inputs",0,Example
+276,creating a rectangle shape,0,Example
+277,parent blelement new.,0,Example
+278,slots #parenttype fmone type #famixtwithmethods opposite #methods,0,Example
+279,g rtgrapher new.,0,Example
+280,b rtmondrian new.,0,Example
+281,"there is no perfect strategy, therefore understanding the differences between them is an important step in learning how to work with text in bloc.",0,Example
+282,10@50.,0,Example
+283,d barchartwithbartitle #first rotation 30.,0,Example
+284,e2 translateby 80 @ 50.,0,Example
+285,e2 @ rtdraggable.,0,Example
+286,am .,0,Example
+287,dictionary at ar first asdate put value .,0,Example
+288,b rtsunburstbuilder new.,0,Example
+289,", cn famixjava entities.",0,Example
+290,"tab rttabtable new input http bl^ocks.org mbostock raw 4063318 dji^csv asurl retrievecontents usingdelimiter ,.",0,Example
+291,model,0,Example
+292,conslusion,0,Example
+293,we can do so by sending a method bllineshape #splitat to the now middle section of the topedge which was created by the previous line injection step,0,Example
+294,adocument gt2documentexamples new documentwithexistingclass.,0,Example
+295,smalltalk collection class hierarchy,0,Example
+296,in step 4 we add the rectangle with area 4,0,Example
+297,printer,0,Example
+298,the height is computed as a sum of ascent and descent.,0,Example
+299,picker when brtoggleactivatedevent do anevent self inform anevent model .,0,Example
+300,for moose models,0,Example
+301,c horizontal exact 400.,0,Example
+302,"please note, that since the width is precise and depends on the content, whitespace is not taken into account when computing the width of the text element.",0,Example
+303,lineto 0@200,0,Example
+304,displayingprogress running examples .,0,Example
+305,example bltextelementmeasurementstrategyexamples #textelementwithlabelmeasurement nocode previewshow #gtlivefor previewheight 100,0,Example
+306,"it may be useful for displaying a short piece of a text, usually a word centered within a larger element.",0,Example
+307,nd dhbnormaldistribution new.,0,Example
+308,pmlinesearch function funblock valueatzero g0 derivativeatzero dg0 valueatone g1 evaluate.,0,Example
+309,parent removechild child,0,Example
+310,do each,0,Example
+311,example bltextelementmeasurementstrategyexamples #textelementwitheditormeasurement nocode previewshow #gtlivefor previewheight 100,0,Example
+312,# 253 174 97 # 254 224 139 # 255 255 191 # 217 239 139,0,Example
+313,methodselector #selector,0,Example
+314,ks rejectequalityhypothesiswithalpha 005.,0,Example
+315,i am the installer of shared libraries along side image or vm.,0,Example
+316,path triangle,0,Example
+317,b edges connectfrom #superclass.,0,Example
+318,example brtexteditorexamples #neweditor,0,Example
+319,paint color blue,0,Example
+320,b monthshape shape b monthshapepath 150 .,0,Example
+321,ds dotshape color color blue trans.,0,Example
+322,mallatticepatterns on treillis reportmodules.,0,Example
+323,inputfile myfile^pillar,0,Example
+324,comp add rtbox new color color transparent .,0,Example
+325,flush before starting search to give immediate feedback,0,Example
+326,canvas spartacanvas extent 400@250.,0,Example
+327,apply.,0,Example
+328,b layout radial.,0,Example
+329,1 inspect run example,0,Example
+330,paint lineargradient,0,Example
+331,afamixclass querylocal #in with famixinheritance.,0,Example
+332,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target,0,Example
+333,brglamorousicons importiconsfromdirectory .,0,Example
+334,do example,0,Example
+335,https github^com syrel sparta raw master images spartacanvas 03 fill path^png label fillpath,0,Example
+336,render the search page,0,Example
+337,example gtexamples do met time builder,0,Example
+338,b view @ rtdraggableview.,0,Example
+339,you can also add some transformations to the output like,0,Example
+340,d rtverticalmultipledata new.,0,Example
+341,example gtgraphtreemaplayoutexamples #squarifywithsevennodesseventhstep previewexpanded true nocode,0,Example
+342,rtabstractexample subclasses collect #new,0,Example
+343,famixcompatibilitygenerator resetmetamodel.,0,Example
+344,pharo ui pillar^image pillar export to latex chapters chapter1 chapter1^pillar,0,Example
+345,rtlinedecorationexample new installtitle cool,0,Example
+346,b add d.,0,Example
+347,nodes b nodes collection withallsubclasses .,0,Example
+348,d barchartwithbartitle #name rotation 30.,0,Example
+349,lineshape controlelement e3.,0,Example
+350,show gtprintin,0,Example
+351,https github^com syrel sparta raw master images spartacanvas 04 stroke path^png label strokepath,0,Example
+352,"the problem with such solution is its exponential increase in compolexity each time we would like to parametrize and customize the resulting geometry, for example the size of the arrow or its horizontal position.",0,Example
+353,example brtexteditorexamples #newtext,0,Example
+354,"even more compex would be to implement the support for positioning the arrow on different edges eg left, bottom or an ability to have multiple arrows on separate edges.",0,Example
+355,picker,0,Example
+356,"for example, evaluating an example is to be treated differently from a debugging scenario, or from a scenario to recorver static dependencies.",0,Example
+357,filter rtfilterinview new.,0,Example
+358,rtgridlayout on es.,0,Example
+359,translateto 400 @ 0,0,Example
+360,e3 @ rtdraggable.,0,Example
+361,# 166 217 106 # 102 189 99 # 26 152 80 # 0 104 55,0,Example
+362,example brtexteditorexamples #newelement show gtlivein,0,Example
+363,b2 rtbox new,0,Example
+364,es shape elementson collection withallsubclasses.,0,Example
+365,"suppose we have a rectangle with width example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #width and height example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #height , and furthermore suppose that this rectangle must be subdivided in seven rectangles with areas example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #nodevalues .",0,Example
+366,self rendersearchlabelon acanvas.,0,Example
+367,let s add the third circle to our enclosure to see the result,0,Example
+368,stroke triangle with blue color,0,Example
+369,then projection of that point on continuous x axis would be 20 and projection on y axis would be 30.,0,Example
+370,collect ar color r ar first g ar second b ar third range 255 .,0,Example
+371,index value 11 01 1.,0,Example
+372,d addmetric #numberoflinesofcode.,0,Example
+373,msecomment the yourentity smalltalk class has a correspondent yourentity meta entity in the fame world,0,Example
+374,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod as source,0,Example
+375,code,0,Example
+376,d points # # hello 1 2 1 # world 2 4 2 # bonjour 3 5 4 # bonjour 3 5 4 # bonjour 3 5 4 .,0,Example
+377,world .,0,Example
+378,we just need to split an injected line in half in order to create the top corner of the rectangle.,0,Example
+379,example blchildrensubsetexamples #childrenwithmultiplecombinedsubsets,0,Example
+380,builder example perform met selector.,0,Example
+381,asymbol #phonenumber iftrue ^ phone number .,0,Example
+382,method bltextelement #tightmeasurement does exactly that and clips off any white space surrounding the text.,0,Example
+383,the first step of our algorithm is to split the initial rectangle.,0,Example
+384,b1 rtbox new,0,Example
+385,b boxshape bordercolor color black.,0,Example
+386,ok,0,Example
+387,after doing so we receive the expected vector shape we we can later use together with class blshapegeometry,0,Example
+388,buttons,0,Example
+389,printer stream contents,0,Example
+390,g add ds.,0,Example
+391,the rows method returns a collections of symbols.,0,Example
+392,for example if one wants to fill a path with a paint she needs to send #fill message to canvas to get a fill builder painter .,0,Example
+393,where aclass is a parameterizableclass.,0,Example
+394,diagrammer,0,Example
+395,e1 s elementon begin .,0,Example
+396,"public class aclass a,b,c",0,Example
+397,asdictionary,0,Example
+398,to do so we should send method blpointshape #moveby to the connection point of the splitted line in the middle of the topedge .,0,Example
+399,method gtgraphcircleenclosure class #enclosure and and is responsible for the computation.,0,Example
+400,extension mechanism,0,Example
+401,see method gtrlbaselinetagreleasestrategy #assertcompatiblewithrepository for assertions that check when i can be used.,0,Example
+402,edges add rtarrowedline new head rtfilleddiamond ashead color color black width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,Example
+403,"we choose for a horizontal subdivision, because the original rectangle is wider than high.",0,Example
+404,data fca context lattice,0,Example
+405,v rtview new.,0,Example
+406,picker shape astring brtoggle new,0,Example
+407,html select,0,Example
+408,parent addchild child.,0,Example
+409,rectangle geometry with arrow pointer,0,Example
+410,i am a model used in the scope of fame.,0,Example
+411,this is an important mechanism to enable extensibility and modularity.,0,Example
+412,e2 s elementon end .,0,Example
+413,example blrectangleshapewitharrowexplanation #rectanglewithtoppolylinesplitinhalf previewshow #gtlivefor previewexpanded true previewheight 250,0,Example
+414,these steps are repeated until all rectangles have been processed.,0,Example
+415,g value # 1 1 .,0,Example
+416,dictionary dictionary newfrom,0,Example
+417,@ rtdraggable.,0,Example
+418,mseproperty #yourextendingattribute type #yourtype,0,Example
+419,i am used as follows in a document,0,Example
+420,precise measurement,0,Example
+421,element,0,Example
+422,picker constraintsdo c,0,Example
+423,b build.,0,Example
+424,afamixclass query #in with famixinheritance.,0,Example
+425,i .,0,Example
+426,"do event self inform item was moved from , event from asstring, to , event to asstring",0,Example
+427,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod or its children as source,0,Example
+428,look brmaterialtogglelabelledlook,0,Example
+429,example using the spawn block,0,Example
+430,note that the order of looks defines the visual order of the label and icon,0,Example
+431,# 12 9,0,Example
+432,stops 0 color red.,0,Example
+433,attributeselector #yourself.,0,Example
+434,end 150@200,0,Example
+435,"e @ rtlabeled new text value my value is , value asstring .",0,Example
+436,"in the next step, we add area 3.",0,Example
+437,d addmetric #third.,0,Example
+438,rtsunburstbuilderexamples new installtitle basic15,0,Example
+439,edge lineshape edgefrom e1 to e2.,0,Example
+440,example brexamplesshowroom #glamoroustoolbar,0,Example
+441,doclist path wrongdirectory limit 3 sort date templates # templates docarticle^mustache templates template^mustache should raise an error,0,Example
+442,b layout tree.,0,Example
+443,it can be done by sending method bllineshape #injectlineat length to the topedge .,0,Example
+444,model.,0,Example
+445,label astring .,0,Example
+446,two circle enclosure is also a special case and can be derived directly by method gtgraphcircleenclosure class #enclosure and,0,Example
+447,context fca with data using #first using #last.,0,Example
+448,tab values do ar value,0,Example
+449,data # # #cat # #fourlegs #hair # #dog # #smart #fourlegs #hair # #dolphin # #smart #marine # #gibbon # #hair #smart #thumbed # #man # #smart #thumbed # #whale # #smart #marine .,0,Example
+450,edges add rtdecoratedline new color color blue width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,Example
+451,errors orderedcollection new.,0,Example
+452,rtcalendarexample new installtitle visualizationcsv,0,Example
+453,translateto 0 @ 0,0,Example
+454,"for example, a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html.",0,Example
+455,e3 translateby 40 @ 25.,0,Example
+456,an enclosure of a single circle is a special case and can be computed directly by method gtgraphcircleenclosure class #enclosure .,0,Example
+457,xac,0,Example
+458,the aspect ratio of this first rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep label #worstvaluerounded .,0,Example
+459,this method will return an output.,0,Example
+460,"where funblock is the implementation of g x , g0 g 0 , dg0 g 0 and g1 g 0 .",0,Example
+461,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep label #worstvaluerounded .,0,Example
+462,v add rtbox new width 10 height 20 element.,0,Example
+463,b nodes collection withallsubclasses .,0,Example
+464,b datelayout gapsize 0.,0,Example
+465,examples errors,0,Example
+466,iconified toggle,0,Example
+467,example brtexteditorexamples #editor text,0,Example
+468,"for instance if in your visualization rtview, you have elements that have visualizalitations you can use it to explore it in a web browser",0,Example
+469,labelforselector asymbol,0,Example
+470,it imports all png files and creates class methods with the same name.,0,Example
+471,https github^com syrel sparta raw master images spartacanvas 05 blur^png label blur,0,Example
+472,file argouml 034^mse asfilereference readstream.,0,Example
+473,"first, on the class side, you should have a method .",0,Example
+474,lineshape rtbezier3line new.,0,Example
+475,example brexamplesshowroom #materiallabeltoggle,0,Example
+476,draw.,0,Example
+477,afamixmethod querylocal #out with famixaccess.,0,Example
+478,configuration self configuration,0,Example
+479,you can obtain the same doing,0,Example
+480,infiniteelement datasource,0,Example
+481,b dateshape if d dictionary includeskey d color,0,Example
+482,registry,0,Example
+483,model moosemodel root allmodels second.,0,Example
+484,b view elements @ rthighlightablewithcursor.,0,Example
+485,this is achieved through mooseentitystate.,0,Example
+486,g famixgenerator new.,0,Example
+487,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod as source,0,Example
+488,picker .,0,Example
+489,b attributeshape color color black.,0,Example
+490,lineto 200@200,0,Example
+491,algorithm explanation,0,Example
+492,type blue,0,Example
+493,v add e.,0,Example
+494,example brexamplesshowroom #materialtoggle,0,Example
+495,e3 s elementon middle .,0,Example
+496,"the initial subdivision we choose here is vertical, because the rectangle is higher than wider.",0,Example
+497,package yourpackage,0,Example
+498,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword .,0,Example
+499,gt icons asfilereference,0,Example
+500,comp add rtlabel new text d d year height 20 .,0,Example
+501,ds y cls cls numberofmethods 50 .,0,Example
+502,breaklines,0,Example
+503,meta descriptions,0,Example
+504,labelledformdialogexample subclass of walabelledformdialog instance methods,0,Example
+505,b shape box size #numberofmethods.,0,Example
+506,usage,0,Example
+507,famixjavaentity withallsubclasses collect c,0,Example
+508,example blchildrenorderedcollectionexamples #remove,0,Example
+509,time 1 asduration,0,Example
+510,^ b view,0,Example
+511,example blrectangleshapewitharrowexplanation #elementwithtoparrowgeometry nocode previewshow gtlivefor previewheight 250,0,Example
+512,treillis mallattice on malformalcontext classhierarchycollection .,0,Example
+513,example blrectangleshapewitharrowexplanation #rectanglewithtoparrow previewshow #gtlivefor previewexpanded true previewheight 250,0,Example
+514,"starting with four circles, an enclosure should be computed recursively by building and updating a basis enclosure consisting of one to three circles method gtgraphcircleenclosure class #enclosureall .",0,Example
+515,i am a valid release strategy only when all monticello baselines that load this project use the same tag to load it.,0,Example
+516,override the buttons method to change the text or number of submit buttons on the form.,0,Example
+517,"using this mechanism, a package can extend an entity to add more state.",0,Example
+518,how to run,0,Example
+519,iftrue builder build .,0,Example
+520,then i execute those methods with the example as a receiver and the pragma arguments.,0,Example
+521,"next we add a second rectangle, above the first.",0,Example
+522,push,0,Example
+523,child parent,0,Example
+524,size 100,0,Example
+525,examples,0,Example
+526,datalist id browsers,0,Example
+527,example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep previewexpanded true nocode,0,Example
+528,e2 rtellipse new size 50 elementon 2.,0,Example
+529,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep previewexpanded true nocode,0,Example
+530,child blelement new.,0,Example
+531,g generatewithoutcleaning.,0,Example
+532,example brexamplesshowroom #materialtoolbar,0,Example
+533,"the following glamorous button reacts to various ui interaction events and changes its style according the state pressed, hovered",0,Example
+534,contact contact new.,0,Example
+535,e1 @ rtdraggable.,0,Example
+536,self rendersearchresulton acanvas.,0,Example
+537,we are almost ready to create a rectangular arrow.,0,Example
+538,tabs,0,Example
+539,yourentity yourextendingattribute,0,Example
+540,b classnameshape color color black.,0,Example
+541,example blrectangleshapewitharrowexplanation #rectanglewithtranslatedtopedge previewshow #gtlivefor previewexpanded true previewheight 250,0,Example
+542,b object v.,0,Example
+543,label measurement,0,Example
+544,in the example below we show all existing button styles,0,Example
+545,mallattice new viewlattice treillis .,0,Example
+546,a similar measurement strategy which is designed to be used in a text editor computes the width of the element using the #advance property of a text paragraph.,0,Example
+547,apply translation to place trangle in the center,0,Example
+548,afamixclass queryall #in.,0,Example
+549,afamixmethod queryall #out.,0,Example
+550,v addelement rtbox element.,0,Example
+551,time dateandtime now time.,0,Example
+552,"note, that the added circle has a margin set which is taken into account by enclosure",0,Example
+553,next step on our way to the arrow is to inject a line segment equal to the length of the arrow in the middle of the topedge .,0,Example
+554,self addmessage please enter the followning information .,0,Example
+555,moveto 100@0,0,Example
+556,package famix traits method,0,Example
+557,entities should also be meta described in terms of fame.,0,Example
+558,in order to give the arrow pointing up enough space we should move the top edge of the rectangle down by the length of the arrow.,0,Example
+559,toolbar,0,Example
+560,so we reject the previous step and start to fill the right top partition,0,Example
+561,80@140,0,Example
+562,b view elements select e e model iskindof month pushfront.,0,Example
+563,"by having an explicit object for each operation, the composition of operations can be inspected.",0,Example
+564,time dateandtime now.,0,Example
+565,afamixmethod queryalllocal #out.,0,Example
+566,how to,0,Example
+567,msecomment this is an attribute extended in a different package,0,Example
+568,b normalizer normalizecolor #numberofmethods.,0,Example
+569,the width is given by the exact bounds of the element s text.,0,Example
+570,example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep previewexpanded true nocode,0,Example
+571,acanvas flush.,0,Example
+572,b methodshape color color black.,0,Example
+573,moving the top of the triangle,0,Example
+574,builder iskindof rtbuilder,0,Example
+575,how to create base64 string,0,Example
+576,example bltextelementmeasurementstrategyexamples #textelementwithtightmeasurement nocode previewshow #gtlivefor previewheight 75,0,Example
+577,afamixclass queryalllocal #in.,0,Example
+578,here another example,0,Example
+579,mallatticepatterns on treillis reportpatterns.,0,Example
+580,tab removefirstrow.,0,Example
+581,b rtgrapher new.,0,Example
+582,rtexperimentalexample new installtitle boxselectionforedges,0,Example
+583,^ self privatestate attributeat #yourextendingattribute,0,Example
+584,edges do each each update .,0,Example
+585,model silentlyaddall repo elements.,0,Example
+586,example gtgraphtreemaplayoutexamples #squarifywithfournodesfirstarea nocode,0,Example
+587,noted astring,0,Example
+588,2 click one any cell to give it a focus blue border should appear,0,Example
+589,afamixmethod query #out with famixaccess.,0,Example
+590,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep previewexpanded true nocode,0,Example
+591,"normal distribution 0, 1",0,Example
+592,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true .,0,Example
+593,first of all we should ask the rectangle shape to give us its top edge method blrectangleshape #topedge .,0,Example
+594,canvas fill,0,Example
+595,printer fmmseprinter onstring.,0,Example
+596,g value # 3 2 .,0,Example
+597,since we want to inject a line right in the middle of the edge we pass 05 as a line location,0,Example
+598,x^^^^^a..,0,Example
+599,# 2 1,0,Example
+600,b view @ filter.,0,Example
+601,b interaction showedge,0,Example
+602,option value firefox,0,Example
+603,ds x cls cls numberoflinesofcode 150 .,0,Example
+604,self searchresultsdo aresult,0,Example
+605,b dates year year 1990 to year year 2010 .,0,Example
+606,"eg,",0,Example
+607,"and finally, build everything together",0,Example
+608,the area will be subdivided as follows,0,Example
+609,restore transformation matrix,0,Example
+610,b layout grid.,0,Example
+611,self answer,0,Example
+612,example gtgraphcircleenclosureexamples #enclosurewithfourcircles previewshow #gtpreviewfor previewexpanded previewheight 300,0,Example
+613,3 navigate with keyboard arrows arrow up down left right,0,Example
+614,edges add rtdecoratedline new filleddiamondhead color color green width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,Example
+615,doclist path blogs limit 3 sort date templates # templates docarticle^mustache templates template^mustache,0,Example
+616,blchicken open,0,Example
+617,180@150.,0,Example
+618,on error do errors add met,0,Example
+619,example brexamplesshowroom #glamorousdisabledbutton,0,Example
+620,datalist together with the a new list attribute for input is used to make comboboxes,0,Example
+621,b shape circle size 10.,0,Example
+622,d points classes.,0,Example
+623,given a point 20@30 as a domain object and euclidian coordinate system.,0,Example
+624,v add e1 add e2.,0,Example
+625,fca model treillis context,0,Example
+626,b dateinteraction popup.,0,Example
+627,filter spawnblock el rtview new addall el copy yourself .,0,Example
+628,a^^^^b,0,Example
