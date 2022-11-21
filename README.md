@@ -7,7 +7,7 @@ Participants of the competition must use the provided data to train/test their c
 ## Contents of this package
 ---
 - [NLBSE'23 Tool Competition: Code Comment Classification](#NLBSE-code-comment-classification)
-  - [## Contents of this package](#-content-of-the-replication-package)
+  - [Contents of this package](#-content-of-the-replication-package)
   - [Folder strcuture](#folder-strucutre)
     - [db.sqlite](#db.sqlite)
     - [Java](#java)
