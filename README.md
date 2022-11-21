@@ -1,10 +1,13 @@
-## NLBSE-code-comment-classification: 
-This repository contains all the required data for the baseline of the code comment classification competition. 
+## NLBSE'23 Tool Competition: Code Comment Classification
 
-## Content of the Replication Package
+This repository contains the data and results for the baseline classifiers the [NLBSE’23 tool competition](https://nlbse2023.github.io/tools/) on code comment classification.
+
+Participants of the competition must use the provided data to train/test their classifiers, which should outperform the baselines.
+
+## Contents of this package
 ---
-- [NLBSE-code-comment-classification](#NLBSE-code-comment-classification)
-  - [## Content of the Replication Package](#-content-of-the-replication-package)
+- [NLBSE'23 Tool Competition: Code Comment Classification](#NLBSE-code-comment-classification)
+  - [## Contents of this package](#-content-of-the-replication-package)
   - [Folder strcuture](#folder-strucutre)
     - [db.sqlite](#db.sqlite)
     - [Java](#java)
