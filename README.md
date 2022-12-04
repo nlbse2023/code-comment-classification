@@ -4,12 +4,13 @@ This repository contains the data and results for the baseline classifiers the [
 
 Participants of the competition must use the provided data to train/test their classifiers, which should outperform the baselines.
 
+Details on how to participate in the competition are found [here](https://colab.research.google.com/drive/1cW8iUPY9rTjZdXnGYtJ4ARBSISyKieWt#scrollTo=7ITz0v7mv4jV)
+
 ## Contents of this package
 ---
 - [NLBSE'23 Tool Competition: Code Comment Classification](#NLBSE-code-comment-classification)
   - [Contents of this package](#-content-of-the-replication-package)
-  - [Folder strcuture](#folder-strucutre)
-    - [db.sqlite](#db.sqlite)
+  - [Folder strcuture](#folder-structure)
     - [Java](#java)
     - [Pharo/](#pharo)
     - [Python/](python)
@@ -18,13 +19,13 @@ Participants of the competition must use the provided data to train/test their c
   - [Model Features](#model-features)
   - [Results](#results)
 
-## Folder strcuture:
+## Folder structure:
 - ### db.sqlite: contains data in SQLite format.
 - ### Java/
-    - classifiers:  We have trained RandomForest classifiers (also provided in the folder) on the selected categories. 
+    - classifiers:  We have trained Random Forest classifiers (also provided in the folder) on the selected sentence categories. 
     - input: The input files (training and testing split) of the categories of our interest is provided in the input folder. The folder contains, raw,  preprocessed, and partitioned files for all categories as well.
-    - results: The results contain the CSV file output of each classifier for each selected category.
-    - weka-arff: readymade input files for WEKA. 
+    - results: The results contain a CSV file with the classification results of each classifier for each category.
+    - weka-arff: readymade input files for WEKA, with TF_IDF and NLP features extracted from the sentences (more information below). 
 - ### Pharo/- same structure as Java.
 - ### Python/ - same structure as Java.
 
