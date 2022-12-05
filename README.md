@@ -122,8 +122,4 @@ We extracted the class comments from selected projects.
 <!---
 ## Baseline Results
 
-**Note**: the baseline results in these files are currently outdated. We will update the baseline results soon.
-
-`0-0-summary-tfidf-heuristic-randomforest-outputs.csv’ - The CSV output file stores the results for a particular category  “summary” with a feature set of “tfidf-heauristic” on a classifier “randomforest”. 
-The results contain a confusion matrix of true positive (tp), false positive (fp), true negative (tn), and false negative (fn). We also have weighted precision (w\_pr), weighted recall (w\_re), and weighted f-measure (w\_f_measure). 
--->
+**Note**: the baseline results will be uploaded soon.
