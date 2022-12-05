@@ -15,6 +15,7 @@ Details on how to participate in the competition are found [here](https://colab.
 - [Dataset Preparation](#dataset-preparation)
 - [Software Projects](#software-projects)
 - [Baseline Model Features](#baseline-model-features)
+- [Baseline Model Results](#baseline-model-results)
 
 ## Folder structure
 - ### Java
@@ -115,11 +116,9 @@ We extracted the class comments from selected projects.
     - Requests: The version of the project referred to extract class comments is available as [Raw Dataset](https://doi.org/10.5281/zenodo.4311839) on Zenodo. More detail about the project is available on GitHub [Requests](https://github.com/psf/requests/)
 
 ## Baseline Model Features
-`0-0-<category>-<Feature-Set>.arff`       - ARFF format of the input file for a classifier for a "category" with the set of "feature". The feature set are TEXT (tfidf), NLP (heuristic). For example:   
- - [0-0-summary-tfidf-heuristic.arff](/Java/weka-arff/data/0-0-summary-tfidf-heuristic.arff) input training file for a classifier for the summary category with the TEXT (tfidf) features and the NLP (heuristic) features.
-- [1-0-summary-tfidf-heuristic.arff](/Java/weka-arff/data/1-0-summary-tfidf-heuristic.arff)  - input testing file for a classifier for the summary category with the TEXT (tfidf) features and the NLP (heuristic) features.
 
-<!---
+**Note**: the feature set used for the classification will be uploaded soon.
+
 ## Baseline Results
 
 **Note**: the baseline results will be uploaded soon.
