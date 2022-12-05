@@ -30,7 +30,7 @@ def get_statistics(dataset_path: str, stats_filename: str, remove_weighted: bool
     for idx, language in enumerate(languages):
         result_path = os.path.join(os.path.join(dataset_path, language), "results")
         for category in categories[idx]:
-            new_res = {"precision": [], "recall": [], "f1": []}
+            new_res = {"true_positive": [], "false_positive": [], "true_negative": [], "false_negative": [], "precision": [], "recall": [], "f1": []}
             # Get results from CSV
             csv_path_result = os.path.join(result_path, category)
             csv_weighted_filename = os.path.join(csv_path_result, "0-0-{}-tfidf-heuristic-randomforest-outputs.csv".format(category))
@@ -53,6 +53,10 @@ def get_statistics(dataset_path: str, stats_filename: str, remove_weighted: bool
             stats["weighted_f1"].append(test_metrics["w_f_measure"])
 
             # Save non-weighted metrics
+            new_res["true_positive"].append(test_metrics["tp"])
+            new_res["false_positive"].append(test_metrics["fp"])
+            new_res["true_negative"].append(test_metrics["tn"])
+            new_res["false_negative"].append(test_metrics["fn"])
             new_res["precision"].append(precision)
             new_res["recall"].append(recall)
             new_res["f1"].append(f1)
