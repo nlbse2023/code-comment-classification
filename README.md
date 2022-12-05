@@ -64,7 +64,7 @@ We provide a CSV file for each programming language (in the `input` folder) wher
 
 - **Classification**. We used Weka to classify the comment sentences into each category using the Random Forest model (the baseline).
 
-- *Evaluation*. We evaluated our baseline models (i.e., for each category) using standard evaluation metrics, precision, recall, and F1-score. 
+- **Evaluation**. We evaluated our baseline models (i.e., for each category) using standard evaluation metrics, precision, recall, and F1-score. 
 
 ## Software Projects
 We extracted the class comments from selected projects.
