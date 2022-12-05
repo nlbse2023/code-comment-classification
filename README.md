@@ -18,11 +18,11 @@ Details on how to participate in the competition are found [here](https://colab.
 
 ## Folder structure
 - ### Java
-    - `classifiers`:  We have trained Random Forest classifiers (also provided in the folder) on the selected sentence categories. 
     - `input`: The CSV files of the sentences for each category (within a training and testing split). **These are are the main files used for classification**. See the format of these files below.
-    - `results`: The results contain a CSV file with the classification results of each classifier for each category.
-    - `weka-arff`: ready-made input files for WEKA, with TF_IDF and NLP features extracted from the sentences (more information below). 
     - `project_classes`: CSV files with the list of classes for each software project and corresponding code comments.
+    - `classifiers`:  Classifiers trained for each category (will be available soon). 
+    - `results`: The results corresponding to each category (will be available soon).
+
 - ### Pharo
   Same structure as Java.
 - ### Python 
