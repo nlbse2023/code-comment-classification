@@ -1,0 +1,2 @@
+true_positive,false_positive,true_negative,false_negative,precision,recall,f1
+34.0,63.0,297.0,93.0,0.35051546391752575,0.2677165354330709,0.30357142857142855
