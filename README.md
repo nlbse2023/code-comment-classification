@@ -15,15 +15,15 @@ Details on how to participate in the competition are found [here](https://colab.
 - [Dataset Preparation](#dataset-preparation)
 - [Software Projects](#software-projects)
 - [Baseline Model Features](#baseline-model-features)
-- [Baseline Model Results](#baseline-model-results)
+- [Baseline Results](#baseline-results)
 
 ## Folder structure
 - ### Java
+    - `classifiers`:  We have trained Random Forest classifiers (also provided in the folder) on the selected sentence categories. 
     - `input`: The CSV files of the sentences for each category (within a training and testing split). **These are are the main files used for classification**. See the format of these files below.
+    - `results`: The results contain a CSV file with the classification results of the baseline classifier for each category.
+    - `weka-arff`: ready-made input files for WEKA, with TF_IDF and NLP features extracted from the sentences (more information below). 
     - `project_classes`: CSV files with the list of classes for each software project and corresponding code comments.
-    - `classifiers`:  Classifiers trained for each category (will be available soon). 
-    - `results`: The results corresponding to each category (will be available soon).
-
 - ### Pharo
   Same structure as Java.
 - ### Python 
@@ -117,8 +117,14 @@ We extracted the class comments from selected projects.
 
 ## Baseline Model Features
 
-**Note**: the feature set used for the classification will be uploaded soon.
+`0-0-<category>-<Feature-Set>.arff`       - ARFF format of the input file for a classifier for a "category" with the set of "feature". The feature set are TEXT (tfidf), NLP (heuristic). For example:   
+ - [0-0-summary-tfidf-heuristic.arff](/Java/weka-arff/data/0-0-summary-tfidf-heuristic.arff) input training file for a classifier for the summary category with the TEXT (tfidf) features and the NLP (heuristic) features.
+- [1-0-summary-tfidf-heuristic.arff](/Java/weka-arff/data/1-0-summary-tfidf-heuristic.arff)  - input testing file for a classifier for the summary category with the TEXT (tfidf) features and the NLP (heuristic) features.
 
 ## Baseline Results
 
-**Note**: the baseline results will be uploaded soon.
+The summary of the baseline results are found in `baseline_results_summary.xlsx`.
+
+In the `results` directory of each language, you will find CSV files named as `0-0-summary-tfidf-heuristic-randomforest-outputs.csv`. Each CSV output file stores the results for a particular category  (“summary”).
+
+The results contain a confusion matrix of true positive (tp), false positive (fp), true negative (tn), and false negative (fn). From these, precision, recall, and f-measure can be computed. We also have weighted precision (w\_pr), weighted recall (w\_re), and weighted f-measure (w\_f_measure), as calculated by Weka. 
