@@ -118,13 +118,13 @@ We extracted the class comments from selected projects.
 ## Baseline Model Features
 
 `0-0-<category>-<Feature-Set>.arff`       - ARFF format of the input file for a classifier for a "category" with the set of "feature". The feature set are TEXT (tfidf), NLP (heuristic). For example:   
- - [0-0-summary-tfidf-heuristic.arff](/Java/weka-arff/data/0-0-summary-tfidf-heuristic.arff) input training file for a classifier for the summary category with the TEXT (tfidf) features and the NLP (heuristic) features.
-- [1-0-summary-tfidf-heuristic.arff](/Java/weka-arff/data/1-0-summary-tfidf-heuristic.arff)  - input testing file for a classifier for the summary category with the TEXT (tfidf) features and the NLP (heuristic) features.
+ - [0-0-summary-tfidf-heuristic.arff](/java/weka-arff/training/0-0-summary-tfidf-heuristic.arff) input training file for a classifier for the summary category with the TEXT (tfidf) features and the NLP (heuristic) features.
+- [1-0-summary-tfidf-heuristic.arff](/java/weka-arff/testing/1-0-summary-tfidf-heuristic.arff)  - input testing file for a classifier for the summary category with the TEXT (tfidf) features and the NLP (heuristic) features.
 
 ## Baseline Results
 
 The summary of the baseline results are found in `baseline_results_summary.xlsx`.
 
-In the `results` directory of each language, you will find CSV files named as `0-0-summary-tfidf-heuristic-randomforest-outputs.csv`. Each CSV output file stores the results for a particular category  (“summary”).
+In the `results` directory of each language, you will find CSV files named as `0-0-summary-tfidf-heuristic-randomforest-outputs.csv`. Each CSV output file stores the results for a particular category  (“summary” - see `summary` directory). The results contain a confusion matrix of true positive (tp), false positive (fp), true negative (tn), and false negative (fn) as well as weighted precision (w\_pr), weighted recall (w\_re), and weighted f-measure (w\_f_measure), as calculated by Weka. 
 
-The results contain a confusion matrix of true positive (tp), false positive (fp), true negative (tn), and false negative (fn). From these, precision, recall, and f-measure can be computed. We also have weighted precision (w\_pr), weighted recall (w\_re), and weighted f-measure (w\_f_measure), as calculated by Weka. 
+The CSV files named as `0-0-deprecation-tfidf-heuristic-randomforest-outputs-non-weighted.csv` contain the non-weighted precision, recall, and f-measure results for each category computed on the test set (which are the same results found in `baseline_results_summary.xlsx`).
